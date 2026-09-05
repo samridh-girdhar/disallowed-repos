@@ -431,3 +431,5 @@ repo,pierrec/lz4,reserved,2026-09-05T22:11:58Z,scope reservation
 repo,asticode/go-astits,reserved,2026-09-05T22:11:58Z,scope reservation
 repo,proj4js/proj4js,rejected,2026-09-05T22:13:06Z,"equivalent epoch-updated Helmert state and transforms are public in PROJ"
 repo,asticode/go-astits,rejected,2026-09-05T22:13:06Z,public fork materially overlaps multi-section PSI state handling
+repo,rust-minidump/rust-minidump,reserved,2026-09-05T22:16:24Z,"Investigating definitive end-of-stack propagation during CFI unwinding"
+concept,"Rust-minidump Breakpad CFI return-address termination rules distinguish a definitive call-stack end from unavailable unwind information, propagate that outcome through symbol parsing, Symbolizer frame walking, and architecture-specific unwind orchestration, and suppress scan and frame-pointer fallbacks only after a terminal rule while preserving ordinary recovery through public minidump processing",rust-minidump/rust-minidump,reserved,2026-09-05T22:16:24Z,"Honor explicit CFI call-stack termination"
