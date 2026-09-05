@@ -440,3 +440,4 @@ repo,rust-minidump/rust-minidump,rejected,2026-09-05T22:19:46Z,"Existing express
 concept,"Rust-minidump Breakpad CFI return-address termination rules distinguish a definitive call-stack end from unavailable unwind information, propagate that outcome through symbol parsing, Symbolizer frame walking, and architecture-specific unwind orchestration, and suppress scan and frame-pointer fallbacks only after a terminal rule while preserving ordinary recovery through public minidump processing",rust-minidump/rust-minidump,rejected,2026-09-05T22:19:46Z,"Natural complete implementation is substantially below the required production footprint"
 repo,vega/ts-json-schema-generator,reserved,2026-09-05T22:20:25Z,scope reservation
 repo,vega/ts-json-schema-generator,rejected,2026-09-05T22:21:04Z,open issue 1859 already requests template-literal pattern properties
+repo,RoaringBitmap/RoaringBitmap,reserved,2026-09-05T22:20:37Z,"investigating mixed bitmap backing set operations"
