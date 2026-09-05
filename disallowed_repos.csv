@@ -420,3 +420,5 @@ repo,sharkdp/numbat,rejected,2026-09-05T22:05:28Z,listed logarithmic-unit scope 
 repo,textX/textX,reserved,2026-09-05T22:05:50Z,scope reservation
 repo,graphhopper/jsprit,reserved,2026-09-05T22:08:04Z,scope reservation
 repo,jhillyerd/enmime,rejected,2026-09-05T22:09:52Z,natural complete fix falls below the required production footprint
+repo,bokuweb/docx-rs,rejected,2026-09-05T22:10:39Z,"canonical tests write fixed source-tree outputs; exact public normalization analogue; remaining fix below line floor"
+concept,"Docx-rs comment package round-trips keep comments.xml bodies and commentsExtended.xml parent and resolved metadata coherent when build-time paragraph-ID normalization replaces duplicate IDs, preserving the same reply graph and resolved state through Docx::pack, read_docx, and JSON across model, traversal, and OPC package layers",bokuweb/docx-rs,rejected,2026-09-05T22:10:39Z,"Docxodus implements equivalent thread-preserving normalization and the remaining fix is below the line floor"
