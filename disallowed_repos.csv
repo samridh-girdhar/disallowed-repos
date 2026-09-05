@@ -464,3 +464,4 @@ repo,timbray/quamina,rejected,2026-09-05T22:30:44Z,"aws event-ruler already impl
 repo,quietvoid/dovi_tool,reserved,2026-09-05T22:32:43Z,scope reservation
 repo,productdevbook/hucre,reserved,2026-09-05T22:33:38Z,scope reservation
 concept,"Hucre copySheetToWorkbook transfers a worksheet's pivot-table, pivot-cache, slicer, and timeline dependency closure into the destination workbook, remaps colliding workbook identities atomically, and rejects unsupported raw dependencies without mutating either workbook through sheet operations, workbook models, reference handling, and XLSX serialization layers",productdevbook/hucre,reserved,2026-09-05T22:33:38Z,"Preserve analytical dependencies when copying worksheets"
+repo,wokwi/avr8js,completed,2026-09-05T22:34:39Z,"ATmega328P peripheral power-reduction clock domains"
