@@ -394,3 +394,5 @@ repo,Borewit/music-metadata,rejected,2026-09-05T21:53:27Z,canonical tests write 
 repo,skjolber/3d-bin-container-packing,rejected,2026-09-05T21:54:13Z,load constraints require a large active branch while the narrow public defect is derivative and below the line floor
 repo,Eyevinn/mp4ff,rejected,2026-09-05T21:56:28Z,"Materially equivalent seig sample-group key rotation exists in Chromium and OxideAV"
 concept,"Eyevinn mp4ff fragmented Common Encryption decryption resolves per-sample seig SampleGroupDescription entries through sbgp run mappings before tenc defaults, honoring clear and encrypted transitions, KID, IV or constant-IV selection, and crypt/skip patterns through Decode, ParseSenc, DecryptFragmentWithKeys, and DecryptSegmentWithKeys across box, fragment, and crypto layers",Eyevinn/mp4ff,rejected,2026-09-05T21:56:28Z,"Materially equivalent seig sample-group key rotation exists in Chromium and OxideAV"
+repo,mozman/ezdxf,reserved,2026-09-05T21:56:15Z,scope reservation
+repo,ical4j/ical4j,reserved,2026-09-05T21:56:15Z,scope reservation
