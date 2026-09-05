@@ -362,3 +362,5 @@ concept,"Mido Standard MIDI File SMPTE time divisions round-trip their signed fr
 repo,gpac/mp4box.js,reserved,2026-09-05T21:41:15Z,scope reservation
 repo,mfontanini/presenterm,rejected,2026-09-05T21:41:32Z,"canonical tests rely on a fixed UDP endpoint and timed sleep"
 repo,pymodbus-dev/pymodbus,reserved,2026-09-05T21:42:58Z,scope reservation
+repo,suyashkumar/dicom,reserved,2026-09-05T21:41:23Z,"Investigating nested character-set inheritance"
+concept,"DICOM nested Sequence item text transcoding inherits the enclosing Dataset's Specific Character Set until an item-local declaration replaces or resets it, scopes ISO 2022 decoding state to each value and sibling, and round-trips identical Unicode values through Parse, Dataset element access, and Write across parser, charset, model, and serializer layers",suyashkumar/dicom,reserved,2026-09-05T21:41:23Z,"Honor nested DICOM character-set inheritance"
