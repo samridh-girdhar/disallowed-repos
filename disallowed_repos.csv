@@ -361,3 +361,4 @@ repo,mido/mido,reserved,2026-09-05T21:41:10Z,scope reservation
 concept,"Mido Standard MIDI File SMPTE time divisions round-trip their signed frame-rate and ticks-per-frame header representation and drive tempo-independent timing through public file iteration, length, playback, and conversion entry points across header, track-timing, and API layers",mido/mido,reserved,2026-09-05T21:41:10Z,"Support SMPTE-timed MIDI files"
 repo,gpac/mp4box.js,reserved,2026-09-05T21:41:15Z,scope reservation
 repo,mfontanini/presenterm,rejected,2026-09-05T21:41:32Z,"canonical tests rely on a fixed UDP endpoint and timed sleep"
+repo,pymodbus-dev/pymodbus,reserved,2026-09-05T21:42:58Z,scope reservation
