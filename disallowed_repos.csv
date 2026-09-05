@@ -405,3 +405,4 @@ repo,mozman/ezdxf,rejected,2026-09-05T21:59:30Z,no committed dependency lock for
 repo,zaeleus/noodles,reserved,2026-09-05T21:59:32Z,"investigating BCF header index mapping"
 repo,linebender/parley,reserved,2026-09-05T22:01:18Z,scope reservation
 repo,sharkdp/numbat,reserved,2026-09-05T22:01:50Z,scope reservation
+repo,zaeleus/noodles,rejected,2026-09-05T22:02:09Z,"no committed dependency lock for reproducible offline development setup"
