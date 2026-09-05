@@ -368,3 +368,5 @@ repo,wokwi/avr8js,reserved,2026-09-05T21:44:03Z,"scope reservation"
 repo,gpac/mp4box.js,rejected,2026-09-05T21:44:06Z,"canonical tests require runtime fixture downloads and checkout cache setup"
 repo,protomaps/go-pmtiles,reserved,2026-09-05T21:44:03Z,scope reservation
 repo,asticode/go-astisub,rejected,2026-09-05T21:45:20Z,material candidate scopes already present in public history
+repo,mido/mido,rejected,2026-09-05T21:44:26Z,idiomatic implementation falls below production line and file footprint requirements
+concept,"Mido Standard MIDI File SMPTE time divisions round-trip their signed frame-rate and ticks-per-frame header representation and drive tempo-independent timing through public file iteration, length, playback, and conversion entry points across header, track-timing, and API layers",mido/mido,rejected,2026-09-05T21:44:26Z,"Natural solution is substantially below the required production footprint"
