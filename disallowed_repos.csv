@@ -415,3 +415,4 @@ concept,"Diskfs ISO9660 Rock Ridge SF files round-trip their virtual size and hi
 repo,proj4js/proj4js,reserved,2026-09-05T22:05:16Z,"investigating epoch-aware Helmert transforms"
 repo,bokuweb/docx-rs,reserved,2026-09-05T22:05:25Z,scope reservation
 concept,"Docx-rs comment package round-trips keep comments.xml bodies and commentsExtended.xml parent and resolved metadata coherent when build-time paragraph-ID normalization replaces duplicate IDs, preserving the same reply graph and resolved state through Docx::pack, read_docx, and JSON across model, traversal, and OPC package layers",bokuweb/docx-rs,reserved,2026-09-05T22:05:25Z,"Preserve threaded comments through paragraph ID normalization"
+repo,wneessen/go-mail,rejected,2026-09-05T22:06:12Z,natural original fixes fall below the required production footprint
