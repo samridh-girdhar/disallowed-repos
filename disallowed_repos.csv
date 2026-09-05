@@ -418,3 +418,4 @@ concept,"Docx-rs comment package round-trips keep comments.xml bodies and commen
 repo,wneessen/go-mail,rejected,2026-09-05T22:06:12Z,natural original fixes fall below the required production footprint
 repo,sharkdp/numbat,rejected,2026-09-05T22:05:28Z,listed logarithmic-unit scope has close public prior art and unsuitable implementation size
 repo,textX/textX,reserved,2026-09-05T22:05:50Z,scope reservation
+repo,graphhopper/jsprit,reserved,2026-09-05T22:08:04Z,scope reservation
