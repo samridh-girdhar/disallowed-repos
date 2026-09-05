@@ -517,3 +517,4 @@ concept,"Demoparser resolves Source 2 entity handles in public tick properties a
 repo,omerbenamram/evtx,rejected,2026-09-05T23:12:25Z,"public tailing issue already frames reused chunk traversal and the canonical suite depends on large provider fixtures"
 repo,afnanenayet/diffsitter,reserved,2026-09-05T23:13:27Z,"scope reservation"
 concept,"Diffsitter classifies textual edits omitted by its AST leaf edit script as non-semantic hunks, using matched syntax spans to partition additions and deletions without overlap or gaps, and exposes complementary semantic and non-semantic selection consistently through library diff data, unified and JSON renderers, and CLI",afnanenayet/diffsitter,reserved,2026-09-05T23:13:27Z,"Expose the non-semantic remainder of syntax-aware diffs"
+repo,amazon-ion/ion-java,reserved,2026-09-05T23:15:17Z,"scope reservation"
