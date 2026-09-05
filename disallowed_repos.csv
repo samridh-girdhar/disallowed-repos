@@ -430,3 +430,4 @@ concept,"Restic backups externalize oversized extended-attribute values as order
 repo,pierrec/lz4,reserved,2026-09-05T22:11:58Z,scope reservation
 repo,asticode/go-astits,reserved,2026-09-05T22:11:58Z,scope reservation
 repo,proj4js/proj4js,rejected,2026-09-05T22:13:06Z,"equivalent epoch-updated Helmert state and transforms are public in PROJ"
+repo,asticode/go-astits,rejected,2026-09-05T22:13:06Z,public fork materially overlaps multi-section PSI state handling
