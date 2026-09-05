@@ -527,3 +527,4 @@ concept,"Objdiff aligns data-section relocation spans as indivisible semantic at
 repo,hlorenzi/customasm,reserved,2026-09-05T23:20:56Z,"reserved for candidate-specific instruction end addresses in user-defined encodings"
 concept,"Customasm rule and subrule encoding expressions evaluate a candidate-specific logical end address after that candidate's emitted width, including non-byte bank address units, so PC-relative values and assertions select short or long encodings deterministically through forward-reference and cascading-rule convergence across expression, matcher, resolver, bank, and output layers",hlorenzi/customasm,reserved,2026-09-05T23:20:56Z,"Resolve candidate-end addresses in user-defined encodings"
 repo,bazel-contrib/buildtools,reserved,2026-09-05T23:23:05Z,"scope reservation"
+repo,gkjohnson/three-bvh-csg,reserved,2026-09-05T23:23:20Z,"scope reservation"
