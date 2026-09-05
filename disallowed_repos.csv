@@ -478,3 +478,5 @@ repo,pantor/ruckig,rejected,2026-09-05T22:38:57Z,"publicly testable trajectory q
 concept,"Ruckig trajectory state queries make first-position times and position extrema agree with at_time over the entire piecewise motion - braking prefix, seven-phase profile, and unsynchronized constant-acceleration tail - while interpreting filters and returned extrema times on the global trajectory clock across sections and degrees of freedom through Profile and Trajectory layers",pantor/ruckig,rejected,2026-09-05T22:38:57Z,"multi-section construction is unavailable through the offline public API and the remaining repair is below the file and line floors"
 repo,rustls/rcgen,rejected,2026-09-05T22:40:20Z,"smallest grouped distinguished-name repair is below the production file and line floors"
 repo,egraphs-good/egglog,reserved,2026-09-05T22:40:45Z,"scope reservation"
+repo,aspizu/goboscript,rejected,2026-09-05T22:41:20Z,"contribution policy excludes generated contributions"
+repo,unjs/unpdf,reserved,2026-09-05T22:41:20Z,"scope reservation"
