@@ -353,3 +353,4 @@ repo,emersion/go-imap,rejected,2026-09-05T21:34:14Z,"Public fork already ships a
 concept,"IMAP CATENATE APPEND construction streams ordered TEXT literals and URL-sourced message sections through the public v2 client and server entry points, advertises capability only for supporting sessions, and preserves atomic append failure behavior across protocol, command, and backend layers",emersion/go-imap,rejected,2026-09-05T21:34:14Z,"Central behavior and invariants match a public implementation"
 repo,yeslogic/allsorts,rejected,2026-09-05T21:37:08Z,materially equivalent format 14 implementations already public
 repo,collective/icalendar,rejected,2026-09-05T21:37:08Z,idiomatic scope falls below production line floor
+repo,Borewit/music-metadata,reserved,2026-09-05T21:38:28Z,scope reservation
