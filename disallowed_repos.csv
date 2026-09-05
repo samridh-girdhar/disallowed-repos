@@ -441,3 +441,4 @@ concept,"Rust-minidump Breakpad CFI return-address termination rules distinguish
 repo,vega/ts-json-schema-generator,reserved,2026-09-05T22:20:25Z,scope reservation
 repo,vega/ts-json-schema-generator,rejected,2026-09-05T22:21:04Z,open issue 1859 already requests template-literal pattern properties
 repo,RoaringBitmap/RoaringBitmap,reserved,2026-09-05T22:20:37Z,"investigating mixed bitmap backing set operations"
+repo,LibPDF-js/core,reserved,2026-09-05T22:22:10Z,scope reservation
