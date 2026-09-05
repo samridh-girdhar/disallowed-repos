@@ -409,3 +409,4 @@ repo,zaeleus/noodles,rejected,2026-09-05T22:02:09Z,"no committed dependency lock
 repo,ical4j/ical4j,rejected,2026-09-05T22:02:56Z,canonical suite requires an external container runtime and image
 repo,diskfs/go-diskfs,reserved,2026-09-05T22:03:53Z,scope reservation
 concept,"Diskfs ISO9660 Rock Ridge SF files round-trip their virtual size and hierarchical sparse index, returning zero-filled holes and stored regions correctly through sequential and random-access reads while finalization emits depth-minimal bounds-checked sparse layouts across SUSP decoding, file access, and image finalization layers",diskfs/go-diskfs,reserved,2026-09-05T22:03:53Z,"Support Rock Ridge sparse files"
+repo,mwilliamson/python-mammoth,rejected,2026-09-05T22:01:54Z,no committed dependency lock for reproducible offline development setup
