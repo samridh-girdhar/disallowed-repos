@@ -489,3 +489,5 @@ concept,"Hucre copySheetToWorkbook transfers a worksheet's pivot-table, pivot-ca
 repo,egraphs-good/egglog,rejected,2026-09-05T22:48:20Z,"recursive child extraction is already proposed upstream and the smallest complete implementation is below the production footprint floor"
 repo,unjs/unpdf,rejected,2026-09-05T22:49:31Z,"canonical tests write generated artifacts inside the foreign-owned source checkout"
 repo,cogeotiff/rio-tiler,reserved,2026-09-05T22:49:31Z,"scope reservation"
+repo,tdewolff/canvas,reserved,2026-09-05T22:49:43Z,"scope reservation"
+concept,"Canvas Context projective path drawing maps fills and source-space-expanded strokes and dashes through a validated planar homography, adaptively lowers rational line, quadratic, cubic, and arc segments without crossing the projective horizon, and preserves close and winding semantics through public matrix construction and Context drawing entry points across transform geometry, path processing, stroking, and rendering layers",tdewolff/canvas,reserved,2026-09-05T22:49:43Z,"Draw paths through projective transforms"
