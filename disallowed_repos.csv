@@ -351,3 +351,5 @@ repo,collective/icalendar,reserved,2026-09-05T21:25:47Z,scope reservation
 repo,mfontanini/presenterm,reserved,2026-09-05T21:28:44Z,work in progress
 repo,emersion/go-imap,rejected,2026-09-05T21:34:14Z,"Public fork already ships an equivalent CATENATE implementation"
 concept,"IMAP CATENATE APPEND construction streams ordered TEXT literals and URL-sourced message sections through the public v2 client and server entry points, advertises capability only for supporting sessions, and preserves atomic append failure behavior across protocol, command, and backend layers",emersion/go-imap,rejected,2026-09-05T21:34:14Z,"Central behavior and invariants match a public implementation"
+repo,yeslogic/allsorts,rejected,2026-09-05T21:37:08Z,materially equivalent format 14 implementations already public
+repo,collective/icalendar,rejected,2026-09-05T21:37:08Z,idiomatic scope falls below production line floor
