@@ -444,3 +444,5 @@ repo,RoaringBitmap/RoaringBitmap,reserved,2026-09-05T22:20:37Z,"investigating mi
 repo,LibPDF-js/core,reserved,2026-09-05T22:22:10Z,scope reservation
 repo,whscullin/apple2js,reserved,2026-09-05T22:22:53Z,scope reservation
 repo,aeron-io/simple-binary-encoding,reserved,2026-09-05T22:23:25Z,scope reservation
+repo,pantor/ruckig,reserved,2026-09-05T22:23:30Z,scope reservation
+concept,"Ruckig trajectory state queries make first-position times and position extrema agree with at_time over the entire piecewise motion - braking prefix, seven-phase profile, and unsynchronized constant-acceleration tail - while interpreting filters and returned extrema times on the global trajectory clock across sections and degrees of freedom through Profile and Trajectory layers",pantor/ruckig,reserved,2026-09-05T22:23:30Z,"Make trajectory queries cover complete piecewise motion"
