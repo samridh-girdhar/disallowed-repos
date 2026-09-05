@@ -383,3 +383,4 @@ concept,"Go-geom curved geometry composition adds CircularString and CompoundCur
 repo,pymodbus-dev/pymodbus,rejected,2026-09-05T21:50:54Z,canonical tests require source checkout writes and cwd-sensitive fixtures
 repo,pdfcpu/pdfcpu,reserved,2026-09-05T21:52:57Z,"Investigating preservation of AcroForm field hierarchies during page extraction"
 concept,"When pdfcpu ExtractPage or ExtractPages projects selected PDF pages into a new document, preserve the AcroForm field-tree closure for retained widget annotations including required ancestors, inherited field semantics, pruned Kids arrays, and reciprocal Parent references while excluding fields and widgets belonging only to unselected pages across page selection and object migration layers",pdfcpu/pdfcpu,reserved,2026-09-05T21:52:57Z,"Preserve AcroForm field trees when extracting pages"
+repo,wneessen/go-mail,reserved,2026-09-05T21:53:34Z,scope reservation
