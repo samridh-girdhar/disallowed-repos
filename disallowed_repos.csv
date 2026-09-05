@@ -462,3 +462,5 @@ repo,aeron-io/simple-binary-encoding,rejected,2026-09-05T22:28:28Z,"repository i
 repo,jotaen/klog,rejected,2026-09-05T22:30:44Z,"duplicate-date mutation fix has prior repository history and falls well below the production line floor"
 repo,timbray/quamina,rejected,2026-09-05T22:30:44Z,"aws event-ruler already implements array-consistent absent-field transitions"
 repo,quietvoid/dovi_tool,reserved,2026-09-05T22:32:43Z,scope reservation
+repo,productdevbook/hucre,reserved,2026-09-05T22:33:38Z,scope reservation
+concept,"Hucre copySheetToWorkbook transfers a worksheet's pivot-table, pivot-cache, slicer, and timeline dependency closure into the destination workbook, remaps colliding workbook identities atomically, and rejects unsupported raw dependencies without mutating either workbook through sheet operations, workbook models, reference handling, and XLSX serialization layers",productdevbook/hucre,reserved,2026-09-05T22:33:38Z,"Preserve analytical dependencies when copying worksheets"
