@@ -375,3 +375,4 @@ repo,Eyevinn/mp4ff,reserved,2026-09-05T21:46:36Z,scope reservation
 concept,"Eyevinn mp4ff fragmented Common Encryption decryption resolves per-sample seig SampleGroupDescription entries through sbgp run mappings before tenc defaults, honoring clear and encrypted transitions, KID, IV or constant-IV selection, and crypt/skip patterns through Decode, ParseSenc, DecryptFragmentWithKeys, and DecryptSegmentWithKeys across box, fragment, and crypto layers",Eyevinn/mp4ff,reserved,2026-09-05T21:46:36Z,"Honor seig key rotation during fragment decryption"
 repo,tafia/calamine,reserved,2026-09-05T21:47:26Z,scope reservation
 repo,haraldk/TwelveMonkeys,reserved,2026-09-05T21:48:00Z,scope reservation
+repo,tafia/calamine,rejected,2026-09-05T21:49:15Z,no committed dependency lock for reproducible offline build
