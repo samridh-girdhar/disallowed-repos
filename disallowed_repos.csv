@@ -514,3 +514,4 @@ concept,"Buildkite APC timestamp metadata attaches to surviving visible terminal
 repo,omerbenamram/evtx,reserved,2026-09-05T23:11:00Z,"scope reservation"
 repo,LaihoE/demoparser,rejected,2026-09-05T23:12:21Z,"canonical tests require an unpinned runtime clone and regenerate committed source inside the checkout"
 concept,"Demoparser resolves Source 2 entity handles in public tick properties and enriched game events only while the handle serial generation matches the live entity slot, invalidating inventory, active-weapon, pawn, and grenade-owner references across delete-and-recreate transitions through packet-entity decoding, entity state, property and event resolution, and bindings",LaihoE/demoparser,rejected,2026-09-05T23:12:21Z,"canonical build is network-dependent and source-mutating"
+repo,omerbenamram/evtx,rejected,2026-09-05T23:12:25Z,"public tailing issue already frames reused chunk traversal and the canonical suite depends on large provider fixtures"
