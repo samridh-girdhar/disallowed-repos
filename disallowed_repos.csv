@@ -386,3 +386,5 @@ concept,"When pdfcpu ExtractPage or ExtractPages projects selected PDF pages int
 repo,wneessen/go-mail,reserved,2026-09-05T21:53:34Z,scope reservation
 repo,haraldk/TwelveMonkeys,rejected,2026-09-05T21:53:50Z,"natural floating-point TIFF writer change falls below production footprint requirements"
 repo,protomaps/go-pmtiles,rejected,2026-09-05T21:53:45Z,core directory traversal has close public prior art
+repo,twpayne/go-geom,rejected,2026-09-05T21:54:41Z,"Only dependency tooling and example maintenance in the last year"
+concept,"Go-geom curved geometry composition adds CircularString and CompoundCurve values that enforce coordinate layout and connected segment endpoints, preserve exact component kinds and SRIDs through public WKT WKB and EWKB round trips, and participate in bounds and geometry collection dispatch across model and codec layers",twpayne/go-geom,rejected,2026-09-05T21:54:41Z,"Repository is maintenance-only and maintainer is no longer an active user"
