@@ -459,3 +459,5 @@ concept,"Pomsky compiler character-class lowering normalizes nested complement, 
 repo,pomsky-lang/pomsky,rejected,2026-09-05T22:28:06Z,"remaining normalization and diagnostic work is below the production line floor and the full suite requires several external runtimes"
 concept,"Pomsky compiler character-class lowering normalizes nested complement, union, intersection, ranges, and variables against the selected regex flavor alphabet so Rust targets reject every semantically empty negated group through public compiler diagnostics across library and CLI layers",pomsky-lang/pomsky,rejected,2026-09-05T22:28:06Z,"existing normalization leaves a substantially smaller implementation than required"
 repo,aeron-io/simple-binary-encoding,rejected,2026-09-05T22:28:28Z,"repository issue 27 already proposes old and new schema validation through IR and SbeTool"
+repo,jotaen/klog,rejected,2026-09-05T22:30:44Z,"duplicate-date mutation fix has prior repository history and falls well below the production line floor"
+repo,timbray/quamina,rejected,2026-09-05T22:30:44Z,"aws event-ruler already implements array-consistent absent-field transitions"
