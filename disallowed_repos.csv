@@ -571,3 +571,5 @@ concept,"Redscript @wrapMethod bodies require wrappedMethod() on every reachable
 repo,paulmach/orb,reserved,2026-09-05T23:56:22Z,"Investigating wrapped-world tile coverage at the antimeridian"
 repo,gkjohnson/three-mesh-bvh,reserved,2026-09-05T23:57:34Z,"scope reservation"
 concept,"Three Mesh BVH serialization and worker generation preserve the selected built-in GeometryBVH concrete type and its primitive stride, index interpretation, root buffers, indirect storage, and legacy MeshBVH payload compatibility, while rejecting worker-ineligible posed geometry before transfer across core hierarchy, serialized data, worker protocols, and TypeScript declarations",gkjohnson/three-mesh-bvh,reserved,2026-09-05T23:57:34Z,"Preserve GeometryBVH types through serialization and workers"
+repo,dinfuehr/dora,reserved,2026-09-05T23:58:33Z,"scope reservation"
+repo,smithy-lang/smithy,reserved,2026-09-05T23:58:33Z,"scope reservation"
