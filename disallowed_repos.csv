@@ -400,3 +400,4 @@ repo,mwilliamson/python-mammoth,reserved,2026-09-05T21:56:42Z,scope reservation
 repo,pydicom/pydicom,rejected,2026-09-05T21:57:03Z,"no committed dependency lock for reproducible offline development setup"
 concept,"DICOM JSON BulkDataURI values remain deferred through public Dataset JSON parsing and serialization, resolve at most once on binary value access, preserve URI identity through copying, pickling, and nested Sequences, and surface deterministic resolution failures at file-writing and pixel-data entry points across JSON, data element, dataset, writer, and pixel layers",pydicom/pydicom,rejected,2026-09-05T21:57:03Z,"no committed dependency lock for reproducible offline development setup"
 repo,mozman/ezdxf,rejected,2026-09-05T21:59:30Z,no committed dependency lock for reproducible offline development setup
+repo,zaeleus/noodles,reserved,2026-09-05T21:59:32Z,"investigating BCF header index mapping"
