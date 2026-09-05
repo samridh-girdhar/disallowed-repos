@@ -355,3 +355,5 @@ repo,yeslogic/allsorts,rejected,2026-09-05T21:37:08Z,materially equivalent forma
 repo,collective/icalendar,rejected,2026-09-05T21:37:08Z,idiomatic scope falls below production line floor
 repo,Borewit/music-metadata,reserved,2026-09-05T21:38:28Z,scope reservation
 repo,asticode/go-astisub,reserved,2026-09-05T21:39:05Z,scope reservation
+repo,scikit-rf/scikit-rf,reserved,2026-09-05T21:39:40Z,scope reservation
+concept,"Touchstone 2.x mixed-mode network round trips preserve ordered oriented differential and common port-pair topology, mode-specific reference impedances, and matrix ordering through public Network load, write, and port transformation entry points across parser, network model, topology transform, and writer layers",scikit-rf/scikit-rf,reserved,2026-09-05T21:39:40Z,"Mixed-mode Touchstone topology round-trip"
