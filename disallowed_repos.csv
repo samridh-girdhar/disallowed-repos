@@ -344,3 +344,4 @@ repo,cantools/cantools,reserved,2026-09-05T21:19:43Z,work in progress
 repo,tinytag/tinytag,rejected,2026-09-05T21:21:00Z,repository contribution policy incompatible
 repo,emersion/go-imap,reserved,2026-09-05T21:21:02Z,"Investigating IMAP CATENATE APPEND support"
 concept,"IMAP CATENATE APPEND construction streams ordered TEXT literals and URL-sourced message sections through the public v2 client and server entry points, advertises capability only for supporting sessions, and preserves atomic append failure behavior across protocol, command, and backend layers",emersion/go-imap,reserved,2026-09-05T21:21:02Z,"Support CATENATE APPEND composition"
+repo,jhillyerd/enmime,reserved,2026-09-05T21:22:17Z,scope reservation
