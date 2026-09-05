@@ -480,3 +480,5 @@ repo,rustls/rcgen,rejected,2026-09-05T22:40:20Z,"smallest grouped distinguished-
 repo,egraphs-good/egglog,reserved,2026-09-05T22:40:45Z,"scope reservation"
 repo,aspizu/goboscript,rejected,2026-09-05T22:41:20Z,"contribution policy excludes generated contributions"
 repo,unjs/unpdf,reserved,2026-09-05T22:41:20Z,"scope reservation"
+repo,mooman219/fontdue,rejected,2026-09-05T22:43:53Z,"exact embedded-bitmap extraction and pixel-format conversion exists in OxiText and the smallest dependency-based implementation is below the production footprint floor"
+concept,"Fontdue Font rasterization exposes feature-gated embedded OpenType bitmap glyph strikes from sbix, CBLC/CBDT, EBLC/EBDT, and bloc/bdat through character and glyph-index entry points, selecting a native ppem strike and normalizing packed grayscale, BGRA, and PNG payloads into validated alpha or straight-RGBA pixels across font storage, table decoding, pixel conversion, and public API layers",mooman219/fontdue,rejected,2026-09-05T22:43:53Z,"exact OxiText analogue exists and the smallest dependency-based implementation is below the production line and file floors"
