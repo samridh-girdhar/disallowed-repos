@@ -550,3 +550,4 @@ concept,"ACH SegmentFile rebuilds WithOffset balancing entries for each debit-on
 repo,rigetti/pyquil,reserved,2026-09-05T23:38:38Z,"scope reservation"
 concept,"PyQuil program_unitary resolves fixed and parameterized DEFGATE matrices from the program, applies gate parameters and modifiers with validation, and optionally returns conventional most-significant-qubit matrix ordering while preserving the legacy ordering by default across program inspection, matrix evaluation, gate lifting, and simulation entry points",rigetti/pyquil,reserved,2026-09-05T23:38:38Z,"Evaluate program-defined gates and selectable unitary ordering"
 repo,uber/piranha,reserved,2026-09-05T23:40:46Z,"scope reservation"
+repo,uber/piranha,rejected,2026-09-05T23:41:55Z,"the Rust workspace has no committed lockfile and includes mutable Git dependencies"
