@@ -366,3 +366,4 @@ repo,suyashkumar/dicom,reserved,2026-09-05T21:41:23Z,"Investigating nested chara
 concept,"DICOM nested Sequence item text transcoding inherits the enclosing Dataset's Specific Character Set until an item-local declaration replaces or resets it, scopes ISO 2022 decoding state to each value and sibling, and round-trips identical Unicode values through Parse, Dataset element access, and Write across parser, charset, model, and serializer layers",suyashkumar/dicom,reserved,2026-09-05T21:41:23Z,"Honor nested DICOM character-set inheritance"
 repo,wokwi/avr8js,reserved,2026-09-05T21:44:03Z,"scope reservation"
 repo,gpac/mp4box.js,rejected,2026-09-05T21:44:06Z,"canonical tests require runtime fixture downloads and checkout cache setup"
+repo,protomaps/go-pmtiles,reserved,2026-09-05T21:44:03Z,scope reservation
