@@ -429,3 +429,4 @@ repo,restic/restic,rejected,2026-09-05T22:12:03Z,"Open pull requests already imp
 concept,"Restic backups externalize oversized extended-attribute values as ordered content-addressed DataBlob references while retaining inline compatibility, and every public backup, restore, dump, mount, copy, find, check, and prune path resolves or preserves those references and treats them as reachable repository data across snapshot-model, archiver, traversal, restoration, and repository-format layers",restic/restic,rejected,2026-09-05T22:12:03Z,"Public chunked-object and oversized-attribute changes materially overlap the solution footprint"
 repo,pierrec/lz4,reserved,2026-09-05T22:11:58Z,scope reservation
 repo,asticode/go-astits,reserved,2026-09-05T22:11:58Z,scope reservation
+repo,proj4js/proj4js,rejected,2026-09-05T22:13:06Z,"equivalent epoch-updated Helmert state and transforms are public in PROJ"
