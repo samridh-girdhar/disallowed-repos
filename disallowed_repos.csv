@@ -373,3 +373,4 @@ concept,"Mido Standard MIDI File SMPTE time divisions round-trip their signed fr
 repo,skjolber/3d-bin-container-packing,reserved,2026-09-05T21:45:53Z,scope reservation
 repo,Eyevinn/mp4ff,reserved,2026-09-05T21:46:36Z,scope reservation
 concept,"Eyevinn mp4ff fragmented Common Encryption decryption resolves per-sample seig SampleGroupDescription entries through sbgp run mappings before tenc defaults, honoring clear and encrypted transitions, KID, IV or constant-IV selection, and crypt/skip patterns through Decode, ParseSenc, DecryptFragmentWithKeys, and DecryptSegmentWithKeys across box, fragment, and crypto layers",Eyevinn/mp4ff,reserved,2026-09-05T21:46:36Z,"Honor seig key rotation during fragment decryption"
+repo,tafia/calamine,reserved,2026-09-05T21:47:26Z,scope reservation
