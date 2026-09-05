@@ -474,3 +474,5 @@ concept,"Fontdue Font rasterization exposes feature-gated embedded OpenType bitm
 repo,quietvoid/dovi_tool,rejected,2026-09-05T22:36:27Z,"compressed display metadata state has close decoder implementations and unclear public ownership"
 repo,aspizu/goboscript,reserved,2026-09-05T22:36:27Z,"scope reservation"
 repo,rustls/rcgen,reserved,2026-09-05T22:38:10Z,"scope reservation"
+repo,pantor/ruckig,rejected,2026-09-05T22:38:57Z,"publicly testable trajectory query repair is below the required production footprint"
+concept,"Ruckig trajectory state queries make first-position times and position extrema agree with at_time over the entire piecewise motion - braking prefix, seven-phase profile, and unsynchronized constant-acceleration tail - while interpreting filters and returned extrema times on the global trajectory clock across sections and degrees of freedom through Profile and Trajectory layers",pantor/ruckig,rejected,2026-09-05T22:38:57Z,"multi-section construction is unavailable through the offline public API and the remaining repair is below the file and line floors"
