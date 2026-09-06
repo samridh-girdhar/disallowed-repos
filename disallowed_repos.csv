@@ -593,3 +593,4 @@ repo,toml-rs/toml,rejected,2026-09-06T00:19:23Z,"canonical tests assert header-o
 concept,"TOML array-of-tables entries decoded into Spanned values cover the full contiguous source region owned by each element, from its double-bracket header through direct keys and nested tables while stopping before the next sibling, consistently across parser table ownership, editable document spans, deserializer traversal, and serde_spanned output",toml-rs/toml,rejected,2026-09-06T00:19:23Z,"Correct behavior requires changing existing canonical expectations and only a small parser-state repair"
 repo,cedar-policy/cedar,rejected,2026-09-06T00:20:04Z,"the direct-parent serialization defect is below the production footprint floor and action-specific schema optionality exceeds the efficient scope"
 repo,luau-lang/luau,reserved,2026-09-06T00:20:42Z,"scope reservation"
+repo,gkjohnson/three-bvh-csg,completed,2026-09-06T00:19:55Z,"morph target preservation complete"
