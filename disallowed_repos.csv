@@ -629,3 +629,4 @@ repo,laspy/laspy,reserved,2026-09-06T11:45:07Z,run=sunday5-20260906-e9c47b21;exp
 repo,unjs/unstorage,reserved,2026-09-06T12:04:32Z,run=np1-20260906-a17c;expires=2026-09-07T12:04:32Z;Add atomic mount replacement and race-safe mount teardown
 repo,fonttools/fonttools,abandoned,2026-09-06T12:12:25Z,run=sunday5-20260906-e9c47b21;local investigation closed; relevant upstream implementation found
 repo,laspy/laspy,abandoned,2026-09-06T12:12:25Z,run=sunday5-20260906-e9c47b21;locally verified draft retained; meaningful production footprint below required 400 lines
+repo,laspy/laspy,completed,2026-09-06T12:35:02Z,run=sunday5-20260906-e9c47b21;locally verified bundle completed; smaller production footprint accepted by requester
