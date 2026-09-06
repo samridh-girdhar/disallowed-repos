@@ -594,3 +594,5 @@ concept,"TOML array-of-tables entries decoded into Spanned values cover the full
 repo,cedar-policy/cedar,rejected,2026-09-06T00:20:04Z,"the direct-parent serialization defect is below the production footprint floor and action-specific schema optionality exceeds the efficient scope"
 repo,luau-lang/luau,reserved,2026-09-06T00:20:42Z,"scope reservation"
 repo,gkjohnson/three-bvh-csg,completed,2026-09-06T00:19:55Z,"morph target preservation complete"
+repo,wader/fq,reserved,2026-09-06T00:24:31Z,"scope reservation"
+concept,"PCAPNG Enhanced Packets resolve 64-bit ticks with each section-local interface's decimal or binary if_tsresol and signed if_tsoffset, and fq's public packets, IPv4 reassemblies, and TCP connections expose exact packet and boundary capture times without leaking interface clock state across sections through pcapng decoding and flow assembly layers",wader/fq,reserved,2026-09-06T00:24:31Z,"Preserve section-correct capture time through packet and flow views"
