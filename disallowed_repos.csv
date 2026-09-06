@@ -631,3 +631,4 @@ repo,fonttools/fonttools,abandoned,2026-09-06T12:12:25Z,run=sunday5-20260906-e9c
 repo,laspy/laspy,abandoned,2026-09-06T12:12:25Z,run=sunday5-20260906-e9c47b21;locally verified draft retained; meaningful production footprint below required 400 lines
 repo,laspy/laspy,completed,2026-09-06T12:35:02Z,run=sunday5-20260906-e9c47b21;locally verified bundle completed; smaller production footprint accepted by requester
 repo,unjs/unstorage,completed,2026-09-06T13:06:13Z,"run=np1-20260906-a17c;base=7f773be19216ee28790f00ae51c74ba06169c2ec;test=4329b6d0e5c65d42646bbe8a5cb38f66515f9feb;solution=68ed16c5c5b60ba4aa6dbc8c996a3cb420b30888;final default test-only base 65 pass/new 12 behavioral fail;arbitrary UID 23456 solution base 65/new 12 pass, no skips"
+repo,laspy/laspy,completed,2026-09-06T13:22:00Z,run=sunday5-20260906-e9c47b21;revised locally verified bundle; corrected Git metadata and strengthened fair regression coverage
