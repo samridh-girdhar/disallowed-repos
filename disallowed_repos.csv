@@ -606,3 +606,4 @@ concept,"PCAPNG Enhanced Packets resolve 64-bit ticks with each section-local in
 repo,ohmjs/ohm,reserved,2026-09-06T00:32:15Z,"Investigating arity-aware parameterized rule overloading"
 concept,"Ohm grammar declarations allow same-named rules with different formal arities, resolve every rule application by name and supplied argument count across inherited grammars and overrides, and address overloaded semantic actions unambiguously by canonical arity-qualified keys while preserving shorthand for non-overloaded rules through grammar construction, recipes, matching, and semantics",ohmjs/ohm,reserved,2026-09-06T00:32:15Z,"Support parameterized rule overloads by arity"
 repo,atopile/atopile,reserved,2026-09-06T00:37:39Z,"scope reservation"
+repo,TypeScriptToLua/TypeScriptToLua,reserved,2026-09-06T00:41:40Z,"scope reservation"
