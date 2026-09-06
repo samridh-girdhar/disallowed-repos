@@ -580,3 +580,5 @@ concept,"Three Mesh BVH serialization and worker generation preserve the selecte
 repo,paulmach/orb,rejected,2026-09-06T00:00:10Z,"wrapped-world tile coverage has direct public world-copy and longitude-wrap analogues"
 repo,goccy/go-yaml,reserved,2026-09-06T00:02:25Z,"Investigating document-local anchor scopes layered over external reference sources"
 concept,"External reference anchors form an immutable outer scope while each streamed YAML document gets an isolated local scope that shadows external names, and duplicate external definitions produce deterministic source-aware errors across reader, file, and directory inputs",goccy/go-yaml,reserved,2026-09-06T00:02:25Z,"Prevent anchor leakage and ambiguous external definitions"
+repo,dinfuehr/dora,rejected,2026-09-06T00:07:08Z,"the correctly sized alias change is derivative and canonical package tests write into the checkout"
+repo,smithy-lang/smithy,rejected,2026-09-06T00:07:08Z,"the verified mixin flattening and removal defects are below the production footprint floor"
