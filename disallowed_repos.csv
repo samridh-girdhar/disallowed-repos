@@ -659,3 +659,4 @@ repo,jmcnamara/XlsxWriter,completed,2026-09-07T15:54:15Z,"run=monday3-20260907-7
 repo,asdf-format/asdf,reserved,2026-09-07T17:15:42Z,run=monday2b-20260907-2f8a6c91;expires=2026-09-08T17:15:42Z;selected scope
 repo,nginxinc/crossplane,reserved,2026-09-07T17:16:20Z,run=monday3-20260907-92e4c7a1;expires=2026-09-08T17:16:20Z
 repo,pyexcel/pyexcel,reserved,2026-09-07T17:17:18Z,run=monday1-20260907-8a6d2f41;expires=2026-09-08T17:17:18Z;selected scope
+repo,yukinarit/pyserde,completed,2026-09-07T17:32:53Z,run=monday7-c4e8a219;revision=dockerfile-r3;dockerfile-sha256=5c7635e235838d90c42d0cc0c4d04399fe134eb903c938b6ea2877b37ca41342;source commits and patches unchanged;image rebuild and package consistency pass;four exact offline non-root states reverified with identical test identities and outcomes
