@@ -657,3 +657,4 @@ repo,gookit/config,completed,2026-09-07T15:02:43Z,"run=monday4-20260907-692d5454
 repo,wanasit/chrono,completed,2026-09-07T15:23:36Z,run=20260907-4d91;corrected container workspace write permissions;nonroot patch application verified;708 base and132 new pass
 repo,jmcnamara/XlsxWriter,completed,2026-09-07T15:54:15Z,"run=monday3-20260907-7b2e9a41;Dockerfile permissions corrected after reported patch-application failure;dockerfile-sha256=139eff2d87a1a19bcc35887a4c176ff0deab22d063b3a258e0794faabcf3c952;patch bytes unchanged;UID1000 and UID23456 apply pass including solved-state test reapplication;exact offline base1787 pass new36 fail before and pass after;no skips;platform oracle not rerun"
 repo,asdf-format/asdf,reserved,2026-09-07T17:15:42Z,run=monday2b-20260907-2f8a6c91;expires=2026-09-08T17:15:42Z;selected scope
+repo,nginxinc/crossplane,reserved,2026-09-07T17:16:20Z,run=monday3-20260907-92e4c7a1;expires=2026-09-08T17:16:20Z
