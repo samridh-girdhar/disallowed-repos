@@ -642,3 +642,4 @@ repo,dynaconf/dynaconf,reserved,2026-09-07T14:11:25Z,"run=monday4-20260907-692d5
 repo,jmcnamara/XlsxWriter,reserved,2026-09-07T14:13:25Z,run=monday3-20260907-7b2e9a41;expires=2026-09-08T14:13:25Z;selected scope
 repo,fsspec/filesystem_spec,reserved,2026-09-07T14:13:31Z,run=monday5-20260907-a4d81c6e;expires=2026-09-08T14:13:31Z;selected scope
 repo,py-pdf/pypdf,reserved,2026-09-07T14:15:42Z,run=monday2-20260907-7c41a9e2;expires=2026-09-08T14:15:42Z;selected scope
+repo,maxatwork/form2js,reserved,2026-09-07T14:15:44Z,run=20260907-c47e19ab;expires=2026-09-08T14:15:44Z;selected for local implementation
