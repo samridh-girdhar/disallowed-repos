@@ -699,3 +699,4 @@ repo,petl-developers/petl,reserved,2026-09-08T17:10:33Z,run=tuesday2-20260908-9c
 repo,python-cmd2/cmd2,reserved,2026-09-08T17:11:14Z,run=tuesday1-6e3a91bf;expires=2026-09-09T17:11:14Z
 repo,collective/icalendar,reserved,2026-09-08T17:11:44Z,run=t3-20260908-91a7c4e2;expires=2026-09-09T17:11:44Z;selected scope
 repo,pysmt/pysmt,reserved,2026-09-08T17:11:51Z,run=tuesday4-20260908-8c3f2a91;expires=2026-09-09T17:11:51Z;selected scope
+repo,gookit/config,completed,2026-09-08T17:15:23Z,"run=monday4-20260907-692d5454;base=c3e2b83bf2c4b74d435490be5787f5e578e4f78f;test=ddbe6be261c0e7296f10b382ca6e5cc1b2a33b43;solution=d645819f34eabd5632ef426bd285bcf334a226bc;locally verified fairness repair;affected new suite 84 behavioral failures before and 84 passes after;no skips or infrastructure errors;JUnit identities and exact three-case removal verified;unchanged baseline retained prior 108 passes in both states without rerun;production and image unchanged"
