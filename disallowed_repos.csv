@@ -674,3 +674,4 @@ repo,asdf-format/asdf,completed,2026-09-07T18:33:44Z,run=monday2b-20260907-2f8a6
 repo,asdf-format/asdf,completed,2026-09-08T10:19:27Z,run=monday2b-20260907-2f8a6c91;revised locally verified bundle;test=9f1e46072c8180087990e376ebb6a34b83e68b85;solution=b8d0716914cc5ec9ff06f75c29b509a5e8db78ef;description clarified;Dockerfile unchanged;offline UID65534 new64behavioral-fail;UID23456 base2184pass2existing-xfail new64pass;unchanged test-only baseline evidence retained;exact patch and JUnit verification;no new platform or solver runs
 repo,fabiocaccamo/python-benedict,reserved,2026-09-08T10:21:31Z,run=tuesday3-20260908-b7e2a491;expires=2026-09-09T10:21:31Z;selected scope
 repo,jsonpickle/jsonpickle,reserved,2026-09-08T10:21:37Z,run=tuesday1-20260908-6d91a4c2;expires=2026-09-09T10:21:37Z;selected scope
+repo,yuin/goldmark,reserved,2026-09-08T10:22:22Z,run=tuesday2-20260908-b73e9a21;expires=2026-09-09T10:22:22Z;selected scope
