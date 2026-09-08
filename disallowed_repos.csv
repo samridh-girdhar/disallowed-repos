@@ -695,3 +695,4 @@ repo,fsspec/filesystem_spec,completed,2026-09-08T16:54:07Z,"run=monday5-20260907
 repo,PaesslerAG/gval,reserved,2026-09-08T17:07:36Z,run=gval-20260908T170736Z-8c4e2a7f;expires=2026-09-09T17:07:36Z;local task in progress
 repo,frictionlessdata/frictionless-py,reserved,2026-09-08T17:08:17Z,run=tuesday6-20260908-91f4a8c2;expires=2026-09-09T17:08:17Z;selected scope
 repo,pytransitions/transitions,reserved,2026-09-08T17:08:40Z,run=tuesday4-20260908-c83a6f12;expires=2026-09-09T17:08:40Z;selected scope
+repo,petl-developers/petl,reserved,2026-09-08T17:10:33Z,run=tuesday2-20260908-9c72e4a1;expires=2026-09-09T17:10:33Z;selected scope
