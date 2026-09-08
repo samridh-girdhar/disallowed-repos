@@ -675,3 +675,4 @@ repo,asdf-format/asdf,completed,2026-09-08T10:19:27Z,run=monday2b-20260907-2f8a6
 repo,fabiocaccamo/python-benedict,reserved,2026-09-08T10:21:31Z,run=tuesday3-20260908-b7e2a491;expires=2026-09-09T10:21:31Z;selected scope
 repo,jsonpickle/jsonpickle,reserved,2026-09-08T10:21:37Z,run=tuesday1-20260908-6d91a4c2;expires=2026-09-09T10:21:37Z;selected scope
 repo,yuin/goldmark,reserved,2026-09-08T10:22:22Z,run=tuesday2-20260908-b73e9a21;expires=2026-09-09T10:22:22Z;selected scope
+repo,jsonpickle/jsonpickle,completed,2026-09-08T10:43:17Z,run=tuesday1-20260908-6d91a4c2;base=ac96c9cdbd8d5eb5e27ae26e69cdac479dcabfce;test=a645dd272ed40c3bf4a3e845a1e753a6f5552426;solution=f9097279b763a8e0ee57aaeb28f3b236c1b5ad03;locally verified exact offline bundle;default UID0 base449pass new87behavioral-fail;UID34567 applied patches base449pass new87pass;no skips;JUnit identities and exits reconciled
