@@ -708,3 +708,4 @@ repo,python-cmd2/cmd2,abandoned,2026-09-08T17:38:15Z,run=tuesday1-6e3a91bf;local
 repo,ceccopierangiolieugenio/pyTermTk,abandoned,2026-09-08T17:38:15Z,run=tuesday1-6e3a91bf;local investigation fails four-load-bearing-file requirement
 repo,micro-editor/micro,abandoned,2026-09-08T17:38:15Z,run=tuesday1-6e3a91bf;local investigation found public implementation overlap at issue 430
 repo,frictionlessdata/frictionless-py,abandoned,2026-09-08T17:40:07Z,run=tuesday6-20260908-91f4a8c2;locally verified draft preserved;139 meaningful production lines below required footprint;no eligible submission delivered;no platform checks
+repo,pydata/sparse,reserved,2026-09-08T17:44:35Z,run=t3-20260908-91a7c4e2;expires=2026-09-09T17:44:35Z;selected scope
