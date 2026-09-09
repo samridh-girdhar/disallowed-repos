@@ -734,3 +734,6 @@ repo,NASA-AMMOS/3DTilesRendererJS,reserved,2026-09-09T13:56:08Z,run=wed3-2026090
 repo,Thriftpy/thriftpy2,reserved,2026-09-09T13:57:34Z,run=wed1-20260909-e6b4a921;expires=2026-09-10T13:57:34Z;selected scope
 repo,agronholm/apscheduler,reserved,2026-09-09T13:58:29Z,run=wed2-20260909-a19d72c4;expires=2026-09-10T13:58:29Z;selected scope
 repo,fonttools/fonttools,reserved,2026-09-09T14:05:43Z,run=wed4-20260909-a91d6c72;expires=2026-09-10T14:05:43Z;selected scope
+repo,mozman/ezdxf,abandoned,2026-09-09T14:20:43Z,run=wed2-20260909-a19d72c4;local investigation;maintainer-declined scope evidence issue1389;no platform check
+repo,fonttools/fonttools,abandoned,2026-09-09T14:20:43Z,run=wed2-20260909-a19d72c4;local investigation;implemented upstream evidence PR4162;no platform check
+repo,agronholm/apscheduler,abandoned,2026-09-09T14:20:43Z,run=wed2-20260909-a19d72c4;locally verified draft retained;production added-code upper bound327 below required400;base=e1afa7471d1fc2c3ea7a2b730ef68db20743774a;test=b5a8b61efb6d9d2a8bb678e032dba152a20ad52c;solution=04074977aee5e5e8c5b5fb681adc222b89509d03;both base371pass4existing-skips;new62behavioral-fail before and62pass after;four final invocations;no platform check
