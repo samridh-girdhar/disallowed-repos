@@ -767,3 +767,4 @@ repo,jazzband/tablib,abandoned,2026-09-12T10:56:40Z,run=sat2-972add34;local inve
 repo,tobymao/sqlglot,completed,2026-09-12T10:56:40Z,run=sat2-972add34;locally verified bundle;base=5bd170049d9d4d079e7200f55eaaacde294d1ca1;test=e369f2a2331650d9fbc792edc0e02911cd2baeab;solution=886304a93f2a174937e7b20f09686107236fe65b;base1159pass in both states;new82behavioral-fail before and82pass after;exact JUnit identities and multiplicities;offline default UID0 and foreign UID45673;no platform check
 repo,harttle/liquidjs,reserved,2026-09-12T11:32:21Z,"run=sat2-20260912-4c9e72b1;expires=2026-09-13T11:32:21Z;selected scope"
 repo,dolanmiu/docx,reserved,2026-09-12T11:33:19Z,"run=sat4-20260912-5c8a1f29;expires=2026-09-13T11:33:19Z;selected scope"
+repo,mikedh/trimesh,reserved,2026-09-12T11:34:10Z,run=sat3-20260912-6b2d9f40;expires=2026-09-13T11:34:10Z;selected scope
