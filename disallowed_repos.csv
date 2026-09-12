@@ -787,3 +787,4 @@ repo,harttle/liquidjs,completed,2026-09-12T12:55:28Z,"run=sat2-20260912-4c9e72b1
 repo,inikulin/parse5,completed,2026-09-12T12:57:39Z,run=sat5-20260912-f83a6c21;user explicitly accepted smaller production footprint;delivered unchanged locally verified bundle;base=74289f3c52e17c027559d39bec6b576bec7a1372;test=6304ccd22ef9d85e34450700e7961e4014c04280;solution=0c749a1727a5732b673f8002dae7760f9cbf05e9;both base19325pass;new31behavioral-fail before31pass after;no skips or errors;exact JUnit identities;offline defaultUID0 and foreignUID45671 actual patch application;no platform check
 repo,olofk/fusesoc,reserved,2026-09-12T13:19:22Z,run=sat6-20260912-7c4e91b2;expires=2026-09-13T13:19:22Z;selected scope
 repo,netromdk/vermin,reserved,2026-09-12T13:20:25Z,run=sat7-20260912T1315Z;expires=2026-09-13T13:20:25Z;selected scope
+repo,zeroSteiner/rule-engine,reserved,2026-09-12T13:20:32Z,run=sat8-20260912;expires=2026-09-13T13:20:32Z;selected scope
