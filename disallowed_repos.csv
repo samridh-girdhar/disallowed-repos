@@ -755,3 +755,4 @@ repo,peterbrittain/asciimatics,reserved,2026-09-12T10:23:57Z,run=sat3-20260912-7
 repo,cduck/drawsvg,reserved,2026-09-12T10:25:03Z,run=sat1-20260912-1019;expires=2026-09-13T10:25:03Z;selected scope
 repo,ohler55/ojg,reserved,2026-09-12T10:26:15Z,run=sat5-20260912-6a93bcf1;expires=2026-09-13T10:26:15Z;selected scope
 repo,lark-parser/lark,reserved,2026-09-12T10:27:16Z,run=sat4-20260912T102017Z;expires=2026-09-13T10:27:16Z;selected scope
+repo,tobymao/sqlglot,reserved,2026-09-12T10:28:09Z,run=sat2-972add34;expires=2026-09-13T10:28:09Z;selected scope
