@@ -830,3 +830,4 @@ repo,eliben/pycparser,reserved,2026-09-12T16:02:00Z,run=sat12-4b8a7d29;expires=2
 repo,intake/intake,reserved,2026-09-12T16:02:24Z,run=sat13-c82e1a6f;expires=2026-09-13T16:02:24Z;selected scope
 repo,rdfjs/N3.js,reserved,2026-09-12T16:04:02Z,run=sat11-20260912T155502Z;expires=2026-09-13T16:04:02Z
 repo,linkedin/goavro,reserved,2026-09-12T16:07:33Z,run=sat11-8e6b4c12;expires=2026-09-13T16:07:33Z;selected scope
+repo,shapely/shapely,reserved,2026-09-12T16:07:37Z,run=sat12-20260912-d7a63f20;expires=2026-09-13T16:07:37Z;selected scope
