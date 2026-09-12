@@ -791,3 +791,4 @@ repo,zeroSteiner/rule-engine,reserved,2026-09-12T13:20:32Z,run=sat8-20260912;exp
 repo,sharksforarms/deku,reserved,2026-09-12T13:21:43Z,run=sat10-20260912-d8f42a71;expires=2026-09-13T13:21:43Z;selected scope
 repo,pyparsing/pyparsing,reserved,2026-09-12T13:25:25Z,run=sat9-20260912T131653Z;expires=2026-09-13T13:25:25Z;selected scope
 repo,yuin/goldmark,completed,2026-09-12T13:35:39Z,run=tuesday2-20260908-b73e9a21; revision10; updated solution/tests and description; verified 160 new fail before/pass after and 722 baseline pass; one unchanged baseline timing retry; same submission revision
+repo,Chevrotain/chevrotain,reserved,2026-09-12T13:37:10Z,run=sat9-20260912-9f2c7d41;expires=2026-09-13T13:37:10Z;selected scope
