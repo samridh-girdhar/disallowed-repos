@@ -756,3 +756,4 @@ repo,cduck/drawsvg,reserved,2026-09-12T10:25:03Z,run=sat1-20260912-1019;expires=
 repo,ohler55/ojg,reserved,2026-09-12T10:26:15Z,run=sat5-20260912-6a93bcf1;expires=2026-09-13T10:26:15Z;selected scope
 repo,lark-parser/lark,reserved,2026-09-12T10:27:16Z,run=sat4-20260912T102017Z;expires=2026-09-13T10:27:16Z;selected scope
 repo,tobymao/sqlglot,reserved,2026-09-12T10:28:09Z,run=sat2-972add34;expires=2026-09-13T10:28:09Z;selected scope
+repo,peterbrittain/asciimatics,abandoned,2026-09-12T10:48:07Z,run=sat3-20260912-7a9d2e41;locally verified bundle retained;180 meaningful production lines below required >200;base=bf0cea87b50439e40a5c7b708d64da4195314a60;test=f78534b5d09d2a6b6633cdfd4b52a74b9898a7ce;solution=677bc11f3f13d1a9710d8757d7f7766850c1eb35;both base186pass40existing-skips;new40behavioral-fail before40pass after;four exact offline invocations;no platform check
