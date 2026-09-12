@@ -852,3 +852,6 @@ repo,jhillyerd/enmime,abandoned,2026-09-12T16:43:50Z,run=sat14-20260912-5bc74a91
 repo,zarr-developers/zarr-python,abandoned,2026-09-12T16:50:05Z,run=sat13-c82e1a6f;local duplicate investigation;public evidence https://github.com/zarr-developers/zarr-python/pull/3587;not a repository-wide block
 repo,intake/intake,abandoned,2026-09-12T16:50:05Z,run=sat13-c82e1a6f;earlier local scope below required implementation footprint;no platform rejection
 repo,intake/intake,completed,2026-09-12T16:50:05Z,run=sat13-c82e1a6f;delivered locally verified bundle;15 baseline tests pass in both states;71 new tests fail before and pass after;offline default and foreign non-root patch application verified
+repo,linkedin/goavro,abandoned,2026-09-12T16:52:26Z,run=sat11-8e6b4c12;local size failure;189 gross production additions below required meaningful footprint;draft retained
+repo,xitongsys/parquet-go,abandoned,2026-09-12T16:52:26Z,run=sat11-8e6b4c12;local investigation;public implementation overlap and insufficient estimated footprint;no platform check
+repo,hgrecco/pint,abandoned,2026-09-12T16:52:26Z,run=sat11-8e6b4c12;local size failure;at most 162 meaningful production additions below required greater than 200;verified draft retained
