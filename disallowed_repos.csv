@@ -789,3 +789,4 @@ repo,olofk/fusesoc,reserved,2026-09-12T13:19:22Z,run=sat6-20260912-7c4e91b2;expi
 repo,netromdk/vermin,reserved,2026-09-12T13:20:25Z,run=sat7-20260912T1315Z;expires=2026-09-13T13:20:25Z;selected scope
 repo,zeroSteiner/rule-engine,reserved,2026-09-12T13:20:32Z,run=sat8-20260912;expires=2026-09-13T13:20:32Z;selected scope
 repo,sharksforarms/deku,reserved,2026-09-12T13:21:43Z,run=sat10-20260912-d8f42a71;expires=2026-09-13T13:21:43Z;selected scope
+repo,pyparsing/pyparsing,reserved,2026-09-12T13:25:25Z,run=sat9-20260912T131653Z;expires=2026-09-13T13:25:25Z;selected scope
