@@ -574,4 +574,4 @@ idea,spf13/afero,BasePathFs relative symlink targets and Readlink coordinate tra
 idea,spf13/afero,Static generic-Fs symlink containment in BasePathFs,rejected,caae39c4-3a8b-464c-8a48-0d9d1d4f9282,2026-09-19T15:11:40.226508Z,,SecureJoinVFS and go-billy rooted-path policies supply dominant behavior; remaining work primarily adapters and routing.,https://github.com/cyphar/filepath-securejoin/blob/master/join.go
 repo,go-co-op/gocron,,reserved,caae39c4-3a8b-464c-8a48-0d9d1d4f9282,2026-09-19T15:13:00.471892Z,2026-09-20T15:13:00.471892Z,Active creation reservation.,https://github.com/go-co-op/gocron
 repo,tox-dev/tox,,note,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T16:14:48Z,,Researched local candidates did not meet required natural production scope; no bundle delivered.,https://github.com/tox-dev/tox
-repo,casey/just,,reserved,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T16:15:53Z,2026-09-20T16:15:53Z,Reserved for local problem creation.,https://github.com/casey/just
+repo,casey/just,,used,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T18:45:30Z,,Locally verified submission bundle delivered; no platform checks or submission.,https://github.com/casey/just
