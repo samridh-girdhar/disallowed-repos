@@ -537,3 +537,5 @@ repo,rs/zerolog,,reserved,caae39c4-3a8b-464c-8a48-0d9d1d4f9282,2026-09-19T14:00:
 repo,encode/httpcore,,reserved,0865c2c89a6a46969b3b5a9494a86908,2026-09-19T14:00:28Z,2026-09-20T14:00:28Z,,
 repo,charmbracelet/glamour,,reserved,b0d10937-be91-4938-a863-0b559e05c837,2026-09-19T14:00:32Z,2026-09-20T14:00:32Z,,https://github.com/charmbracelet/glamour
 repo,beartype/plum,,reserved,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T14:04:47Z,2026-09-20T14:04:47Z,Reserved for local problem creation.,https://github.com/beartype/plum
+idea,encode/httpcore,HTTP/2 stream admission after peer concurrency-limit reductions,rejected,0865c2c89a6a46969b3b5a9494a86908,2026-09-19T14:06:18Z,,"Existing open PR implements reduction accounting, reservation and capacity wakeups; zero-only remainder does not make the broader behavior novel.",https://github.com/encode/httpcore/pull/1088
+idea,encode/httpcore,Stream-scoped duplex HTTP/2 tunnel I/O,rejected,0865c2c89a6a46969b3b5a9494a86908,2026-09-19T14:06:18Z,,Closed unmerged PR implements per-stream read/write/close and identifies outgoing-stream termination as follow-up work.,https://github.com/encode/httpcore/pull/684
