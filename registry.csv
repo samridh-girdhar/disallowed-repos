@@ -603,3 +603,4 @@ repo,pallets/werkzeug,,blocked,cd4b32d1b69740a0a71d83595368ff04,2026-09-21T18:04
 repo,bw2/configargparse,,reserved,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:04:23Z,2026-09-22T18:04:23Z,Local creation in progress.,https://github.com/bw2/ConfigArgParse
 repo,spf13/cast,,reserved,108d3d1863034bf3a78409838a9f517f,2026-09-21T18:04:40Z,2026-09-22T18:04:40Z,Reserved for local problem creation.,
 idea,bw2/configargparse,Recursive config-file includes,rejected,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:05:44Z,,Existing implementation attempt in PR 261 and linked subclass implementation.,https://github.com/bw2/ConfigArgParse/issues/272
+idea,bw2/configargparse,Password redaction in reported settings,rejected,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:05:48Z,,Collaborator explicitly declined password redaction as a mis-feature.,https://github.com/bw2/ConfigArgParse/issues/283
