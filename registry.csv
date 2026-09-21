@@ -576,3 +576,4 @@ repo,go-co-op/gocron,,reserved,caae39c4-3a8b-464c-8a48-0d9d1d4f9282,2026-09-19T1
 repo,tox-dev/tox,,note,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T16:14:48Z,,Researched local candidates did not meet required natural production scope; no bundle delivered.,https://github.com/tox-dev/tox
 repo,casey/just,,used,d0980e1203dc4ada9c9b486754ff7dda,2026-09-19T18:45:30Z,,Locally verified submission bundle delivered; no platform checks or submission.,https://github.com/casey/just
 repo,pydoit/doit,,used,01a0ab16-33fb-7933-84e2-6b1abc6bbf79,2026-09-19T19:48:34Z,,Existing submission revised and locally verified; no platform approval claimed.,https://github.com/pydoit/doit
+repo,python-humanize/humanize,,reserved,73b160ba75a047de9c990685d9c0ef9f,2026-09-21T16:21:04Z,2026-09-22T16:21:04Z,,https://github.com/python-humanize/humanize
