@@ -606,3 +606,4 @@ idea,bw2/configargparse,Recursive config-file includes,rejected,c0517dee-0267-40
 idea,bw2/configargparse,Password redaction in reported settings,rejected,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:05:48Z,,Collaborator explicitly declined password redaction as a mis-feature.,https://github.com/bw2/ConfigArgParse/issues/283
 repo,ncruces/go-sqlite3,,reserved,dee63399c9454ffdbd365af50b70058a,2026-09-21T18:06:07Z,2026-09-22T18:06:07Z,Reserved for local problem preparation.,https://github.com/ncruces/go-sqlite3
 repo,muesli/reflow,,blocked,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:07:20Z,,Excluded from new problem creation by repository admission policy.,https://github.com/muesli/reflow
+repo,spf13/pflag,,reserved,108d3d1863034bf3a78409838a9f517f,2026-09-21T18:07:36Z,2026-09-22T18:07:36Z,Reserved for local problem creation.,
