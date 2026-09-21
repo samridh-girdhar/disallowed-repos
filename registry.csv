@@ -607,3 +607,4 @@ idea,bw2/configargparse,Password redaction in reported settings,rejected,c0517de
 repo,ncruces/go-sqlite3,,reserved,dee63399c9454ffdbd365af50b70058a,2026-09-21T18:06:07Z,2026-09-22T18:06:07Z,Reserved for local problem preparation.,https://github.com/ncruces/go-sqlite3
 repo,muesli/reflow,,blocked,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:07:20Z,,Excluded from new problem creation by repository admission policy.,https://github.com/muesli/reflow
 repo,spf13/pflag,,reserved,108d3d1863034bf3a78409838a9f517f,2026-09-21T18:07:36Z,2026-09-22T18:07:36Z,Reserved for local problem creation.,
+repo,biopython/biopython,,blocked,cd4b32d1b69740a0a71d83595368ff04,2026-09-21T18:07:43.400128Z,,Excluded from new problem creation by repository admission policy (license warning).,https://github.com/biopython/biopython
