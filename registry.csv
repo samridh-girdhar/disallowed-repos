@@ -600,3 +600,4 @@ repo,django-import-export/django-import-export,,reserved,a8e3ad39012854b8,2026-0
 repo,more-itertools/more-itertools,,reserved,cd4b32d1b69740a0a71d83595368ff04,2026-09-21T18:04:10.564362Z,2026-09-22T18:04:10.564362Z,Local problem creation reservation.,https://github.com/more-itertools/more-itertools
 repo,python-babel/babel,,blocked,cd4b32d1b69740a0a71d83595368ff04,2026-09-21T18:04:10.564362Z,,Excluded from new problem creation by repository admission policy.,https://github.com/python-babel/babel
 repo,pallets/werkzeug,,blocked,cd4b32d1b69740a0a71d83595368ff04,2026-09-21T18:04:10.564362Z,,Excluded from new problem creation by repository admission policy.,https://github.com/pallets/werkzeug
+repo,bw2/configargparse,,reserved,c0517dee-0267-40c9-9836-cb4354dc6e38,2026-09-21T18:04:23Z,2026-09-22T18:04:23Z,Local creation in progress.,https://github.com/bw2/ConfigArgParse
