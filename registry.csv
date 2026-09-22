@@ -631,3 +631,5 @@ repo,textualize/rich,,note,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:53:28Z
 repo,andialbrecht/sqlparse,,blocked,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,,Excluded from new problem creation by repository admission policy.,https://github.com/andialbrecht/sqlparse
 repo,pyinvoke/invoke,,reserved,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,2026-09-23T10:54:04.920517Z,Reserved for local problem preparation.,https://github.com/pyinvoke/invoke
 repo,web2py/pydal,,reserved,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:54:33Z,2026-09-23T10:54:33Z,Reserved for local problem preparation.,https://github.com/web2py/pydal
+repo,jg-rp/liquid,,note,44ff81876716114b,2026-09-22T10:55:07.986151Z,,Admission observed 98 stars below 500-star minimum on 2026-09-22; reassess eligibility before use.,https://github.com/jg-rp/liquid
+repo,python-markdown/markdown,,reserved,44ff81876716114b,2026-09-22T10:55:07.986151Z,2026-09-23T10:55:07.986151Z,,https://github.com/python-markdown/markdown
