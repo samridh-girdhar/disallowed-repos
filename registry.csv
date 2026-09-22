@@ -679,4 +679,5 @@ repo,deltares/pyflwdir,,note,dbf49cf43f1c,2026-09-22T15:20:15.127918+00:00,,"Adm
 repo,google/pcbdl,,note,dbf49cf43f1c,2026-09-22T15:20:15.127918+00:00,,"Admission observed 195 stars on 2026-09-22, below 500 minimum, plus unrecognized-license warning. No detailed repository research.",https://github.com/google/pcbdl
 repo,mitk/mitk,,reserved,57af22b61c02a51b,2026-09-22T15:27:32.286004+00:00,2026-09-23T15:27:32.286004+00:00,,https://github.com/MITK/MITK
 repo,domcyrus/rustnet,,reserved,8f282bb2854fc444,2026-09-22T15:32:09.058268Z,2026-09-23T15:32:09.058268Z,,https://github.com/domcyrus/rustnet
-repo,keichi/binary-parser,,reserved,c0d628f3daa3,2026-09-22T15:32:21.718194+00:00,2026-09-23T15:32:21.718194+00:00,,
+repo,keichi/binary-parser,,note,c0d628f3daa3,2026-09-22T15:33:51.417990+00:00,,Examined local creation scope; simple remaining gaps were small. Active MIT repository remains eligible.,https://github.com/keichi/binary-parser
+idea,keichi/binary-parser,Reject declared array lengths exceeding remaining bytes,rejected,c0d628f3daa3,2026-09-22T15:33:51.417990+00:00,,Existing implementing PR,https://github.com/keichi/binary-parser/pull/300
