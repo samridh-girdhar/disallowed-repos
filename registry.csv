@@ -661,3 +661,4 @@ repo,mdtraj/mdtraj,,blocked,dbf49cf43f1c,2026-09-22T15:08:50.902793+00:00,,Repos
 repo,boelnasr/manipulapy,,blocked,dbf49cf43f1c,2026-09-22T15:08:50.902793+00:00,,Repository admission rejected AGPL-3.0 license eligibility; observed 24 stars.,https://github.com/boelnasr/manipulapy
 repo,w3c/epubcheck,,reserved,f5fd9abc9d79c53f,2026-09-22T15:08:55Z,2026-09-23T15:08:55Z,,
 repo,devbisme/skidl,,reserved,dbf49cf43f1c,2026-09-22T15:10:50.244817+00:00,2026-09-23T15:10:50.244817+00:00,Reserved for local problem preparation.,https://github.com/devbisme/skidl
+idea,onthegomap/planetiler,Direction-preserving tile line merging through unique directed continuations,rejected,7c46f68bdadfb539,2026-09-22T15:15:45.706799Z,,"GEOS LineMerger implements directed-only traversal, same-direction stopping nodes and isolated cycles; remaining adaptation is mainly feature grouping/encoding.",https://github.com/libgeos/geos/blob/main/src/operation/linemerge/LineMerger.cpp
