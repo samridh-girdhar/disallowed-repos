@@ -682,7 +682,7 @@ repo,domcyrus/rustnet,,note,8f282bb2854fc444,2026-09-22T15:50:07.539041Z,,Three 
 repo,keichi/binary-parser,,note,c0d628f3daa3,2026-09-22T15:33:51.417990+00:00,,Examined local creation scope; simple remaining gaps were small. Active MIT repository remains eligible.,https://github.com/keichi/binary-parser
 idea,keichi/binary-parser,Reject declared array lengths exceeding remaining bytes,rejected,c0d628f3daa3,2026-09-22T15:33:51.417990+00:00,,Existing implementing PR,https://github.com/keichi/binary-parser/pull/300
 idea,listr2/listr2,Run tasks added during active execution,rejected,46b6fb2b41c22952,2026-09-22T15:34:10Z,,Existing closed PR734 implements runtime additions.,https://github.com/listr2/listr2/pull/734
-repo,jimporter/mike,,reserved,c0d628f3daa3,2026-09-22T15:34:26.369685+00:00,2026-09-23T15:34:26.369685+00:00,,
+repo,jimporter/mike,,used,c0d628f3daa3,2026-09-22T16:04:58.951578+00:00,,Locally verified bundle delivered; platform checks not run and approval not claimed.,https://github.com/jimporter/mike
 repo,pallets-eco/croniter,,note,,2026-09-22T15:36:17Z,,,
 repo,theorcdev/shadscan,,reserved,46b6fb2b41c22952,2026-09-22T15:36:36Z,2026-09-23T15:36:36Z,,
 idea,domcyrus/rustnet,Decode advertised DHCP routing options through retained connection metadata and display.,rejected,8f282bb2854fc444,2026-09-22T15:39:42.419701Z,,"Public dhcpcd code supplies dominant option overload, concatenation, classless-route decoding and precedence; remaining integration is limited adaptation.",https://github.com/NetworkConfiguration/dhcpcd/blob/master/src/dhcp.c
@@ -703,3 +703,5 @@ idea,skyfielders/python-skyfield,Planetary orientation from text PCK kernels,rej
 idea,skyfielders/python-skyfield,Combine SPICE kernels and select time-covering segments,rejected,57af22b61c02a51b,2026-09-22T15:59:50.851897+00:00,,Existing closed MultiKernel implementation attempt PR975.,https://github.com/skyfielders/python-skyfield/pull/975
 idea,skyfielders/python-skyfield,Global solar eclipse search classification and obscuration,rejected,57af22b61c02a51b,2026-09-22T15:59:50.851897+00:00,,Existing open implementation attempt PR1076.,https://github.com/skyfielders/python-skyfield/pull/1076
 repo,questdb/questdb,,reserved,57af22b61c02a51b,2026-09-22T16:02:31.313001+00:00,2026-09-23T16:02:31.313001+00:00,,https://github.com/questdb/questdb
+idea,jimporter/mike,Policy-driven pruning of old documentation versions,rejected,c0d628f3daa3,2026-09-22T16:04:58.951578+00:00,,Maintainer declined retention policy as a core responsibility.,https://github.com/jimporter/mike/issues/74#issuecomment-944863082
+idea,jimporter/mike,Deploying documentation produced by non-MkDocs builders,rejected,c0d628f3daa3,2026-09-22T16:04:58.951578+00:00,,Maintainer declined general publishing beyond MkDocs.,https://github.com/jimporter/mike/issues/242#issuecomment-2859777101
