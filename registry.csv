@@ -677,3 +677,4 @@ repo,radioastronomysoftwaregroup/pyuvdata,,note,dbf49cf43f1c,2026-09-22T15:20:15
 repo,pysheds/pysheds,,blocked,dbf49cf43f1c,2026-09-22T15:20:15.127918+00:00,,Observed GPL-3.0 license is outside permitted license set; 902 stars at admission on 2026-09-22.,https://github.com/pysheds/pysheds
 repo,deltares/pyflwdir,,note,dbf49cf43f1c,2026-09-22T15:20:15.127918+00:00,,"Admission observed 117 stars on 2026-09-22, below 500 minimum; MIT.",https://github.com/deltares/pyflwdir
 repo,google/pcbdl,,note,dbf49cf43f1c,2026-09-22T15:20:15.127918+00:00,,"Admission observed 195 stars on 2026-09-22, below 500 minimum, plus unrecognized-license warning. No detailed repository research.",https://github.com/google/pcbdl
+repo,mitk/mitk,,reserved,57af22b61c02a51b,2026-09-22T15:27:32.286004+00:00,2026-09-23T15:27:32.286004+00:00,,https://github.com/MITK/MITK
