@@ -628,3 +628,5 @@ idea,agronholm/sqlacodegen,"Dataclass defaults for generated keys, nullable scal
 idea,agronholm/sqlacodegen,Automatic many-to-many treatment of payload association tables,rejected,dee63399c9454ffdbd365af50b70058a,2026-09-21T18:49:12Z,,Maintainer declined because payload columns must remain accessible.,https://github.com/agronholm/sqlacodegen/issues/90
 repo,saulpw/visidata,,blocked,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:53:24Z,,Repository admission rejected license eligibility (GPL-3.0).,https://github.com/saulpw/visidata
 repo,textualize/rich,,note,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:53:28Z,,Repository admission returned an over-use warning; not admitted for this creation task.,https://github.com/textualize/rich
+repo,andialbrecht/sqlparse,,blocked,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,,Excluded from new problem creation by repository admission policy.,https://github.com/andialbrecht/sqlparse
+repo,pyinvoke/invoke,,reserved,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,2026-09-23T10:54:04.920517Z,Reserved for local problem preparation.,https://github.com/pyinvoke/invoke
