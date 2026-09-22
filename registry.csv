@@ -684,3 +684,4 @@ idea,keichi/binary-parser,Reject declared array lengths exceeding remaining byte
 idea,listr2/listr2,Run tasks added during active execution,rejected,46b6fb2b41c22952,2026-09-22T15:34:10Z,,Existing closed PR734 implements runtime additions.,https://github.com/listr2/listr2/pull/734
 repo,jimporter/mike,,reserved,c0d628f3daa3,2026-09-22T15:34:26.369685+00:00,2026-09-23T15:34:26.369685+00:00,,
 repo,pallets-eco/croniter,,note,,2026-09-22T15:36:17Z,,,
+repo,theorcdev/shadscan,,reserved,46b6fb2b41c22952,2026-09-22T15:36:36Z,2026-09-23T15:36:36Z,,
