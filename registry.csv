@@ -705,3 +705,4 @@ idea,skyfielders/python-skyfield,Global solar eclipse search classification and 
 repo,questdb/questdb,,reserved,57af22b61c02a51b,2026-09-22T16:02:31.313001+00:00,2026-09-23T16:02:31.313001+00:00,,https://github.com/questdb/questdb
 idea,jimporter/mike,Policy-driven pruning of old documentation versions,rejected,c0d628f3daa3,2026-09-22T16:04:58.951578+00:00,,Maintainer declined retention policy as a core responsibility.,https://github.com/jimporter/mike/issues/74#issuecomment-944863082
 idea,jimporter/mike,Deploying documentation produced by non-MkDocs builders,rejected,c0d628f3daa3,2026-09-22T16:04:58.951578+00:00,,Maintainer declined general publishing beyond MkDocs.,https://github.com/jimporter/mike/issues/242#issuecomment-2859777101
+repo,tidwall/tile38,,reserved,8f282bb2854fc444,2026-09-22T16:08:04.176731Z,2026-09-23T16:08:04.176731Z,,https://github.com/tidwall/tile38
