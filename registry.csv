@@ -685,3 +685,5 @@ idea,listr2/listr2,Run tasks added during active execution,rejected,46b6fb2b41c2
 repo,jimporter/mike,,reserved,c0d628f3daa3,2026-09-22T15:34:26.369685+00:00,2026-09-23T15:34:26.369685+00:00,,
 repo,pallets-eco/croniter,,note,,2026-09-22T15:36:17Z,,,
 repo,theorcdev/shadscan,,reserved,46b6fb2b41c22952,2026-09-22T15:36:36Z,2026-09-23T15:36:36Z,,
+idea,domcyrus/rustnet,Decode advertised DHCP routing options through retained connection metadata and display.,rejected,8f282bb2854fc444,2026-09-22T15:39:42.419701Z,,"Public dhcpcd code supplies dominant option overload, concatenation, classless-route decoding and precedence; remaining integration is limited adaptation.",https://github.com/NetworkConfiguration/dhcpcd/blob/master/src/dhcp.c
+idea,domcyrus/rustnet,Attribute DNS addresses through owner-rooted CNAME chains with minimum TTL expiry.,rejected,8f282bb2854fc444,2026-09-22T15:39:42.419988Z,,"Public Fence Rust code supplies dominant compressed-name parsing, response lineage, terminal-owner address validation and minimum-chain TTL; existing host already has pending attribution lifecycle.",https://github.com/openai/fence/blob/main/src/dns_mediator.rs
