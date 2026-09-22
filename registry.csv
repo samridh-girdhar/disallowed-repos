@@ -630,3 +630,4 @@ repo,saulpw/visidata,,blocked,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:53:
 repo,textualize/rich,,note,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:53:28Z,,Repository admission returned an over-use warning; not admitted for this creation task.,https://github.com/textualize/rich
 repo,andialbrecht/sqlparse,,blocked,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,,Excluded from new problem creation by repository admission policy.,https://github.com/andialbrecht/sqlparse
 repo,pyinvoke/invoke,,reserved,olympus-8e32c5c16dc7,2026-09-22T10:54:04.920517Z,2026-09-23T10:54:04.920517Z,Reserved for local problem preparation.,https://github.com/pyinvoke/invoke
+repo,web2py/pydal,,reserved,655b9caed0e248a98ff5162976d2a4cf,2026-09-22T10:54:33Z,2026-09-23T10:54:33Z,Reserved for local problem preparation.,https://github.com/web2py/pydal
