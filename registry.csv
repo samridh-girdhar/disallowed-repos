@@ -723,3 +723,4 @@ idea,jazzband/django-taggit,shared tag resolution and batched association replac
 repo,gorakhargosh/watchdog,,used,af516fe98a5340a9a05bf26f3f52c8d2,2026-09-22T20:52:09.257837Z,,Locally verified problem bundle delivered.,
 repo,nats-io/nats.py,,reserved,567b1ee70db4473e9410f2dc6962d4d3,2026-09-25T16:56:26.670254+00:00,2026-09-26T16:56:26.670254+00:00,Reserved for local problem preparation.,https://github.com/nats-io/nats.py
 repo,tomerfiliba/plumbum,,note,,2026-09-25T17:04:22.773083+00:00,,Eight source-backed candidates screened at 1829ffb0; natural fixes reused existing helpers and fell below required effective production scope. No problem selected or bundle delivered.,https://github.com/tomerfiliba/plumbum
+repo,beetbox/beets,,reserved,1ef089fc846d,2026-09-25T17:05:55.366494+00:00,2026-09-26T17:05:55.366494+00:00,Reserved for local problem preparation.,https://github.com/beetbox/beets
