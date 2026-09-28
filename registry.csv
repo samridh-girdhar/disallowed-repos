@@ -737,3 +737,4 @@ idea,geopython/pygeoapi,Flatten CoverageJSON grid ranges into CSV rows,rejected,
 idea,geopython/pygeoapi,"Filter process job lists by status, process, creation time and duration",rejected,f3bf819bc9c54e53951a8758968f081a,2026-09-28T16:12:09.580864Z,,Closed unmerged PR 1222 already implements job-list filtering in API and managers.,https://github.com/geopython/pygeoapi/pull/1222
 repo,developmentseed/lonboard,,reserved,f3bf819bc9c54e53951a8758968f081a,2026-09-28T16:12:21.192023Z,2026-09-29T16:12:21.192023Z,,https://github.com/developmentseed/lonboard
 repo,control-d-inc/ctrld,,note,5b74673a65700d15,2026-09-28T16:14:08.643776Z,,No adequately scoped moderate-difficulty idea selected during local investigation.,
+idea,control-d-inc/ctrld,Random upstream selection strategy,rejected,5b74673a65700d15,2026-09-28T16:14:11.931296Z,,Reference implementation is linked in issue315 as PR314 and public fork.,https://github.com/Control-D-Inc/ctrld/issues/315
