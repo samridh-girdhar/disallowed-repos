@@ -732,3 +732,4 @@ repo,geopython/pygeoapi,,reserved,f3bf819bc9c54e53951a8758968f081a,2026-09-28T16
 repo,lektor/lektor,,reserved,331eadb77042692c,2026-09-28T16:07:27.868016+00:00,2026-09-29T16:07:27.868016+00:00,,
 repo,comarkdown/comark,,note,5b74673a65700d15,2026-09-28T16:10:13.090288Z,,,
 idea,comarkdown/comark,Resolve nested bindings in object and array props,rejected,5b74673a65700d15,2026-09-28T16:11:19.350315Z,,Open PR implements nested colon-key binding resolution for issue 286.,https://github.com/comarkdown/comark/pull/455
+repo,pop-code/nestjs-console,,note,5b74673a65700d15,2026-09-28T16:11:22.425072Z,,Latest default-branch source commit is 2025-02-15; currently fails activity within twelve months.,https://github.com/pop-code/nestjs-console/commit/9fbb7be0533ff9050ccec0b8f8541360bb3aceb6
