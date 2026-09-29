@@ -750,4 +750,4 @@ repo,randyzwitch/streamlit-folium,,note,f3bf819bc9c54e53951a8758968f081a,2026-09
 repo,fioncat/otree,,used,f3bf819bc9c54e53951a8758968f081a,2026-09-28T18:36:31.195121Z,,Creation reservation after warning-free repository admission.; Locally verified submission bundle completed; no platform approval claimed.,https://github.com/fioncat/otree
 repo,liriansu-opus/chinese-calendar,,note,fd605860107aeb65,2026-09-29T03:15:59.787268Z,,Inspected 54efbd4: compact date-query API and table maintenance; obvious requested repairs fall below 200 effective production LOC.,
 repo,blinktaginc/node-gtfs,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:15:55.957136+00:00,2026-09-30T03:15:55.957136+00:00,,
-repo,cloudflare/xdpcap,,reserved,5ee97c73a9f40765,2026-09-29T03:16:03.718387Z,2026-09-30T03:16:03.718387Z,,
+repo,cloudflare/xdpcap,,note,5ee97c73a9f40765,2026-09-29T03:16:31.448326Z,,Active at inspection; small userspace CLI and privileged eBPF capture architecture unsuitable for this low-difficulty offline lineage.,
