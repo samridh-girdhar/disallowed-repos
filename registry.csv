@@ -801,3 +801,4 @@ repo,marshmallow-code/marshmallow,,note,40b6cb292c7b3239a4160a7f,2026-09-29T09:0
 idea,marshmallow-code/marshmallow,Multiple input aliases per field,rejected,40b6cb292c7b3239a4160a7f,2026-09-29T09:05:02.502045Z,,Maintainer explicitly declined the feature as uncommon added complexity.,https://github.com/marshmallow-code/marshmallow/issues/1667#issuecomment-693458501
 idea,marshmallow-code/marshmallow,Streaming schema dumps,rejected,40b6cb292c7b3239a4160a7f,2026-09-29T09:05:02.502045Z,,Issue contains public implementation attempts and maintainer directs streaming to Schema subclass and Generator extension.,https://github.com/marshmallow-code/marshmallow/issues/1696
 repo,wireservice/csvkit,,reserved,40b6cb292c7b3239a4160a7f,2026-09-29T09:05:02.502045Z,2026-09-30T09:05:02.502045Z,Reserved for local problem preparation.,https://github.com/wireservice/csvkit
+repo,cherrypy/cherrypy,,reserved,207c393e1a3a4682bd64d252af87ff2e,2026-09-29T09:05:50Z,2026-09-30T09:05:50Z,,
