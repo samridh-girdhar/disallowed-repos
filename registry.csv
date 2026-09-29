@@ -806,3 +806,4 @@ idea,pallets/click,Preserve earlier positional parameters while completing a tra
 idea,pallets/click,Preserve attached option names while completing equals-separated values,rejected,1b191b3c712c44f8876fb80ae7799c81,2026-09-29T09:06:01Z,,Existing implementation attempts in PRs 3815 and 3863.,https://github.com/pallets/click/pull/3815 ; https://github.com/pallets/click/pull/3863
 idea,pallets/click,Context-local dynamic parameter definitions,rejected,1b191b3c712c44f8876fb80ae7799c81,2026-09-29T09:06:01Z,,Existing implementation in PR 2784; maintainer objection to storing definitions on contexts.,https://github.com/pallets/click/pull/2784
 repo,dundee/gdu,,reserved,1b191b3c712c44f8876fb80ae7799c81,2026-09-29T09:06:52Z,2026-09-30T09:06:52Z,,
+repo,bndr/pipreqs,,reserved,3ef1c483ae5e4589a05ed502a0934da2,2026-09-29T09:11:45Z,2026-09-30T09:11:45Z,,https://github.com/bndr/pipreqs
