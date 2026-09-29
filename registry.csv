@@ -759,3 +759,4 @@ repo,rfjakob/gocryptfs,,note,fd605860107aeb65,2026-09-29T03:19:35.594902Z,,Inspe
 idea,blinktaginc/node-gtfs,Validate local CSV feeds against declared scalar and range metadata with complete reports,rejected,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:19:25.839073+00:00,,"MobilityData RowParser, EndRangeValidatorGenerator and feed/header loaders supply required fields, scalar parsing/bounds, ranges and local-feed reporting; remaining work is host/descriptor adaptation.",https://github.com/MobilityData/gtfs-validator/blob/master/core/src/main/java/org/mobilitydata/gtfsvalidator/parsing/RowParser.java
 repo,tishka17/aiogram_dialog,,reserved,fd605860107aeb65,2026-09-29T03:20:20.564293Z,2026-09-30T03:20:20.564293Z,,
 repo,beaugunderson/ip-address,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:20:30.016925+00:00,2026-09-30T03:20:30.016925+00:00,,
+repo,mailgun/flanker,,reserved,5ee97c73a9f40765,2026-09-29T03:20:36.325789Z,2026-09-30T03:20:36.325789Z,,
