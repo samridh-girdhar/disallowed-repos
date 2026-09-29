@@ -752,5 +752,5 @@ repo,liriansu-opus/chinese-calendar,,note,fd605860107aeb65,2026-09-29T03:15:59.7
 repo,blinktaginc/node-gtfs,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:15:55.957136+00:00,2026-09-30T03:15:55.957136+00:00,,
 repo,cloudflare/xdpcap,,note,5ee97c73a9f40765,2026-09-29T03:16:31.448326Z,,Active at inspection; small userspace CLI and privileged eBPF capture architecture unsuitable for this low-difficulty offline lineage.,
 repo,clivern/walrus,,note,8f9cb2408824be3b,2026-09-29T03:16:38Z,,Default branch HEAD c24b0901657d3bc378f46da98d0141a2cba7d657 dated 2024-08-01; lacks qualifying recent source activity as inspected 2026-09-29.,https://github.com/clivern/walrus
-repo,combine-lab/salmon,,reserved,fd605860107aeb65,2026-09-29T03:16:43.268755Z,2026-09-30T03:16:43.268755Z,,
+repo,combine-lab/salmon,,note,fd605860107aeb65,2026-09-29T03:17:51.128584Z,,Inspected ed926b8: conventional quantmerge and gene aggregation workflows already implemented; remaining substantial candidates unsuitable for requested beginner difficulty.,
 repo,astropy/astroquery,,reserved,70f2637d39e84a278b04c10479f1b534,2026-09-29T03:16:48.999033Z,2026-09-30T03:16:48.999033Z,Local problem creation in progress.,https://github.com/astropy/astroquery
