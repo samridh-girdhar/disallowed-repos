@@ -773,3 +773,4 @@ idea,gobackup/gobackup,"Generate backup content manifests and verify extracted-d
 repo,kuzmoyev/google-calendar-simple-api,,note,5ee97c73a9f40765,2026-09-29T03:27:11.237226Z,,Existing event/calendar/ACL workflows are complete; examined bulk wrappers are below substantive scope and richer temporal workflows exceed this low-difficulty target.,
 repo,ispras/dedoc,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:27:31.628006+00:00,2026-09-30T03:27:31.628006+00:00,,
 repo,gnehs/subtitle-translator-electron,,reserved,5ee97c73a9f40765,2026-09-29T03:27:40.472225Z,2026-09-30T03:27:40.472225Z,,
+repo,flohoss/gocron,,reserved,8f9cb2408824be3b,2026-09-29T03:29:07Z,2026-09-30T03:29:07Z,,https://github.com/flohoss/gocron
