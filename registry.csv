@@ -758,7 +758,7 @@ repo,vue-terminal/vue-termui,,note,8f9cb2408824be3b,2026-09-29T03:20:02Z,,No qua
 repo,rfjakob/gocryptfs,,note,fd605860107aeb65,2026-09-29T03:19:35.594902Z,,Inspected 842af44 for a beginner task: offline inspection improvements below 200 LOC; full offline encryption/decryption already supplied by README-linked tools.,
 idea,blinktaginc/node-gtfs,Validate local CSV feeds against declared scalar and range metadata with complete reports,rejected,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:19:25.839073+00:00,,"MobilityData RowParser, EndRangeValidatorGenerator and feed/header loaders supply required fields, scalar parsing/bounds, ranges and local-feed reporting; remaining work is host/descriptor adaptation.",https://github.com/MobilityData/gtfs-validator/blob/master/core/src/main/java/org/mobilitydata/gtfsvalidator/parsing/RowParser.java
 repo,tishka17/aiogram_dialog,,reserved,fd605860107aeb65,2026-09-29T03:20:20.564293Z,2026-09-30T03:20:20.564293Z,,
-repo,beaugunderson/ip-address,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:20:30.016925+00:00,2026-09-30T03:20:30.016925+00:00,,
+repo,beaugunderson/ip-address,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:21:47.333904+00:00,,Current IP conversions mostly complete; residual simple additions below natural 200 LOC target.,
 repo,mailgun/flanker,,reserved,5ee97c73a9f40765,2026-09-29T03:20:36.325789Z,2026-09-30T03:20:36.325789Z,,
 repo,stripe/pg-schema-diff,,reserved,70f2637d39e84a278b04c10479f1b534,2026-09-29T03:20:44.778278Z,2026-09-30T03:20:44.778278Z,Local problem creation in progress.,https://github.com/stripe/pg-schema-diff
 repo,gobackup/gobackup,,reserved,8f9cb2408824be3b,2026-09-29T03:20:54Z,2026-09-30T03:20:54Z,,https://github.com/gobackup/gobackup
