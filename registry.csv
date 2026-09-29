@@ -751,3 +751,4 @@ repo,fioncat/otree,,used,f3bf819bc9c54e53951a8758968f081a,2026-09-28T18:36:31.19
 repo,liriansu-opus/chinese-calendar,,note,fd605860107aeb65,2026-09-29T03:15:59.787268Z,,Inspected 54efbd4: compact date-query API and table maintenance; obvious requested repairs fall below 200 effective production LOC.,
 repo,blinktaginc/node-gtfs,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:15:55.957136+00:00,2026-09-30T03:15:55.957136+00:00,,
 repo,cloudflare/xdpcap,,note,5ee97c73a9f40765,2026-09-29T03:16:31.448326Z,,Active at inspection; small userspace CLI and privileged eBPF capture architecture unsuitable for this low-difficulty offline lineage.,
+repo,clivern/walrus,,note,8f9cb2408824be3b,2026-09-29T03:16:38Z,,Default branch HEAD c24b0901657d3bc378f46da98d0141a2cba7d657 dated 2024-08-01; lacks qualifying recent source activity as inspected 2026-09-29.,https://github.com/clivern/walrus
