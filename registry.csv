@@ -763,7 +763,7 @@ repo,mailgun/flanker,,note,5ee97c73a9f40765,2026-09-29T03:22:00.557078Z,,Examine
 repo,stripe/pg-schema-diff,,reserved,70f2637d39e84a278b04c10479f1b534,2026-09-29T03:20:44.778278Z,2026-09-30T03:20:44.778278Z,Local problem creation in progress.,https://github.com/stripe/pg-schema-diff
 repo,gobackup/gobackup,,reserved,8f9cb2408824be3b,2026-09-29T03:20:54Z,2026-09-30T03:20:54Z,,https://github.com/gobackup/gobackup
 repo,longshotlabs/simpl-schema,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:24:41.433673+00:00,,Screened schema conversion and async workflows already have public implementations; other simple additions below scope.,
-repo,pterm/pterm,,reserved,5ee97c73a9f40765,2026-09-29T03:22:31.466911Z,2026-09-30T03:22:31.466911Z,,
+repo,pterm/pterm,,note,5ee97c73a9f40765,2026-09-29T03:26:03.592918Z,,Grouped bar chart request needs about120-180 effective lines after existing render helpers; numeric inline editor has a higher difficulty interaction.,
 repo,ianare/exif-py,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:23:48.505510+00:00,,"Recent changes limited to license metadata, CI and README; latest exifread source activity Aug 2025 exceeds current 12-month window.",
 repo,gookit/color,,reserved,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:24:12.491753+00:00,2026-09-30T03:24:12.491753+00:00,,
 idea,stripe/pg-schema-diff,Preserve COMMENT ON metadata across schema migrations,rejected,70f2637d39e84a278b04c10479f1b534,2026-09-29T03:25:29.382807Z,,Existing implementation in open PR https://github.com/stripe/pg-schema-diff/pull/278.,https://github.com/stripe/pg-schema-diff
