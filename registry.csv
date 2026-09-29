@@ -761,7 +761,7 @@ repo,tishka17/aiogram_dialog,,reserved,fd605860107aeb65,2026-09-29T03:20:20.5642
 repo,beaugunderson/ip-address,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:21:47.333904+00:00,,Current IP conversions mostly complete; residual simple additions below natural 200 LOC target.,
 repo,mailgun/flanker,,note,5ee97c73a9f40765,2026-09-29T03:22:00.557078Z,,Examined MIME and address workflows reduced to small repairs below substantive scope for a low-difficulty lineage.,
 repo,stripe/pg-schema-diff,,reserved,70f2637d39e84a278b04c10479f1b534,2026-09-29T03:20:44.778278Z,2026-09-30T03:20:44.778278Z,Local problem creation in progress.,https://github.com/stripe/pg-schema-diff
-repo,gobackup/gobackup,,reserved,8f9cb2408824be3b,2026-09-29T03:20:54Z,2026-09-30T03:20:54Z,,https://github.com/gobackup/gobackup
+repo,gobackup/gobackup,,note,8f9cb2408824be3b,2026-09-29T03:26:21Z,,No qualifying difficulty3 scope selected; manifest verification rejected separately as publicly solved; full split-package browsing crosses incompatible backend download/list capabilities.,https://github.com/gobackup/gobackup
 repo,longshotlabs/simpl-schema,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:24:41.433673+00:00,,Screened schema conversion and async workflows already have public implementations; other simple additions below scope.,
 repo,pterm/pterm,,note,5ee97c73a9f40765,2026-09-29T03:26:03.592918Z,,Grouped bar chart request needs about120-180 effective lines after existing render helpers; numeric inline editor has a higher difficulty interaction.,
 repo,ianare/exif-py,,note,0b7a4d32defb40e8b3accc12c979f137,2026-09-29T03:23:48.505510+00:00,,"Recent changes limited to license metadata, CI and README; latest exifread source activity Aug 2025 exceeds current 12-month window.",
