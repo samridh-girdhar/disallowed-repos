@@ -883,10 +883,12 @@ repo,revive-lint/revive,,note,c108361185a3,2026-10-10T13:03:09.449210+00:00,,Adm
 repo,adhocore/gronx,,used,c108361185a3,2026-10-10T14:24:51.838532+00:00,,Locally verified Go bundle delivered; platform checks not run.,
 repo,ivaaaan/smug,,note,c108361185a3,2026-10-10T13:16:50.949146+00:00,,Admitted MIT. Config inheritance and owned startup rollback remain below 200 effective production lines after YAML and existing tmux lifecycle reuse. No delivered submission.,
 repo,fb55/htmlparser2,,note,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:15:22.640849+00:00,,Inspected candidate: plausible lifecycle and foreign-content gaps overlap public open PRs; no selected scope.,https://github.com/fb55/htmlparser2
-repo,insomniacslk/dhcp,,reserved,12991c5c92a84c17b32e176c86d3181c,2026-10-10T20:14:04.507033Z,2026-10-11T20:14:04.507033Z,,
+repo,insomniacslk/dhcp,,note,12991c5c92a84c17b32e176c86d3181c,2026-10-10T20:17:25.971521Z,,Current packet gaps shrink to routine parser reuse or established implementations; source assessment did not find a suitable 7/10 task.,https://github.com/insomniacslk/dhcp
 repo,drewnoakes/metadata-extractor,,reserved,ac6e22950d6049649f76f96513883f6f,2026-10-10T20:14:37Z,2026-10-11T20:14:37Z,,
 repo,pimutils/khal,,reserved,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:15:03.325408+00:00,2026-10-11T20:15:03.325408+00:00,,https://github.com/pimutils/khal
 idea,fb55/htmlparser2,Callback-safe parser reset,rejected,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:15:22.640849+00:00,,Existing public implementation attempt,https://github.com/fb55/htmlparser2/pull/2539
 idea,fb55/htmlparser2,Finish and resume completed input once,rejected,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:15:22.640849+00:00,,Existing public implementation attempt,https://github.com/fb55/htmlparser2/pull/2538
 idea,fb55/htmlparser2,Foreign integration-point CDATA recognition,rejected,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:15:22.640849+00:00,,Existing public implementation attempt,https://github.com/fb55/htmlparser2/pull/2540
 repo,tootallnate/plist.js,,reserved,12991c5c92a84c17b32e176c86d3181c,2026-10-10T20:16:17.643433Z,2026-10-11T20:16:17.643433Z,,
+repo,rulego/rulego,,reserved,12991c5c92a84c17b32e176c86d3181c,2026-10-10T20:17:25.971521Z,2026-10-11T20:17:25.971521Z,,
+idea,insomniacslk/dhcp,Bounded DHCPv4 option-overload serialization,rejected,12991c5c92a84c17b32e176c86d3181c,2026-10-10T20:17:25.971521Z,,"ISC DHCP cons_options/store_options implements capacity budgeting, option splitting across options/file/sname, and boot-field eligibility; dominant behavior transfers with limited adaptation.",https://github.com/isc-projects/dhcp/blob/master/common/options.c
