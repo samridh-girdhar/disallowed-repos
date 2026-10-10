@@ -881,4 +881,4 @@ repo,showlab/show-harness,,note,task-ad6743579f34,2026-10-10T12:53:41.418641Z,,O
 repo,unixzii/ibackupextractor,,reserved,task-ad6743579f34,2026-10-10T12:54:02.859074Z,2026-10-11T12:54:02.859074Z,,
 repo,revive-lint/revive,,note,c108361185a3,2026-10-10T13:03:09.449210+00:00,,Admitted MIT. Source-screened ordinary rule and cancellation changes below local scope; substantive overwrite analysis overlaps existing ineffassign functionality. No delivered submission.,
 repo,adhocore/gronx,,reserved,c108361185a3,2026-10-10T13:11:36.414504+00:00,2026-10-11T13:11:36.414504+00:00,"Admitted MIT. Cron core already shares range, modifier and next/previous helpers; remaining validation, DST and tasker lifecycle changes have weak sub-200 scope after reuse. No delivered submission.",
-repo,ivaaaan/smug,,reserved,c108361185a3,2026-10-10T13:09:53.660532+00:00,2026-10-11T13:09:53.660532+00:00,,
+repo,ivaaaan/smug,,note,c108361185a3,2026-10-10T13:16:50.949146+00:00,,Admitted MIT. Config inheritance and owned startup rollback remain below 200 effective production lines after YAML and existing tmux lifecycle reuse. No delivered submission.,
