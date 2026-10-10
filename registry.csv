@@ -865,3 +865,4 @@ repo,sphinx-doc/sphinx,,note,639d88f7cf684f038054ad234e77fb8a,2026-09-29T14:59:5
 idea,dbcli/pgcli,Migrate configuration parsing from ConfigObj to configparser,rejected,639d88f7cf684f038054ad234e77fb8a,2026-09-29T15:13:05.792822+00:00,,ConfigObj to configparser migration already implemented in open PR1635.,https://github.com/dbcli/pgcli/pull/1635
 repo,grafviktor/goto,,reserved,cf5abd07bee148ababa3a7fd0cf53a68,2026-10-10T12:17:17Z,2026-10-11T12:17:17Z,,
 repo,nowledge-co/con-terminal,,reserved,task-ad6743579f34,2026-10-10T12:17:51.091496Z,2026-10-11T12:17:51.091496Z,,
+repo,in-toto/witness,,reserved,c108361185a3,2026-10-10T12:18:27.198282+00:00,2026-10-11T12:18:27.198282+00:00,,
