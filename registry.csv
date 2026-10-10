@@ -866,4 +866,4 @@ idea,dbcli/pgcli,Migrate configuration parsing from ConfigObj to configparser,re
 repo,grafviktor/goto,,reserved,cf5abd07bee148ababa3a7fd0cf53a68,2026-10-10T12:17:17Z,2026-10-11T12:17:17Z,,
 repo,nowledge-co/con-terminal,,note,task-ad6743579f34,2026-10-10T12:21:40.719922Z,,Focused portable-core source pass found small repairs; existing layout and resource-transfer workflows already substantial. Advisory scope observation.,https://github.com/nowledge-co/con-terminal
 repo,in-toto/witness,,reserved,c108361185a3,2026-10-10T12:18:27.198282+00:00,2026-10-11T12:18:27.198282+00:00,,
-repo,boddlnagg/midir,,reserved,task-ad6743579f34,2026-10-10T12:22:06.374287Z,2026-10-11T12:22:06.374287Z,,
+repo,boddlnagg/midir,,note,task-ad6743579f34,2026-10-10T12:23:55.204034Z,,"Native MIDI IO wrappers; JACK dummy backend provides hardware-free tests, but focused repair scope was below local size target. Advisory scope observation.",https://github.com/boddlnagg/midir
