@@ -882,3 +882,4 @@ repo,unixzii/ibackupextractor,,used,task-ad6743579f34,2026-10-10T13:33:06.092744
 repo,revive-lint/revive,,note,c108361185a3,2026-10-10T13:03:09.449210+00:00,,Admitted MIT. Source-screened ordinary rule and cancellation changes below local scope; substantive overwrite analysis overlaps existing ineffassign functionality. No delivered submission.,
 repo,adhocore/gronx,,used,c108361185a3,2026-10-10T14:24:51.838532+00:00,,Locally verified Go bundle delivered; platform checks not run.,
 repo,ivaaaan/smug,,note,c108361185a3,2026-10-10T13:16:50.949146+00:00,,Admitted MIT. Config inheritance and owned startup rollback remain below 200 effective production lines after YAML and existing tmux lifecycle reuse. No delivered submission.,
+repo,fb55/htmlparser2,,reserved,6b3e7a75cc3947e5a85cb89bda322a18,2026-10-10T20:13:58.096330+00:00,2026-10-11T20:13:58.096330+00:00,,https://github.com/fb55/htmlparser2
