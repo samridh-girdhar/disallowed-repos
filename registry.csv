@@ -909,3 +909,4 @@ repo,facet-rs/facet,,reserved,30e16c3331264d1db0fd5f0187a43ff3,2026-10-12T11:38:
 repo,folbricht/routedns,,reserved,4cc3f1a0-42d4-4b0e-8da2-17bd59443ca0,2026-10-12T11:42:59.869130Z,2026-10-13T11:42:59.869130Z,,
 repo,ui-router/react,,note,41e15851efbe,2026-10-12T11:50:56Z,,Local React adapter is compact; core routing delegated to external dependency. Reassess for scopes with substantial local behavior.,https://github.com/ui-router/react/tree/e6c92104edd348de2b53d4502844b1be4f221ef5/src
 repo,timescale/tsbs,,note,41e15851efbe,2026-10-12T11:50:59Z,,Latest source change found September 2023; May 2026 commit only updates CI setup-go. Reassess activity before selection.,https://github.com/timescale/tsbs/commits/master/
+repo,macbre/sql-metadata,,reserved,41e15851efbe,2026-10-12T11:51:35Z,2026-10-13T11:51:35Z,,
