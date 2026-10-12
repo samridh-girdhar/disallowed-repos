@@ -911,5 +911,5 @@ repo,ui-router/react,,note,41e15851efbe,2026-10-12T11:50:56Z,,Local React adapte
 repo,timescale/tsbs,,note,41e15851efbe,2026-10-12T11:50:59Z,,Latest source change found September 2023; May 2026 commit only updates CI setup-go. Reassess activity before selection.,https://github.com/timescale/tsbs/commits/master/
 repo,macbre/sql-metadata,,note,41e15851efbe,2026-10-12T11:54:17Z,,Scoped alias/projection candidate overlaps existing sqlglot scope and lineage implementation; other metadata gaps may remain.,https://github.com/tobymao/sqlglot/blob/v30.12.0/sqlglot/lineage.py
 repo,sverweij/state-machine-cat,,used,41e15851efbe,2026-10-12T12:37:35Z,,Locally verified four-file bundle delivered; platform approval unmeasured.,
-repo,rust-syndication/rss,,reserved,d30fe00248ca998e,2026-10-12T13:37:10.222302Z,2026-10-13T13:37:10.222302Z,Warning-free admission; local problem research in progress.,https://github.com/rust-syndication/rss
+repo,rust-syndication/rss,,note,d30fe00248ca998e,2026-10-12T13:42:12.787682Z,,Source assessment found compact read/write repairs after helper reuse; mixed-content changes require representation design. No problem selected.,https://github.com/rust-syndication/rss
 repo,foblex/f-flow,,reserved,28cdb03018da178e,2026-10-12T13:38:25.265429Z,2026-10-13T13:38:25.265429Z,Creation in progress,https://github.com/Foblex/f-flow
