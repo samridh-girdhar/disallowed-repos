@@ -922,5 +922,5 @@ repo,dnscontrol/dnscontrol,,used,0b1c59ab49c1d5b9,2026-10-13T21:41:07Z,,Locally 
 repo,cschleiden/go-workflows,,reserved,olympus-053f096cc7ad,2026-10-14T12:00:40Z,2026-10-15T12:00:40Z,,https://github.com/cschleiden/go-workflows
 repo,jiaqi/jmxterm,,note,task-0616e1accc73,2026-10-14T12:02:03.325983Z,,"Source assessment: command conversion, formatting and session lifecycle are compact; inspected repair paths collapse to central helpers. No scope selected.",https://github.com/jiaqi/jmxterm
 repo,snowflakedb/snowflake-connector-python,,reserved,45ea7d1f9a77,2026-10-14T12:01:11.994482Z,2026-10-15T12:01:11.994482Z,,
-repo,clearml/clearml,,reserved,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:01:30+00:00,2026-10-15T12:01:30+00:00,Repository admitted for local problem research.,https://github.com/clearml/clearml
+repo,clearml/clearml,,note,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:03:16+00:00,,Public pinned checkout lacks pre-existing native regressions usable for the required base runner.,https://github.com/clearml/clearml/tree/8738571cdce186ec43d1ab14de385f03ec1999f3
 repo,moquette-io/moquette,,reserved,task-0616e1accc73,2026-10-14T12:02:33.051585Z,2026-10-15T12:02:33.051585Z,,https://github.com/moquette-io/moquette
