@@ -924,5 +924,5 @@ repo,jiaqi/jmxterm,,note,task-0616e1accc73,2026-10-14T12:02:03.325983Z,,"Source 
 repo,snowflakedb/snowflake-connector-python,,reserved,45ea7d1f9a77,2026-10-14T12:01:11.994482Z,2026-10-15T12:01:11.994482Z,,
 repo,clearml/clearml,,note,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:03:16+00:00,,Public pinned checkout lacks pre-existing native regressions usable for the required base runner.,https://github.com/clearml/clearml/tree/8738571cdce186ec43d1ab14de385f03ec1999f3
 repo,moquette-io/moquette,,reserved,task-0616e1accc73,2026-10-14T12:02:33.051585Z,2026-10-15T12:02:33.051585Z,,https://github.com/moquette-io/moquette
-repo,carthage-software/mago,,reserved,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:03:39+00:00,2026-10-15T12:03:39+00:00,Repository admitted for local problem research.,https://github.com/carthage-software/mago
+repo,carthage-software/mago,,note,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:12:55+00:00,,Candidate bugfixes reviewed; helper reuse makes remaining scoped fixes compact. New source assessment is allowed.,https://github.com/carthage-software/mago/issues/2520
 repo,ovh/utask,,reserved,olympus-053f096cc7ad,2026-10-14T12:11:53Z,2026-10-15T12:11:53Z,,https://github.com/ovh/utask
