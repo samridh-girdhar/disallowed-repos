@@ -921,3 +921,4 @@ repo,influxdata/kapacitor,,used,f1726f4f75e8833b,2026-10-13T21:57:39.009702Z,,Lo
 repo,dnscontrol/dnscontrol,,used,0b1c59ab49c1d5b9,2026-10-13T21:41:07Z,,Locally verified bundle delivered; platform approval unmeasured.,https://github.com/DNSControl/dnscontrol
 repo,cschleiden/go-workflows,,reserved,olympus-053f096cc7ad,2026-10-14T12:00:40Z,2026-10-15T12:00:40Z,,https://github.com/cschleiden/go-workflows
 repo,jiaqi/jmxterm,,reserved,task-0616e1accc73,2026-10-14T12:00:48.314605Z,2026-10-15T12:00:48.314605Z,,https://github.com/jiaqi/jmxterm
+repo,snowflakedb/snowflake-connector-python,,reserved,45ea7d1f9a77,2026-10-14T12:01:11.994482Z,2026-10-15T12:01:11.994482Z,,
