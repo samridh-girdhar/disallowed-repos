@@ -941,5 +941,6 @@ repo,serkodev/markdown-exit,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08
 repo,genivia/re-flex,,reserved,f7252cb35fb02489,2026-10-15T08:45:16Z,2026-10-16T08:45:16Z,,
 repo,supabase/wrappers,,note,81683eea68912175,2026-10-15T08:46:24.786257+00:00,,Selection deferred: PostgreSQL/pgrx service integration and remote FDW adapters; no suitable isolated bugfix scope selected.,https://github.com/supabase/wrappers
 repo,cloudykit/jet,,reserved,21e819d6a2cbfdec,2026-10-15T08:45:49.979839+00:00,2026-10-16T08:45:49.979839+00:00,,
-repo,phith0n/zkar,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:47:20.028515+00:00,2026-10-16T08:47:20.028515+00:00,,
+repo,phith0n/zkar,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,,Inspected codec; candidate repairs have short direct solutions and weak long-horizon potential.,https://github.com/phith0n/zkar
 repo,blugelabs/bluge,,reserved,21e819d6a2cbfdec,2026-10-15T08:48:29.723985+00:00,2026-10-16T08:48:29.723985+00:00,,
+repo,huggingface/xet-core,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,2026-10-16T08:48:59.019562+00:00,,
