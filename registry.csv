@@ -938,7 +938,7 @@ idea,snowflakedb/snowflake-connector-python,Avoid result-prefetch deadlocks,reje
 repo,cwida/fsst,,note,,2026-10-15T08:44:45Z,,No pre-existing automated regression tests found in pinned source e638d4c; assess harness feasibility before reuse.,https://github.com/cwida/fsst/tree/e638d4cf8c26129d73c242a4127b42b975de5b63
 repo,rust-minidump/rust-minidump,,note,,2026-10-15T08:44:08Z,,Repository admission capacity exhausted when observed; reassess before new lineage.,
 repo,serkodev/markdown-exit,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:47:20.028515+00:00,,Async wrapper compatibility implemented in PRs 34 and 36; residual env default repair is routine.,https://github.com/serkodev/markdown-exit/pull/36
-repo,genivia/re-flex,,reserved,f7252cb35fb02489,2026-10-15T08:45:16Z,2026-10-16T08:45:16Z,,
+repo,genivia/re-flex,,note,,2026-10-15T08:57:06Z,,Released after shortlisted scopes had short helper-based repairs or no reproduced defect. Not a repository-wide exclusion.,https://github.com/Genivia/RE-flex/tree/c06bb16a49e79f4f123f4b31b6f53e5bfa884624
 repo,supabase/wrappers,,note,81683eea68912175,2026-10-15T08:46:24.786257+00:00,,Selection deferred: PostgreSQL/pgrx service integration and remote FDW adapters; no suitable isolated bugfix scope selected.,https://github.com/supabase/wrappers
 repo,cloudykit/jet,,note,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,,Source assessment: try-frame repair and cyclic import ancestry propagation remain compact after helper reuse. No scope selected.,https://github.com/CloudyKit/jet/issues/199
 repo,phith0n/zkar,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,,Inspected codec; candidate repairs have short direct solutions and weak long-horizon potential.,https://github.com/phith0n/zkar
@@ -946,3 +946,4 @@ repo,blugelabs/bluge,,note,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,,La
 repo,huggingface/xet-core,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,2026-10-16T08:48:59.019562+00:00,,
 repo,askama-rs/askama,,reserved,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,2026-10-16T08:49:23.787039+00:00,,
 repo,earth-mover/icechunk,,reserved,81683eea68912175,2026-10-15T08:51:29.474813+00:00,2026-10-16T08:51:29.474813+00:00,,https://github.com/earth-mover/icechunk
+repo,laihoe/demoparser,,reserved,f7252cb35fb02489,2026-10-15T08:57:06Z,2026-10-16T08:57:06Z,,
