@@ -939,3 +939,4 @@ repo,cwida/fsst,,note,,2026-10-15T08:44:45Z,,No pre-existing automated regressio
 repo,rust-minidump/rust-minidump,,note,,2026-10-15T08:44:08Z,,Repository admission capacity exhausted when observed; reassess before new lineage.,
 repo,serkodev/markdown-exit,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:44:22.974360+00:00,2026-10-16T08:44:22.974360+00:00,,
 repo,genivia/re-flex,,reserved,f7252cb35fb02489,2026-10-15T08:45:16Z,2026-10-16T08:45:16Z,,
+repo,supabase/wrappers,,reserved,81683eea68912175,2026-10-15T08:45:26.774363+00:00,2026-10-16T08:45:26.774363+00:00,,https://github.com/supabase/wrappers
