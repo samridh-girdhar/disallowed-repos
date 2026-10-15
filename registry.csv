@@ -935,3 +935,5 @@ repo,anyproto/any-sync,,note,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:41:2
 idea,anyproto/any-sync,Validate incoming snapshot-base consistency against predecessor graph,rejected,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:41:27+00:00,,"Prior predecessor snapshot consistency guard in PR382, later changed and removed; incomplete prior attempts still exclude this scope.",https://github.com/anyproto/any-sync/pull/382
 repo,lotusdblabs/lotusdb,,used,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T13:47:16+00:00,,Repository admitted for local bugfix research. Delivered locally verified bundle; platform approval unmeasured.,https://github.com/lotusdblabs/lotusdb
 idea,snowflakedb/snowflake-connector-python,Avoid result-prefetch deadlocks,rejected,45ea7d1f9a77,2026-10-14T12:50:55.815777Z,,Existing implementation attempt in PR2559; issue2213 links the fix.,https://github.com/snowflakedb/snowflake-connector-python/pull/2559
+repo,cwida/fsst,,reserved,f7252cb35fb02489,2026-10-15T08:44:08Z,2026-10-16T08:44:08Z,,
+repo,rust-minidump/rust-minidump,,note,,2026-10-15T08:44:08Z,,Repository admission capacity exhausted when observed; reassess before new lineage.,
