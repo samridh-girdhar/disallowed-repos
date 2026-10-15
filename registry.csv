@@ -935,6 +935,6 @@ repo,anyproto/any-sync,,note,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:41:2
 idea,anyproto/any-sync,Validate incoming snapshot-base consistency against predecessor graph,rejected,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T12:41:27+00:00,,"Prior predecessor snapshot consistency guard in PR382, later changed and removed; incomplete prior attempts still exclude this scope.",https://github.com/anyproto/any-sync/pull/382
 repo,lotusdblabs/lotusdb,,used,4afe6fa615084e4199ceecf3f5964cc8,2026-10-14T13:47:16+00:00,,Repository admitted for local bugfix research. Delivered locally verified bundle; platform approval unmeasured.,https://github.com/lotusdblabs/lotusdb
 idea,snowflakedb/snowflake-connector-python,Avoid result-prefetch deadlocks,rejected,45ea7d1f9a77,2026-10-14T12:50:55.815777Z,,Existing implementation attempt in PR2559; issue2213 links the fix.,https://github.com/snowflakedb/snowflake-connector-python/pull/2559
-repo,cwida/fsst,,reserved,f7252cb35fb02489,2026-10-15T08:44:08Z,2026-10-16T08:44:08Z,,
+repo,cwida/fsst,,note,,2026-10-15T08:44:45Z,,No pre-existing automated regression tests found in pinned source e638d4c; assess harness feasibility before reuse.,https://github.com/cwida/fsst/tree/e638d4cf8c26129d73c242a4127b42b975de5b63
 repo,rust-minidump/rust-minidump,,note,,2026-10-15T08:44:08Z,,Repository admission capacity exhausted when observed; reassess before new lineage.,
 repo,serkodev/markdown-exit,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:44:22.974360+00:00,2026-10-16T08:44:22.974360+00:00,,
