@@ -940,7 +940,8 @@ repo,rust-minidump/rust-minidump,,note,,2026-10-15T08:44:08Z,,Repository admissi
 repo,serkodev/markdown-exit,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:47:20.028515+00:00,,Async wrapper compatibility implemented in PRs 34 and 36; residual env default repair is routine.,https://github.com/serkodev/markdown-exit/pull/36
 repo,genivia/re-flex,,reserved,f7252cb35fb02489,2026-10-15T08:45:16Z,2026-10-16T08:45:16Z,,
 repo,supabase/wrappers,,note,81683eea68912175,2026-10-15T08:46:24.786257+00:00,,Selection deferred: PostgreSQL/pgrx service integration and remote FDW adapters; no suitable isolated bugfix scope selected.,https://github.com/supabase/wrappers
-repo,cloudykit/jet,,reserved,21e819d6a2cbfdec,2026-10-15T08:45:49.979839+00:00,2026-10-16T08:45:49.979839+00:00,,
+repo,cloudykit/jet,,note,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,,Source assessment: try-frame repair and cyclic import ancestry propagation remain compact after helper reuse. No scope selected.,https://github.com/CloudyKit/jet/issues/199
 repo,phith0n/zkar,,note,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,,Inspected codec; candidate repairs have short direct solutions and weak long-horizon potential.,https://github.com/phith0n/zkar
-repo,blugelabs/bluge,,reserved,21e819d6a2cbfdec,2026-10-15T08:48:29.723985+00:00,2026-10-16T08:48:29.723985+00:00,,
+repo,blugelabs/bluge,,note,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,,Latest default branch source commit observed 2022-07-04 despite recent push metadata; inactive source.,https://github.com/blugelabs/bluge/commit/57414197005148539c5dc5db8ab581594969df79
 repo,huggingface/xet-core,,reserved,7c9fed8eed0c4feaaa83bd2cad2e04cc,2026-10-15T08:48:59.019562+00:00,2026-10-16T08:48:59.019562+00:00,,
+repo,askama-rs/askama,,reserved,21e819d6a2cbfdec,2026-10-15T08:49:23.787039+00:00,2026-10-16T08:49:23.787039+00:00,,
