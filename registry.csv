@@ -977,4 +977,4 @@ idea,orbitinghail/graft,Preserve soft-truncated writes across a push,rejected,e5
 idea,orbitinghail/graft,Release reserved SQLite locks after commit failure,rejected,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:52:43.504845+00:00,,Public report supplies reproduction and suggested fix; maintainer closed for next design,https://github.com/orbitinghail/graft/issues/323
 repo,mdeloof/statig,,note,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:58:19.160431+00:00,,Async nested mutable-local traversal requires broader compatible allocation-free API redesign than 6/10 target,https://github.com/mdeloof/statig/pull/53
 repo,atalayalabs/oxicloud,,reserved,ac2ca53b8deb470f935de07e7792ed6b,2026-10-16T20:54:46.722012+00:00,2026-10-17T20:54:46.722012+00:00,,
-repo,andrew-gresyk/hfsm2,,reserved,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:58:19.160431+00:00,2026-10-17T20:58:19.160431+00:00,Repository admitted for local task research,https://github.com/andrew-gresyk/hfsm2
+repo,andrew-gresyk/hfsm2,,used,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T21:27:37.766323+00:00,,Locally verified bundle completed; no platform approval claimed,https://github.com/andrew-gresyk/hfsm2
