@@ -972,3 +972,4 @@ repo,apidevtools/json-schema-ref-parser,,used,6a8e28dffc27ab41,2026-10-16T19:28:
 repo,orbitinghail/graft,,reserved,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:49:52.097765+00:00,2026-10-17T20:49:52.097765+00:00,Repository admitted for local task research,https://github.com/orbitinghail/graft
 repo,web-infra-dev/rslib,,note,28e43664-450e-4f89-9558-05860ac8500c,2026-10-16T20:52:29Z,,Investigated source: declaration-worker lifecycle and temporary cleanup repairs are too localized for this task; not a repository exclusion.,https://github.com/web-infra-dev/rslib
 repo,paulmach/orb,,reserved,ac2ca53b8deb470f935de07e7792ed6b,2026-10-16T20:50:26.958982+00:00,2026-10-17T20:50:26.958982+00:00,,
+repo,digitecgalaxus/next-yak,,reserved,28e43664-450e-4f89-9558-05860ac8500c,2026-10-16T20:52:42Z,2026-10-17T20:52:42Z,,https://github.com/DigitecGalaxus/next-yak
