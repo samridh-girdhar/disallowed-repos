@@ -970,5 +970,5 @@ idea,productdevbook/hucre,Preserve pivot-table worksheet ownership and cache IDs
 repo,michael-brade/latex.js,,note,6a8e28dffc27ab41,2026-10-16T18:20:09.355764+00:00,,Pinned main is in an incomplete TypeScript migration; environment not verified. No selected scope.,https://github.com/michael-brade/LaTeX.js/commit/bda76c351efa2ffd15550a46d61c6431cd2c9d2c
 repo,apidevtools/json-schema-ref-parser,,used,6a8e28dffc27ab41,2026-10-16T19:28:35.210855+00:00,,Locally verified submission bundle delivered.,
 repo,orbitinghail/graft,,reserved,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:49:52.097765+00:00,2026-10-17T20:49:52.097765+00:00,Repository admitted for local task research,https://github.com/orbitinghail/graft
-repo,web-infra-dev/rslib,,reserved,28e43664-450e-4f89-9558-05860ac8500c,2026-10-16T20:50:12Z,2026-10-17T20:50:12Z,,https://github.com/web-infra-dev/rslib
+repo,web-infra-dev/rslib,,note,28e43664-450e-4f89-9558-05860ac8500c,2026-10-16T20:52:29Z,,Investigated source: declaration-worker lifecycle and temporary cleanup repairs are too localized for this task; not a repository exclusion.,https://github.com/web-infra-dev/rslib
 repo,paulmach/orb,,reserved,ac2ca53b8deb470f935de07e7792ed6b,2026-10-16T20:50:26.958982+00:00,2026-10-17T20:50:26.958982+00:00,,
