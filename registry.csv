@@ -967,3 +967,4 @@ repo,vaphes/pocketbase,,note,31c0465a-8a26-487a-aa59-826bfce3fbca,2026-10-16T18:
 repo,dbos-inc/dbos-transact-golang,,reserved,82e66ea36a55,2026-10-16T18:13:46.030570+00:00,2026-10-17T18:13:46.030570+00:00,,https://github.com/dbos-inc/dbos-transact-golang
 repo,caioricciuti/duck-ui,,reserved,31c0465a-8a26-487a-aa59-826bfce3fbca,2026-10-16T18:14:58Z,2026-10-17T18:14:58Z,,https://github.com/caioricciuti/duck-ui
 idea,productdevbook/hucre,Preserve pivot-table worksheet ownership and cache IDs during XLSX roundtrip,rejected,6a8e28dffc27ab41,2026-10-16T18:18:21.120710+00:00,,Conventional pivot graph preservation already implemented publicly; remaining path/name adaptation is routine.,https://github.com/ojaDeveloper/ooxml-excel-editor/blob/main/src/core/export/pivot-tables.ts
+repo,michael-brade/latex.js,,reserved,6a8e28dffc27ab41,2026-10-16T18:18:33.831375+00:00,2026-10-17T18:18:33.831375+00:00,,
