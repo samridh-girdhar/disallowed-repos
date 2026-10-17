@@ -978,4 +978,5 @@ idea,orbitinghail/graft,Release reserved SQLite locks after commit failure,rejec
 repo,mdeloof/statig,,note,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:58:19.160431+00:00,,Async nested mutable-local traversal requires broader compatible allocation-free API redesign than 6/10 target,https://github.com/mdeloof/statig/pull/53
 repo,atalayalabs/oxicloud,,reserved,ac2ca53b8deb470f935de07e7792ed6b,2026-10-16T20:54:46.722012+00:00,2026-10-17T20:54:46.722012+00:00,,
 repo,andrew-gresyk/hfsm2,,used,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T21:27:37.766323+00:00,,Locally verified bundle completed; no platform approval claimed,https://github.com/andrew-gresyk/hfsm2
-repo,mna/pigeon,,reserved,olympus-vps-1953b4b3,2026-10-17T00:51:29.350806+00:00,2026-10-18T00:51:29.350806+00:00,Active creation reservation.,https://github.com/mna/pigeon
+repo,mna/pigeon,,note,olympus-vps-1953b4b3,2026-10-17T00:56:41.636144+00:00,,"Checked-in generated parser and static-code files (pigeon.go, builder/generated_static_code.go) couple grammar/runtime changes to generated diffs while non-generated ast/builder scope is narrow for 6/10 horizon",https://github.com/mna/pigeon
+repo,cel-expr/cel-go,,reserved,olympus-vps-1953b4b3,2026-10-17T00:56:41.636144+00:00,2026-10-18T00:56:41.636144+00:00,Active creation reservation.,https://github.com/cel-expr/cel-go
