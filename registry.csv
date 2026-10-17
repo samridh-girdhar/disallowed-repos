@@ -979,4 +979,4 @@ repo,mdeloof/statig,,note,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T20:58:19.1
 repo,atalayalabs/oxicloud,,used,ac2ca53b8deb470f935de07e7792ed6b,2026-10-17T01:46:47.759582+00:00,,Locally verified bundle created,
 repo,andrew-gresyk/hfsm2,,used,e5b55f192eaa4f56a6f48329e84e6d52,2026-10-16T21:27:37.766323+00:00,,Locally verified bundle completed; no platform approval claimed,https://github.com/andrew-gresyk/hfsm2
 repo,mna/pigeon,,note,olympus-vps-1953b4b3,2026-10-17T00:56:41.636144+00:00,,"Checked-in generated parser and static-code files (pigeon.go, builder/generated_static_code.go) couple grammar/runtime changes to generated diffs while non-generated ast/builder scope is narrow for 6/10 horizon",https://github.com/mna/pigeon
-repo,cel-expr/cel-go,,reserved,olympus-vps-1953b4b3,2026-10-17T00:56:41.636144+00:00,2026-10-18T00:56:41.636144+00:00,Active creation reservation.,https://github.com/cel-expr/cel-go
+repo,cel-expr/cel-go,,used,olympus-vps-1953b4b3,2026-10-17T02:32:08.410726+00:00,,Completed local verification (repo-1).,https://github.com/cel-expr/cel-go
