@@ -989,5 +989,5 @@ repo,skeema/skeema,,note,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,,Skeema deleg
 repo,nevalang/neva,,reserved,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,2026-10-19T00:24:38Z,"Reserved for repo-5 (1085 stars, MIT, Go)",https://github.com/nevalang/neva
 repo,deepnoodle-ai/risor,,blocked,olympus-vps-d3513952,2026-10-18T18:14:22Z,,Repository has reached the platform limit of 50 submissions,https://github.com/deepnoodle-ai/risor/commit/673ea58db64937ef2e20a6a1c8dbe39b4ae4bcf5
 repo,mvdan/sh,,note,olympus-vps-a363e27d,2026-10-18T18:06:46Z,,Existing interp_test.go and filetests_test.go tables pin exact outputs and error strings for unimplemented shell features in base tests,https://github.com/mvdan/sh
-repo,gobuffalo/plush,,reserved,olympus-vps-a363e27d,2026-10-18T18:06:46Z,2026-10-19T18:06:46Z,Reserved for repo-6 multi-stage pipeline scouting and evaluation,https://github.com/gobuffalo/plush
+repo,gobuffalo/plush,,used,olympus-vps-a363e27d,2026-10-18T18:06:46Z,2026-10-19T18:06:46Z,Reserved for repo-6 multi-stage pipeline scouting and evaluation,https://github.com/gobuffalo/plush
 repo,ogen-go/ogen,,reserved,olympus-vps-d3513952,2026-10-18T18:17:44Z,2026-10-19T18:17:44Z,"Reserved for repo-7 (2146 stars, Apache-2.0, Go OpenAPI v3 compiler and code generator)",https://github.com/ogen-go/ogen/commit/d84283b7ff30f4f596ef1c848b775f3c918bcfca
