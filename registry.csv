@@ -985,4 +985,5 @@ repo,etcd-io/raft,,note,olympus-vps-5667c688,2026-10-17T13:34:57Z,,Pre-authoring
 repo,ory/keto,,reserved,olympus-vps-5667c688,2026-10-17T13:34:57Z,2026-10-18T13:34:57Z,Admitted Apache-2.0 Go Zanzibar permission and authorization server; reserved for repo-3 creation.,https://github.com/ory/keto/commit/f50b4892b31d01d736720c7ec358db9a1bd3e724
 repo,bufbuild/protocompile,,blocked,olympus-vps-ef3dce55,2026-10-18T00:05:03Z,,344 stars; Olympus requires 500+ stars,https://github.com/bufbuild/protocompile/commit/90bc23db1e9cb2693de5cdca8f4e71558b5ac3a5
 repo,stephenafamo/bob,,note,olympus-vps-9dcf1304,2026-10-18T00:12:28Z,,Released reservation in favor of skeema/skeema,https://github.com/stephenafamo/bob
-repo,skeema/skeema,,reserved,olympus-vps-9dcf1304,2026-10-18T00:12:28Z,2026-10-19T00:12:28Z,"Reserved for repo-5 (1381 stars, Apache-2.0, Go)",https://github.com/skeema/skeema
+repo,skeema/skeema,,note,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,,Skeema delegates DDL parsing to a live/Dockerized MySQL workspace rather than an in-memory AST,https://github.com/skeema/skeema
+repo,nevalang/neva,,reserved,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,2026-10-19T00:24:38Z,"Reserved for repo-5 (1085 stars, MIT, Go)",https://github.com/nevalang/neva
