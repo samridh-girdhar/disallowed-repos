@@ -987,6 +987,6 @@ repo,bufbuild/protocompile,,blocked,olympus-vps-ef3dce55,2026-10-18T00:05:03Z,,3
 repo,stephenafamo/bob,,note,olympus-vps-9dcf1304,2026-10-18T00:12:28Z,,Released reservation in favor of skeema/skeema,https://github.com/stephenafamo/bob
 repo,skeema/skeema,,note,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,,Skeema delegates DDL parsing to a live/Dockerized MySQL workspace rather than an in-memory AST,https://github.com/skeema/skeema
 repo,nevalang/neva,,reserved,olympus-vps-9dcf1304,2026-10-18T00:24:38Z,2026-10-19T00:24:38Z,"Reserved for repo-5 (1085 stars, MIT, Go)",https://github.com/nevalang/neva
-repo,deepnoodle-ai/risor,,reserved,olympus-vps-d3513952,2026-10-18T17:53:16Z,2026-10-19T17:53:16Z,"Reserved for repo-7 (910 stars, Apache-2.0, Go embeddable scripting language compiler/VM)",https://github.com/deepnoodle-ai/risor/commit/673ea58db64937ef2e20a6a1c8dbe39b4ae4bcf5
+repo,deepnoodle-ai/risor,,blocked,olympus-vps-d3513952,2026-10-18T18:14:22Z,,Repository has reached the platform limit of 50 submissions,https://github.com/deepnoodle-ai/risor/commit/673ea58db64937ef2e20a6a1c8dbe39b4ae4bcf5
 repo,mvdan/sh,,note,olympus-vps-a363e27d,2026-10-18T18:06:46Z,,Existing interp_test.go and filetests_test.go tables pin exact outputs and error strings for unimplemented shell features in base tests,https://github.com/mvdan/sh
 repo,gobuffalo/plush,,reserved,olympus-vps-a363e27d,2026-10-18T18:06:46Z,2026-10-19T18:06:46Z,Reserved for repo-6 multi-stage pipeline scouting and evaluation,https://github.com/gobuffalo/plush
