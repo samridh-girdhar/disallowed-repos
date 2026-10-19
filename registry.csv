@@ -1000,3 +1000,4 @@ repo,gluesql/gluesql,,note,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-
 repo,xataio/pgroll,,reserved,6cb5bff8dc694eae8c1cf4eec799e81f,2026-10-19T01:58:57.195638+00:00,2026-10-20T01:58:57.195638+00:00,Reserved after warning-free URL admission for local source research.,https://github.com/xataio/pgroll
 idea,gluesql/gluesql,Allow primary-key-changing UPDATE,rejected,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:01:04.565917+00:00,,Maintainer explicitly states primary-key updates are prohibited.,https://github.com/gluesql/gluesql/pull/1517#discussion_r1695240078
 repo,pgplex/pgschema,,reserved,6cb5bff8dc694eae8c1cf4eec799e81f,2026-10-19T02:02:45.010438+00:00,2026-10-20T02:02:45.010438+00:00,Reserved after warning-free URL admission for local source research.,https://github.com/pgplex/pgschema
+repo,rkyv/rkyv,,reserved,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:03:08.741242+00:00,2026-10-20T02:03:08.741242+00:00,,
