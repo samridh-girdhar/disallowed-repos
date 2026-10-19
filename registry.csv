@@ -1004,3 +1004,4 @@ repo,rkyv/rkyv,,note,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:
 repo,jam1garner/binrw,,note,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:08:18.206171+00:00,,Selection released; repository remains eligible.,https://github.com/jam1garner/binrw
 repo,evhub/coconut,,reserved,6cb5bff8dc694eae8c1cf4eec799e81f,2026-10-19T02:08:14.861214+00:00,2026-10-20T02:08:14.861214+00:00,Reserved after warning-free URL admission for local source research.,https://github.com/evhub/coconut
 repo,dolthub/go-mysql-server,,blocked,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:09:19.020573+00:00,,Live repository URL admission reports repository 50-submission limit reached.,https://github.com/dolthub/go-mysql-server
+repo,ormar-orm/ormar,,reserved,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:09:21.567243+00:00,2026-10-20T02:09:21.567243+00:00,,
