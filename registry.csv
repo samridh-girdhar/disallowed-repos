@@ -1006,3 +1006,4 @@ repo,evhub/coconut,,note,6cb5bff8dc694eae8c1cf4eec799e81f,2026-10-19T02:43:57.71
 repo,dolthub/go-mysql-server,,blocked,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:09:19.020573+00:00,,Live repository URL admission reports repository 50-submission limit reached.,https://github.com/dolthub/go-mysql-server
 repo,ormar-orm/ormar,,used,oct18-3-22d50c75-f4a6-4d01-9d2e-5c34f050a8cb,2026-10-19T02:41:12.831468+00:00,,Locally verified packet delivered; platform qualification remains unmeasured.,https://github.com/ormar-orm/ormar
 repo,robertmuth/cwerg,,used,6cb5bff8dc694eae8c1cf4eec799e81f,2026-10-19T02:43:57.715893+00:00,,Locally verified problem packet prepared; this does not establish platform approval.,https://github.com/robertmuth/Cwerg
+repo,goadesign/goa,,reserved,repo-8-d3513952,2026-10-21T01:53:38.538461+00:00,2026-10-21T13:53:38.538484+00:00,Reserved for active creation in repo-8.,https://github.com/goadesign/goa
