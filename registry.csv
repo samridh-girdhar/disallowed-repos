@@ -1,4 +1,5 @@
 kind,repository,subject,status,owner,updated_at,expires_at,reason,source
+repo,sarah-quinones/faer-rs,,reserved,88e3389b5d2731bc,2026-10-23T07:30:14Z,2026-10-24T07:30:14Z,Active authoring reservation.,https://github.com/sarah-quinones/faer-rs
 repo,sandertv/gophertunnel,,note,88e3389b5d2731bc,2026-10-23T00:30:04Z,,At be557e33 only four documentation examples without Output directives exist; no runnable upstream tests for the required base regression mode.,https://github.com/Sandertv/gophertunnel/tree/be557e33fe6f8d0c0db7ef05b5fd068725c325ad
 repo,0no-co/gql.tada,,blocked,,,,Existing explicit repository exclusion; original reason not recorded.,https://github.com/samridh-girdhar/disallowed-repos/blob/f8cf4e5c038231261885b55c772c71f63e6a7938/disallowed_repos.csv#L1
 repo,abema/go-mp4,,blocked,,,,Existing explicit repository exclusion; original reason not recorded.,https://github.com/samridh-girdhar/disallowed-repos/blob/f8cf4e5c038231261885b55c772c71f63e6a7938/disallowed_repos.csv#L2
