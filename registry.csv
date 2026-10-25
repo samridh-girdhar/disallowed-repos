@@ -1022,5 +1022,5 @@ idea,nmwsharp/geometry-central,Prevent cycling while shortening closed contracti
 repo,lief-project/lief,,reserved,b75afbabe863478e,2026-10-25T09:56:55.358539Z,2026-10-26T09:56:55.358539Z,,https://github.com/lief-project/LIEF
 repo,toon-format/toon-python,,note,f2f2b67bc585416d98bf180fe7178c6b,2026-10-25T09:58:06.105230+00:00,,Current implementation mirrors complete TOON 4.4; compact parser footprint and reference implementations leave no credible deeper original scope selected. Streaming/replacer already have public attempts or documented exclusions.,https://github.com/toon-format/toon-python/tree/536a508d486847cb01ec1869cf21d1f7556b0db0
 repo,synergycodes/ng-diagram,,reserved,f2f2b67bc585416d98bf180fe7178c6b,2026-10-25T09:58:31.614648+00:00,2026-10-26T09:58:31.614648+00:00,,
-repo,ai4co/rl4co,,reserved,b9a74c21-f89b-4a04-9490-02e161ab970d,2026-10-25T09:58:40.567039+00:00,2026-10-26T09:58:40.567039+00:00,,
+repo,ai4co/rl4co,,note,b9a74c21-f89b-4a04-9490-02e161ab970d,2026-10-25T10:03:27.957487+00:00,,,
 repo,gokrazy/rsync,,reserved,7088f445c1aa46b4,2026-10-25T09:58:57.597512+00:00,2026-10-26T09:58:57.597512+00:00,,https://github.com/gokrazy/rsync
