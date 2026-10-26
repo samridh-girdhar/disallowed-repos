@@ -1028,3 +1028,4 @@ repo,j-f-liu/pom,,note,b9a74c21-f89b-4a04-9490-02e161ab970d,2026-10-25T10:04:23.
 repo,kevinmehall/rust-peg,,reserved,b9a74c21-f89b-4a04-9490-02e161ab970d,2026-10-25T10:04:26.933564+00:00,2026-10-26T10:04:26.933564+00:00,,
 idea,ai4co/rl4co,Probability-ranked beam search from the first decision with finite-frontier filling,rejected,b9a74c21-f89b-4a04-9490-02e161ab970d,2026-10-25T10:06:46.655370+00:00,,Prior public implementation attempt in the parent of dc4940f already includes initial model ranking and exhausted-frontier filling.,https://github.com/ai4co/rl4co/commit/dc4940f65e75bbe20bb500651a05d3584ea0af9b
 repo,kipdata/kitesql,,reserved,6b8f0a2d145b4e89b4f7f2565a695871,2026-10-26T01:42:57.884960+00:00,2026-10-27T01:42:57.884960+00:00,,
+repo,ferrumc-rs/ferrumc,,reserved,a37d6e51-019f-4ca6-846c-792173f0cd63,2026-10-26T01:43:19.221987+00:00,2026-10-27T01:43:19.221987+00:00,Local creation reservation,https://github.com/ferrumc-rs/ferrumc
