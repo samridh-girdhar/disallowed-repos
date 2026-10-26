@@ -1044,3 +1044,4 @@ idea,gluesql/gluesql,SQL window functions,rejected,oct26-new-e8dcbe4d-9132-4d50-
 idea,gluesql/gluesql,Nonrecursive inline CTEs,rejected,oct26-new-e8dcbe4d-9132-4d50-933d-8f772380f718,2026-10-26T23:42:25.660807+00:00,,Existing open implementations.,https://github.com/gluesql/gluesql/pull/2047
 idea,gluesql/gluesql,CHECK constraints,rejected,oct26-new-e8dcbe4d-9132-4d50-933d-8f772380f718,2026-10-26T23:42:25.660807+00:00,,Existing closed unmerged implementations.,https://github.com/gluesql/gluesql/pull/1573
 idea,gluesql/gluesql,Foreign-key delete actions,rejected,oct26-new-e8dcbe4d-9132-4d50-933d-8f772380f718,2026-10-26T23:42:25.660807+00:00,,Existing closed unmerged implementation.,https://github.com/gluesql/gluesql/pull/1517
+repo,uber-go/nilaway,,reserved,oct26-new-e8dcbe4d-9132-4d50-933d-8f772380f718,2026-10-26T23:44:35.271691+00:00,2026-10-27T23:44:35.271691+00:00,,https://github.com/uber-go/nilaway
