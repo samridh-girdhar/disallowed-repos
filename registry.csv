@@ -1089,8 +1089,9 @@ repo,xerial/sqlite-jdbc,,reserved,7e7d0b8abd0b8955d8d06730,2026-10-28T12:33:37.1
 repo,cberner/redb,,note,r23-6de9313cdaf04cfa,2026-10-28T12:36:30Z,,,https://github.com/cberner/redb
 repo,console-rs/console,,note,cf50f26f66c3f8d862eb,2026-10-28T12:36:55Z,,ReadWritePair input routing has existing implementations in PRs #173 and #123; other inspected repairs were narrow.,https://github.com/console-rs/console
 repo,planetscale/cli,,note,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:36:38.353793Z,,Released: line-oriented D1 parsing repairs had routine shared-splitter shortcuts; no repository-wide exclusion.,
-repo,skardyy/mcat,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:35:29Z,2026-10-29T12:35:29Z,,https://github.com/skardyy/mcat
+repo,skardyy/mcat,,note,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,,DOCX independent numbering counters and start overrides have a concrete Rust implementation in HelloTomBruce/docx2md; inspected other parser repairs were narrow.,https://github.com/skardyy/mcat
 repo,harry-kp/vortix,,reserved,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:36:41.667300Z,2026-10-29T12:36:41.667300Z,,
 repo,sunng87/pgwire,,reserved,r23-6de9313cdaf04cfa,2026-10-28T12:36:52Z,2026-10-29T12:36:52Z,,https://github.com/sunng87/pgwire
-repo,crossterm-rs/crossterm,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:37:16Z,2026-10-29T12:37:16Z,,https://github.com/crossterm-rs/crossterm
+repo,crossterm-rs/crossterm,,note,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,,Inspected event filtering repairs converge on the local reader queue; no selected scope.,https://github.com/crossterm-rs/crossterm
 repo,go-jet/jet,,reserved,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:37:40Z,2026-10-29T12:37:40Z,Repository admission eligible; local creation in progress.,https://github.com/go-jet/jet
+repo,gyscos/cursive,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,2026-10-29T12:39:02Z,,https://github.com/gyscos/cursive
