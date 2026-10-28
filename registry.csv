@@ -1094,8 +1094,9 @@ repo,harry-kp/vortix,,note,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:39:50.
 repo,sunng87/pgwire,,note,r23-6de9313cdaf04cfa,2026-10-28T12:39:32Z,,,https://github.com/sunng87/pgwire
 repo,crossterm-rs/crossterm,,note,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,,Inspected event filtering repairs converge on the local reader queue; no selected scope.,https://github.com/crossterm-rs/crossterm
 repo,go-jet/jet,,note,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:39:40Z,,Investigated result mapping; several candidate repairs had short helper-based solutions or documented non-goals. Reassess other subsystems.,https://github.com/go-jet/jet
-repo,gyscos/cursive,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,2026-10-29T12:39:02Z,,https://github.com/gyscos/cursive
+repo,gyscos/cursive,,note,cf50f26f66c3f8d862eb,2026-10-28T12:42:36Z,,FocusLost structural transitions have unresolved inactive-parent/callback semantics in issue #624; named-focus-only repair appears narrow.,https://github.com/gyscos/cursive
 repo,amrdeveloper/clangql,,note,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:40:33Z,,"At 523af1d source and CI have no upstream testcases, preventing meaningful pre-existing base regressions.",https://github.com/AmrDeveloper/ClangQL
 repo,greenmaskio/greenmask,,reserved,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:39:54.095166Z,2026-10-29T12:39:54.095166Z,,
 repo,polodb/polodb,,reserved,r23-6de9313cdaf04cfa,2026-10-28T12:39:58Z,2026-10-29T12:39:58Z,,https://github.com/polodb/polodb
 repo,rosedblabs/rosedb,,reserved,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:40:33Z,2026-10-29T12:40:33Z,Repository admission eligible; local creation in progress.,https://github.com/rosedblabs/rosedb
+repo,crate/crate,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:42:36Z,2026-10-29T12:42:36Z,,https://github.com/crate/crate
