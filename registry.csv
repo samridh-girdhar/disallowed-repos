@@ -1055,7 +1055,7 @@ idea,qicosmos/iguana,JSON variant selection using a discriminator field,rejected
 repo,leonchen83/redis-replicator,,note,scout-7120fc9bf9a3dc3b,2026-10-28T00:32:02Z,,Initial research preserved; no selected or delivered scope. Claim released during follow-up research elsewhere.,https://github.com/leonchen83/redis-replicator/tree/433f268e04121a4c43dd565642d7bb7e536829af
 repo,biojppm/rapidyaml,,reserved,scout-7120fc9bf9a3dc3b,2026-10-28T00:50:26Z,2026-10-29T00:50:26Z,Reserved for local source-led problem research.,https://github.com/biojppm/rapidyaml
 repo,hyperium/h2,,reserved,7558814e-6149-4220-986e-b4d739555290,2026-10-28T04:35:19.192000+00:00,2026-10-29T04:35:19.192000+00:00,,https://github.com/hyperium/h2
-repo,nvidia/aistore,,reserved,76fed80176fc572d,2026-10-28T04:35:25.454295+00:00,2026-10-29T04:35:25.454295+00:00,Repository reserved for local problem creation.,https://github.com/NVIDIA/aistore
+repo,nvidia/aistore,,note,76fed80176fc572d,2026-10-28T04:38:33.447654+00:00,,Repository reserved for local problem creation. Local source review found compact repairs or existing implementations; no suitable deeper outcome selected.,https://github.com/NVIDIA/aistore
 repo,openhft/chronicle-wire,,reserved,a26226a6c8654abcb14a3a7dc8d17d66,2026-10-28T04:35:39Z,2026-10-29T04:35:39Z,Warning-free repository admission; local creation in progress.,https://github.com/OpenHFT/Chronicle-Wire
 repo,vlcn-io/cr-sqlite,,reserved,158a60fb2f82207f818b24ea,2026-10-28T04:35:46.976068+00:00,2026-10-29T04:35:46.976068+00:00,,
 repo,geomstats/geomstats,,reserved,9766fc497b24425191324fb8e71f04e8,2026-10-28T04:36:22.637280+00:00,2026-10-29T04:36:22.637280+00:00,Reserved for local problem authoring.,https://github.com/geomstats/geomstats
