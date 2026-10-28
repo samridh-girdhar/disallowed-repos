@@ -1059,3 +1059,4 @@ repo,nvidia/aistore,,note,76fed80176fc572d,2026-10-28T04:38:33.447654+00:00,,Rep
 repo,openhft/chronicle-wire,,reserved,a26226a6c8654abcb14a3a7dc8d17d66,2026-10-28T04:35:39Z,2026-10-29T04:35:39Z,Warning-free repository admission; local creation in progress.,https://github.com/OpenHFT/Chronicle-Wire
 repo,vlcn-io/cr-sqlite,,reserved,158a60fb2f82207f818b24ea,2026-10-28T04:35:46.976068+00:00,2026-10-29T04:35:46.976068+00:00,,
 repo,geomstats/geomstats,,reserved,9766fc497b24425191324fb8e71f04e8,2026-10-28T04:36:22.637280+00:00,2026-10-29T04:36:22.637280+00:00,Reserved for local problem authoring.,https://github.com/geomstats/geomstats
+repo,timefoldai/timefold-solver,,reserved,9766fc497b24425191324fb8e71f04e8,2026-10-28T04:39:14.342057+00:00,2026-10-29T04:39:14.342057+00:00,Reserved for local problem authoring.,https://github.com/timefoldai/timefold-solver
