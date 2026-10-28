@@ -1057,3 +1057,4 @@ repo,biojppm/rapidyaml,,reserved,scout-7120fc9bf9a3dc3b,2026-10-28T00:50:26Z,202
 repo,hyperium/h2,,reserved,7558814e-6149-4220-986e-b4d739555290,2026-10-28T04:35:19.192000+00:00,2026-10-29T04:35:19.192000+00:00,,https://github.com/hyperium/h2
 repo,nvidia/aistore,,reserved,76fed80176fc572d,2026-10-28T04:35:25.454295+00:00,2026-10-29T04:35:25.454295+00:00,Repository reserved for local problem creation.,https://github.com/NVIDIA/aistore
 repo,openhft/chronicle-wire,,reserved,a26226a6c8654abcb14a3a7dc8d17d66,2026-10-28T04:35:39Z,2026-10-29T04:35:39Z,Warning-free repository admission; local creation in progress.,https://github.com/OpenHFT/Chronicle-Wire
+repo,vlcn-io/cr-sqlite,,reserved,158a60fb2f82207f818b24ea,2026-10-28T04:35:46.976068+00:00,2026-10-29T04:35:46.976068+00:00,,
