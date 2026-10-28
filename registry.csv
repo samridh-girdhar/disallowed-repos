@@ -1075,6 +1075,7 @@ repo,netflix/maestro,,used,c2c4cd553f13425c9bd3f50b2e92a6f9,2026-10-28T07:08:14.
 idea,lucaspickering/slumber,pure profile-field template cycle detection,rejected,eafc9a262d8c88c6e602d1b2,2026-10-28T08:17:48.650603+00:00,,Merged PR287 supplies direct/mutual profile and chain cycle errors with branch-local stacks; dominant pure-field behavior publicly implemented.,https://github.com/LucasPickering/slumber/pull/287
 repo,agronholm/anyio,,reserved,tf-f3141965-fdbb-453f-961f-b3ba9a49f576,2026-10-28T09:39:57.281599Z,2026-10-29T09:39:57.281599Z,Reserved for local Titanfall Phase 1 preparation; no verified solution or platform approval.,https://github.com/agronholm/anyio
 repo,remkop/picocli,,reserved,6d0e657c-22f3-4ade-98b7-ce6c2a2d239f,2026-10-28T09:47:20Z,2026-10-29T09:47:20Z,,https://github.com/remkop/picocli
-repo,academysoftwarefoundation/rez,,reserved,a9df9310def34c50b4fd529b189ecfe9,2026-10-28T09:49:14Z,2026-10-29T09:49:14Z,,
+repo,academysoftwarefoundation/rez,,note,a9df9310def34c50b4fd529b189ecfe9,2026-10-28T09:54:45Z,,Source screening found useful bugs but strongest candidates had short existing-helper solutions; no suitable scope selected.,
 repo,executablebooks/myst-parser,,reserved,7b1d8c6e92f4a310,2026-10-28T09:50:26Z,2026-10-29T09:50:26Z,,https://github.com/executablebooks/MyST-Parser
 repo,jacksontj/promxy,,reserved,5efe045132d319c0,2026-10-28T09:53:25Z,2026-10-29T09:53:25Z,Reserved for local problem creation.,https://github.com/jacksontj/promxy
+repo,google/gin-config,,reserved,a9df9310def34c50b4fd529b189ecfe9,2026-10-28T09:54:45Z,2026-10-29T09:54:45Z,,
