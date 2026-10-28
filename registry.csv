@@ -1060,4 +1060,4 @@ repo,openhft/chronicle-wire,,used,a26226a6c8654abcb14a3a7dc8d17d66,2026-10-28T05
 repo,vlcn-io/cr-sqlite,,used,158a60fb2f82207f818b24ea,2026-10-28T05:09:40.660615+00:00,,Locally verified bundle delivered; platform qualification unmeasured.,
 repo,geomstats/geomstats,,note,9766fc497b24425191324fb8e71f04e8,2026-10-28T04:42:35.930717+00:00,,Reserved for local problem authoring. Selection released; no scope selected.,https://github.com/geomstats/geomstats
 repo,timefoldai/timefold-solver,,reserved,9766fc497b24425191324fb8e71f04e8,2026-10-28T04:39:14.342057+00:00,2026-10-29T04:39:14.342057+00:00,Reserved for local problem authoring.,https://github.com/timefoldai/timefold-solver
-repo,zandaqo/structurae,,reserved,76fed80176fc572d,2026-10-28T04:40:08.883813+00:00,2026-10-29T04:40:08.883813+00:00,Repository reserved for local problem creation.,https://github.com/zandaqo/structurae
+repo,zandaqo/structurae,,used,76fed80176fc572d,2026-10-28T05:11:20.648725+00:00,,Repository reserved for local problem creation. Locally verified bundle delivered; no platform approval claimed.,https://github.com/zandaqo/structurae
