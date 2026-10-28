@@ -1080,3 +1080,4 @@ repo,executablebooks/myst-parser,,reserved,7b1d8c6e92f4a310,2026-10-28T09:50:26Z
 repo,jacksontj/promxy,,note,5efe045132d319c0,2026-10-28T09:56:28Z,,Reserved for local problem creation. Inspected source areas but no suitable scope selected.,https://github.com/jacksontj/promxy
 repo,google/gin-config,,note,a9df9310def34c50b4fd529b189ecfe9,2026-10-28T09:57:14Z,,Source screening yielded localized fixes or overlapping public PRs; no suitable scope selected.,
 repo,i-net-software/jwebassembly,,reserved,62b7634a44cf4c37a26a5da0de20feb8,2026-10-28T09:55:45.288823+00:00,2026-10-29T09:55:45.288823+00:00,Reserved for local submission creation,https://github.com/i-net-software/jwebassembly
+repo,youngmonkeys/ezyfox-server,,reserved,5efe045132d319c0,2026-10-28T09:58:19Z,2026-10-29T09:58:19Z,Reserved for local problem creation.,https://github.com/youngmonkeys/ezyfox-server
