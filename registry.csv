@@ -1088,5 +1088,5 @@ idea,remkop/picocli,Use HelpCommand with repeatable subcommands.,rejected,6d0e65
 repo,xerial/sqlite-jdbc,,reserved,7e7d0b8abd0b8955d8d06730,2026-10-28T12:33:37.140617+00:00,2026-10-29T12:33:37.140617+00:00,,
 repo,cberner/redb,,note,r23-6de9313cdaf04cfa,2026-10-28T12:36:30Z,,,https://github.com/cberner/redb
 repo,console-rs/console,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:33:54Z,2026-10-29T12:33:54Z,,https://github.com/console-rs/console
-repo,planetscale/cli,,reserved,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:34:06.752402Z,2026-10-29T12:34:06.752402Z,,
+repo,planetscale/cli,,note,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:36:38.353793Z,,Released: line-oriented D1 parsing repairs had routine shared-splitter shortcuts; no repository-wide exclusion.,
 repo,skardyy/mcat,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:35:29Z,2026-10-29T12:35:29Z,,https://github.com/skardyy/mcat
