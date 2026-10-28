@@ -1087,3 +1087,4 @@ idea,remkop/picocli,Apply default value providers to required inherited options 
 idea,remkop/picocli,Use HelpCommand with repeatable subcommands.,rejected,6d0e657c-22f3-4ade-98b7-ce6c2a2d239f,2026-10-28T10:29:35Z,,Existing PR implements the behavior.,https://github.com/remkop/picocli/pull/2126
 repo,xerial/sqlite-jdbc,,reserved,7e7d0b8abd0b8955d8d06730,2026-10-28T12:33:37.140617+00:00,2026-10-29T12:33:37.140617+00:00,,
 repo,cberner/redb,,reserved,r23-6de9313cdaf04cfa,2026-10-28T12:33:50Z,2026-10-29T12:33:50Z,,https://github.com/cberner/redb
+repo,console-rs/console,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:33:54Z,2026-10-29T12:33:54Z,,https://github.com/console-rs/console
