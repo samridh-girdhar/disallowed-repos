@@ -1093,5 +1093,6 @@ repo,skardyy/mcat,,note,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,,DOCX independ
 repo,harry-kp/vortix,,reserved,f87292e2b43749a5b3f0e6c99dc325a4,2026-10-28T12:36:41.667300Z,2026-10-29T12:36:41.667300Z,,
 repo,sunng87/pgwire,,note,r23-6de9313cdaf04cfa,2026-10-28T12:39:32Z,,,https://github.com/sunng87/pgwire
 repo,crossterm-rs/crossterm,,note,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,,Inspected event filtering repairs converge on the local reader queue; no selected scope.,https://github.com/crossterm-rs/crossterm
-repo,go-jet/jet,,reserved,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:37:40Z,2026-10-29T12:37:40Z,Repository admission eligible; local creation in progress.,https://github.com/go-jet/jet
+repo,go-jet/jet,,note,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:39:40Z,,Investigated result mapping; several candidate repairs had short helper-based solutions or documented non-goals. Reassess other subsystems.,https://github.com/go-jet/jet
 repo,gyscos/cursive,,reserved,cf50f26f66c3f8d862eb,2026-10-28T12:39:02Z,2026-10-29T12:39:02Z,,https://github.com/gyscos/cursive
+repo,amrdeveloper/clangql,,reserved,c51f94f0d29d4a909a3532b9b0e3cb28,2026-10-28T12:39:40Z,2026-10-29T12:39:40Z,Repository admission eligible; local creation in progress.,https://github.com/AmrDeveloper/ClangQL
