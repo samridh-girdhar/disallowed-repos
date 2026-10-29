@@ -1130,4 +1130,4 @@ idea,qiskit/rustworkx,Scalable unlabelled maximum bisimulation partition refinem
 repo,chronoxor/fastbinaryencoding,,reserved,01a0cbf799616ea9,2026-10-29T19:10:08Z,2026-10-30T19:10:08Z,Reserved for local problem authoring.,https://github.com/chronoxor/FastBinaryEncoding
 idea,unum-cloud/usearch,Incremental snapshotting for indexed vectors,rejected,98a7c176dd1d88fb,2026-10-29T19:12:45Z,,Open PR756 implements continuation cursors and persistent index snapshots.,https://github.com/unum-cloud/USearch/pull/756
 idea,unum-cloud/usearch,External storage accessors for indexed vectors,rejected,98a7c176dd1d88fb,2026-10-29T19:12:45Z,,Public PR335 implements accessor-driven external storage and supersedes closed PR171.,https://github.com/unum-cloud/USearch/pull/335
-repo,restream/reindexer,,reserved,98a7c176dd1d88fb,2026-10-29T19:13:29Z,2026-10-30T19:13:29Z,Reserved for local problem authoring.,https://github.com/restream/reindexer
+repo,restream/reindexer,,used,98a7c176dd1d88fb,2026-10-29T20:56:31Z,,Locally verified problem bundle delivered; no platform approval claimed.,https://github.com/restream/reindexer
