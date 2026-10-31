@@ -1174,3 +1174,4 @@ idea,jsqlparser/jsqlparser,Correlated SELECT alias scope resolution for JDBC col
 idea,serenity-rs/poise,Preserve omitted fields when editing reply messages,rejected,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T11:25:10Z,,Public PR #350 already supplies this behavior.,https://github.com/serenity-rs/poise/pull/350
 idea,nats-io/nats.go,Allow Stop and Drain from ordinary pull ConsumeErrHandler callbacks,rejected,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T11:25:10Z,,Implemented by public PR #2059.,https://github.com/nats-io/nats.go/pull/2059
 repo,thinkinaixyz/go-mcp,,note,olympus-30254f7ce0a79b5d,2026-10-31T12:18:57.767797Z,,Source gaps examined are small protocol wiring; no suitable deep scope selected.,https://github.com/thinkinaixyz/go-mcp
+repo,stackql/stackql,,reserved,olympus-30254f7ce0a79b5d,2026-10-31T12:20:49.601814Z,2026-11-01T12:20:49.601814Z,,https://github.com/stackql/stackql
