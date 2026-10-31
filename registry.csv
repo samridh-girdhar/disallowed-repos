@@ -1167,3 +1167,4 @@ idea,tafia/calamine,Compound-file storage-scoped workbook and VBA streams,reject
 repo,pydantic/jiter,,note,r26-4c3a1df6c6b9,2026-10-31T10:37:01.027884+00:00,,"Inspected parser architecture; principal partial-string, delimiter and lossless-value scopes already attempted. No selected scope.",https://github.com/pydantic/jiter/pull/311
 repo,alibaba/fastjson2,,reserved,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:36:23.610617Z,2026-11-01T10:36:23.610617Z,,https://github.com/alibaba/fastjson2
 repo,pulldown-cmark/pulldown-cmark,,note,r26-4c3a1df6c6b9,2026-10-31T10:38:09.764333+00:00,,Inspected open image/container/newline issues; no sufficiently deep bug scope selected.,https://github.com/pulldown-cmark/pulldown-cmark/issues/965
+repo,arcadedata/arcadedb,,reserved,r26-4c3a1df6c6b9,2026-10-31T10:38:24.300332+00:00,2026-11-01T10:38:24.300332+00:00,Repository research reservation.,https://github.com/ArcadeData/arcadedb
