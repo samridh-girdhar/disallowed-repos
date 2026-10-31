@@ -1149,7 +1149,7 @@ repo,helsing-ai/sguaba,,note,r26-4c3a1df6c6b9,2026-10-31T10:29:21.135066+00:00,,
 repo,appy-one/acebase,,reserved,win-0f574861e7ca4ef4911d3a31badd5bb3,2026-10-31T10:28:31.212658Z,2026-11-01T10:28:31.212658Z,,
 repo,jsqlparser/jsqlparser,,reserved,o-563c486db0de3d9e,2026-10-31T10:28:38Z,2026-11-01T10:28:38Z,Repository reserved for local problem creation.,https://github.com/JSQLParser/JSqlParser
 repo,serenity-rs/poise,,reserved,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:28:49Z,2026-11-01T10:28:49Z,,https://github.com/serenity-rs/poise
-repo,rtr7/router7,,reserved,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:29:04Z,2026-11-01T10:29:04Z,Reserved for local creation; no platform approval.,https://github.com/rtr7/router7
+repo,rtr7/router7,,note,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:30:15Z,,Source-screened DHCP and DNS repairs have short independent solutions; insufficient horizon for current creation.,https://github.com/rtr7/router7/tree/eafc8bf6a1fb390306aedd8ab2e9700c13adfc42
 repo,antchfx/xpath,,reserved,6fa2da3e89f44a3faf6e7891666ebe66,2026-10-31T10:29:10.836885+00:00,2026-11-01T10:29:10.836885+00:00,Repository reserved for local problem creation.,https://github.com/antchfx/xpath
 idea,helsing-ai/sguaba,Stable Tait-Bryan extraction near gimbal lock,rejected,r26-4c3a1df6c6b9,2026-10-31T10:29:16.402310+00:00,,Issue 120 already provides the dominant complete numerical fix; not a fresh scope.,https://github.com/helsing-ai/sguaba/issues/120
 repo,marwes/combine,,reserved,r26-4c3a1df6c6b9,2026-10-31T10:29:31.823414+00:00,2026-11-01T10:29:31.823414+00:00,Repository research reservation.,https://github.com/Marwes/combine
