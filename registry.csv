@@ -1147,7 +1147,7 @@ repo,ebay/nuraft,,reserved,510f957becf9424bbb26dbdd99d905dc,2026-10-30T05:20:37.
 repo,m4b/bingrep,,note,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:28:43Z,,At 99d10541 no upstream test cases; cannot provide required existing-test regression mode.,https://github.com/m4b/bingrep/tree/99d10541c7d442c50f732e62c507f1d62001413e
 repo,helsing-ai/sguaba,,note,r26-4c3a1df6c6b9,2026-10-31T10:29:21.135066+00:00,,Inspected rotation extraction; public complete workaround and compact architecture offer poor horizon for this selection.,https://github.com/helsing-ai/sguaba/issues/120
 repo,appy-one/acebase,,reserved,win-0f574861e7ca4ef4911d3a31badd5bb3,2026-10-31T10:28:31.212658Z,2026-11-01T10:28:31.212658Z,,
-repo,jsqlparser/jsqlparser,,reserved,o-563c486db0de3d9e,2026-10-31T10:28:38Z,2026-11-01T10:28:38Z,Repository reserved for local problem creation.,https://github.com/JSQLParser/JSqlParser
+repo,jsqlparser/jsqlparser,,note,o-563c486db0de3d9e,2026-10-31T10:33:53Z,,Research found scoped JDBC column resolution already implemented in JSQLTranspiler; no submission delivered.,https://github.com/starlake-ai/jsqltranspiler/blob/main/src/main/java/ai/starlake/transpiler/JSQLExpressionColumnResolver.java
 repo,serenity-rs/poise,,note,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:31:06Z,,Inspected candidate repairs had weak shortest-path depth for the requested task.,https://github.com/serenity-rs/poise
 repo,rtr7/router7,,note,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:30:15Z,,Source-screened DHCP and DNS repairs have short independent solutions; insufficient horizon for current creation.,https://github.com/rtr7/router7/tree/eafc8bf6a1fb390306aedd8ab2e9700c13adfc42
 repo,antchfx/xpath,,note,6fa2da3e89f44a3faf6e7891666ebe66,2026-10-31T10:30:37.548222+00:00,,Inspected current iterator scopes; document-order union and chained positional predicates already have open PRs 178 and 179. No suitable deeper bug fix selected.,https://github.com/antchfx/xpath/pulls
@@ -1160,3 +1160,4 @@ repo,abhinandan-kushwaha/react-native-gifted-charts,,note,20f4a8b2-1192-4612-b80
 repo,antrea-io/antrea,,reserved,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:32:05Z,2026-11-01T10:32:05Z,Reserved for local creation; no platform approval.,https://github.com/antrea-io/antrea
 repo,ubugeeei-prod/vize,,reserved,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:32:14Z,2026-11-01T10:32:14Z,,https://github.com/ubugeeei-prod/vize
 repo,rapidloop/pgmetrics,,reserved,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:33:41.214212Z,2026-11-01T10:33:41.214212Z,,https://github.com/rapidloop/pgmetrics
+repo,turfjs/turf,,reserved,o-563c486db0de3d9e,2026-10-31T10:33:53Z,2026-11-01T10:33:53Z,Repository reserved for local problem creation.,https://github.com/Turfjs/turf
