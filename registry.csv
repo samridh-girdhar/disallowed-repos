@@ -1169,3 +1169,4 @@ repo,alibaba/fastjson2,,reserved,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:
 repo,pulldown-cmark/pulldown-cmark,,note,r26-4c3a1df6c6b9,2026-10-31T10:38:09.764333+00:00,,Inspected open image/container/newline issues; no sufficiently deep bug scope selected.,https://github.com/pulldown-cmark/pulldown-cmark/issues/965
 repo,arcadedata/arcadedb,,note,r26-4c3a1df6c6b9,2026-10-31T10:40:41.887520+00:00,,Investigated MERGE eagerness and list index equality: MERGE already implemented via PR10896; list equality is unresolved semantics with routine candidate changes. No selected scope.,https://github.com/ArcadeData/arcadedb/pull/10896
 repo,nats-io/nats.go,,reserved,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:38:41Z,2026-11-01T10:38:41Z,,https://github.com/nats-io/nats.go
+repo,surrealdb/surrealkv,,reserved,r26-4c3a1df6c6b9,2026-10-31T10:40:54.618491+00:00,2026-11-01T10:40:54.618491+00:00,Repository research reservation.,https://github.com/surrealdb/surrealkv
