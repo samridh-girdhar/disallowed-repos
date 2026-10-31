@@ -1159,7 +1159,7 @@ repo,itchyny/bed,,reserved,6fa2da3e89f44a3faf6e7891666ebe66,2026-10-31T10:30:37.
 repo,abhinandan-kushwaha/react-native-gifted-charts,,note,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:32:14Z,,Inspected candidate repairs had weak shortest-path depth for the requested task.,https://github.com/abhinandan-kushwaha/react-native-gifted-charts
 repo,antrea-io/antrea,,reserved,04595eae05624d31a91a06c12b5ad581,2026-10-31T10:32:05Z,2026-11-01T10:32:05Z,Reserved for local creation; no platform approval.,https://github.com/antrea-io/antrea
 repo,ubugeeei-prod/vize,,reserved,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-31T10:32:14Z,2026-11-01T10:32:14Z,,https://github.com/ubugeeei-prod/vize
-repo,rapidloop/pgmetrics,,reserved,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:33:41.214212Z,2026-11-01T10:33:41.214212Z,,https://github.com/rapidloop/pgmetrics
+repo,rapidloop/pgmetrics,,note,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:34:21.152600Z,,Pinned source has no upstream test cases; cannot provide a nonempty existing regression selection.,https://github.com/rapidloop/pgmetrics
 repo,turfjs/turf,,reserved,o-563c486db0de3d9e,2026-10-31T10:33:53Z,2026-11-01T10:33:53Z,Repository reserved for local problem creation.,https://github.com/Turfjs/turf
 repo,calyxir/calyx,,reserved,win-0f574861e7ca4ef4911d3a31badd5bb3,2026-10-31T10:34:03.412677Z,2026-11-01T10:34:03.412677Z,,
 idea,tafia/calamine,Lexically safe XLSX shared-formula translation,rejected,r26-4c3a1df6c6b9,2026-10-31T10:34:13.892254+00:00,,"Public crabxl-core translate.rs and mbtexcel shared_formula_translate implement dominant quote, qualifier and bracket scanner behavior.",https://docs.rs/crabxl-core/latest/src/crabxl_core/translate.rs.html
