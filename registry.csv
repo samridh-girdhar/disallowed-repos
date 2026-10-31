@@ -1162,3 +1162,4 @@ repo,ubugeeei-prod/vize,,reserved,20f4a8b2-1192-4612-b80e-11a8abca0c11,2026-10-3
 repo,rapidloop/pgmetrics,,reserved,678019c2f043479e8da2d1cb30e671cf,2026-10-31T10:33:41.214212Z,2026-11-01T10:33:41.214212Z,,https://github.com/rapidloop/pgmetrics
 repo,turfjs/turf,,reserved,o-563c486db0de3d9e,2026-10-31T10:33:53Z,2026-11-01T10:33:53Z,Repository reserved for local problem creation.,https://github.com/Turfjs/turf
 repo,calyxir/calyx,,reserved,win-0f574861e7ca4ef4911d3a31badd5bb3,2026-10-31T10:34:03.412677Z,2026-11-01T10:34:03.412677Z,,
+idea,tafia/calamine,Lexically safe XLSX shared-formula translation,rejected,r26-4c3a1df6c6b9,2026-10-31T10:34:13.892254+00:00,,"Public crabxl-core translate.rs and mbtexcel shared_formula_translate implement dominant quote, qualifier and bracket scanner behavior.",https://docs.rs/crabxl-core/latest/src/crabxl_core/translate.rs.html
