@@ -1183,5 +1183,5 @@ repo,pyproj4/pyproj,,note,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:52:
 repo,amjad50/plastic,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:53:03Z,,,
 repo,chocoteam/choco-solver,,note,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T11:00:12.611433+00:00,,Unfinished local preparation; no submission bundle delivered. Repository remains eligible.,https://github.com/chocoteam/choco-solver
 repo,twvd/snow,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:54:33Z,,,
-repo,ergo-services/ergo,,reserved,163bd665aac8b21c7a26e86d,2026-11-02T10:53:20.330501+00:00,2026-11-03T10:53:20.330501+00:00,,
+repo,ergo-services/ergo,,used,163bd665aac8b21c7a26e86d,2026-11-02T11:17:59.120609+00:00,,Locally verified bundle delivered; platform qualification unmeasured.,https://github.com/ergo-services/ergo
 repo,maxpert/marmot,,reserved,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:54:36Z,2026-11-03T10:54:36Z,,
