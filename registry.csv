@@ -1177,7 +1177,7 @@ repo,thinkinaixyz/go-mcp,,note,olympus-30254f7ce0a79b5d,2026-10-31T12:18:57.7677
 repo,stackql/stackql,,used,olympus-30254f7ce0a79b5d,2026-10-31T20:12:52.286883Z,,Locally verified bundle delivered; platform qualification unmeasured.,https://github.com/stackql/stackql
 repo,sverweij/dependency-cruiser,,note,titanfall-e315ee478cae4683ad548137eba3849c,2026-11-01T09:22:51Z,,Owner-scoped local Phase 1 source preparation delivered; reservation released with completion pending. No verified solution or platform approval.,https://github.com/sverweij/dependency-cruiser
 idea,sverweij/dependency-cruiser,Retain per-reference source occurrences on JSON dependency edges,rejected,titanfall-e315ee478cae4683ad548137eba3849c,2026-11-01T09:22:51Z,,Public PolyGraph imports.ts and edge-accumulator.ts supply major original-AST import extraction and repeated-site aggregation into resolved edges; substantial working-code overlap.,https://github.com/CapsaicinBunny/PolyGraph/blob/main/lib/analyzer/imports.ts; https://github.com/CapsaicinBunny/PolyGraph/blob/main/lib/analyzer/edge-accumulator.ts
-repo,emanuele-em/proxelar,,reserved,163bd665aac8b21c7a26e86d,2026-11-02T10:50:35.087503+00:00,2026-11-03T10:50:35.087503+00:00,,
+repo,emanuele-em/proxelar,,note,163bd665aac8b21c7a26e86d,2026-11-02T10:53:20.330501+00:00,,Inspected candidate gaps collapse to compact common drivers; no selected scope.,https://github.com/emanuele-em/proxelar/tree/6d6035581f5228e10561e059aed3e5965b807dd1
 repo,roblox-ts/roblox-ts,,reserved,43ad85bd71cf4e169dbd1d7f307d9729,2026-11-02T10:50:45.140840Z,2026-11-03T10:50:45.140840Z,,
 repo,cloudposse/atmos,,reserved,b10a5bf9-677c-4ffb-a440-9d8c97e308b4,2026-11-02T10:50:58.751557+00:00,2026-11-03T10:50:58.751557+00:00,Reserved for local problem authoring.,https://github.com/cloudposse/atmos
 repo,hexagon/croner,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:51:49Z,,,
@@ -1185,3 +1185,4 @@ repo,pyproj4/pyproj,,note,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:52:
 repo,amjad50/plastic,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:53:03Z,,,
 repo,chocoteam/choco-solver,,reserved,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:52:25.918723+00:00,2026-11-03T10:52:25.918723+00:00,Reserved for local problem creation.,https://github.com/chocoteam/choco-solver
 repo,twvd/snow,,reserved,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:53:06Z,2026-11-03T10:53:06Z,,
+repo,ergo-services/ergo,,reserved,163bd665aac8b21c7a26e86d,2026-11-02T10:53:20.330501+00:00,2026-11-03T10:53:20.330501+00:00,,
