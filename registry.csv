@@ -1181,5 +1181,6 @@ repo,emanuele-em/proxelar,,reserved,163bd665aac8b21c7a26e86d,2026-11-02T10:50:35
 repo,roblox-ts/roblox-ts,,reserved,43ad85bd71cf4e169dbd1d7f307d9729,2026-11-02T10:50:45.140840Z,2026-11-03T10:50:45.140840Z,,
 repo,cloudposse/atmos,,reserved,b10a5bf9-677c-4ffb-a440-9d8c97e308b4,2026-11-02T10:50:58.751557+00:00,2026-11-03T10:50:58.751557+00:00,Reserved for local problem authoring.,https://github.com/cloudposse/atmos
 repo,hexagon/croner,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:51:49Z,,,
-repo,pyproj4/pyproj,,reserved,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:51:12.297547+00:00,2026-11-03T10:51:12.297547+00:00,Reserved for local problem creation.,https://github.com/pyproj4/pyproj
+repo,pyproj4/pyproj,,note,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:52:25.918723+00:00,,Source screen: deep algorithms delegated to PROJ; examined binding changes below horizon target. Epoch and angular-CF ideas already have public PR implementations.,https://github.com/pyproj4/pyproj
 repo,amjad50/plastic,,reserved,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:51:53Z,2026-11-03T10:51:53Z,,
+repo,chocoteam/choco-solver,,reserved,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-02T10:52:25.918723+00:00,2026-11-03T10:52:25.918723+00:00,Reserved for local problem creation.,https://github.com/chocoteam/choco-solver
