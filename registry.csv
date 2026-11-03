@@ -1197,3 +1197,4 @@ repo,sethvargo/ratchet,,note,40f2c81a-31dc-4acf-b271-0a73e4b648de,2026-11-03T13:
 repo,powerjob/powerjob,,note,a7f1c0d9-41-20261103,2026-11-03T13:06:31.921601Z,,Source inspected; no scope selected. Workflow branch continuation has maintainer support in issue 447; worker report identity has a small generation-token approach.,
 repo,cloudposse/atmos,,reserved,40f2c81a-31dc-4acf-b271-0a73e4b648de,2026-11-03T13:02:54.396460+00:00,2026-11-04T13:02:54.396460+00:00,,
 repo,torchgeo/torchgeo,,note,a7f1c0d9-41-20261103,2026-11-03T13:08:59.652593Z,,Pinned AGENTS.md strictly forbids LLM use; no scope selected or implementation attempted.,
+repo,geoalchemy/geoalchemy2,,reserved,a7f1c0d9-41-20261103,2026-11-03T13:09:21.946889Z,2026-11-04T13:09:21.946889Z,,
