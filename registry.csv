@@ -1198,4 +1198,4 @@ repo,powerjob/powerjob,,note,a7f1c0d9-41-20261103,2026-11-03T13:06:31.921601Z,,S
 repo,cloudposse/atmos,,used,40f2c81a-31dc-4acf-b271-0a73e4b648de,2026-11-03T13:30:14.618476+00:00,,Locally verified bundle delivered.,https://github.com/cloudposse/atmos/tree/2f79eb06774d4e55c9a21f58f84587b85adf3e68
 repo,torchgeo/torchgeo,,note,a7f1c0d9-41-20261103,2026-11-03T13:08:59.652593Z,,Pinned AGENTS.md strictly forbids LLM use; no scope selected or implementation attempted.,
 repo,geoalchemy/geoalchemy2,,note,a7f1c0d9-41-20261103,2026-11-03T13:10:13.746772Z,,Source inspected; no scope selected. Centralized dialect and SQLAlchemy helpers make the examined expression/reflection gaps routine wrappers.,
-repo,runabol/tork,,reserved,a7f1c0d9-41-20261103,2026-11-03T13:10:34.321030Z,2026-11-04T13:10:34.321030Z,,
+repo,runabol/tork,,used,a7f1c0d9-41-20261103,2026-11-03T13:47:13.013696Z,,Locally verified four-file bundle delivered; no platform approval claimed.,
