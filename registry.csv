@@ -1199,3 +1199,4 @@ repo,cloudposse/atmos,,used,40f2c81a-31dc-4acf-b271-0a73e4b648de,2026-11-03T13:3
 repo,torchgeo/torchgeo,,note,a7f1c0d9-41-20261103,2026-11-03T13:08:59.652593Z,,Pinned AGENTS.md strictly forbids LLM use; no scope selected or implementation attempted.,
 repo,geoalchemy/geoalchemy2,,note,a7f1c0d9-41-20261103,2026-11-03T13:10:13.746772Z,,Source inspected; no scope selected. Centralized dialect and SQLAlchemy helpers make the examined expression/reflection gaps routine wrappers.,
 repo,runabol/tork,,used,a7f1c0d9-41-20261103,2026-11-03T13:47:13.013696Z,,Locally verified four-file bundle delivered; no platform approval claimed.,
+repo,getkin/kin-openapi,,reserved,p1-6273c519add54619bc70cd1379271ced,2026-11-03T17:09:57.922578Z,2026-11-04T17:09:57.922578Z,Owner-scoped local Titanfall Phase 1 research; no platform action or implementation claim.,https://github.com/getkin/kin-openapi
