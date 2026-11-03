@@ -1185,3 +1185,4 @@ repo,chocoteam/choco-solver,,note,2fdbf8d1-4725-4a99-9b2f-7bf7060a1a87,2026-11-0
 repo,twvd/snow,,note,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T10:54:33Z,,,
 repo,ergo-services/ergo,,used,163bd665aac8b21c7a26e86d,2026-11-02T11:17:59.120609+00:00,,Locally verified bundle delivered; platform qualification unmeasured.,https://github.com/ergo-services/ergo
 repo,maxpert/marmot,,used,8b8b3e1d-16e6-41de-8d6e-e47a9a32e6b0,2026-11-02T11:24:20Z,,Locally verified bundle delivered; platform qualification unmeasured.,
+repo,spacejam/sled,,reserved,titanfall-phase1-20261103-f-1324ed6cc2d0,2026-11-03T09:13:30Z,2026-11-04T09:13:30Z,Owner-scoped local Titanfall Phase 1 research; no verified solution or platform approval.,https://github.com/spacejam/sled
