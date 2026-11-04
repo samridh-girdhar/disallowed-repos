@@ -1233,3 +1233,4 @@ repo,monasticacademy/httptap,,note,89a6c137-8f8c-4c93-b13f-c21c75c43bd4,2026-11-
 repo,h44z/wg-portal,,note,3b766753a4d34a49a7c627f5c16f2950,2026-11-04T07:55:00Z,,Source screening: multi-instance synchronization has prior implementations in PR714/522; key rotation attempted by PR677. Allocation repairs appear localized; no selected scope.,https://github.com/h44z/wg-portal/pull/714
 repo,apache/ratis,,reserved,77569ed8-5b36-4556-97bd-ca6d480ee60b,2026-11-04T07:52:47.495681Z,2026-11-05T07:52:47.495681Z,Creation reservation,https://github.com/apache/ratis
 repo,sqlpage/sqlpage,,reserved,89a6c137-8f8c-4c93-b13f-c21c75c43bd4,2026-11-04T07:53:06.532749+00:00,2026-11-05T07:53:06.532749+00:00,Repository reserved for local creation,https://github.com/sqlpage/sqlpage
+repo,schibsted/jslt,,reserved,3b766753a4d34a49a7c627f5c16f2950,2026-11-04T07:55:45Z,2026-11-05T07:55:45Z,Creation reservation; eligibility admitted.,https://github.com/schibsted/jslt
