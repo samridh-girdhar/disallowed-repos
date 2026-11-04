@@ -1240,4 +1240,5 @@ idea,cloudflare/lol-html,Inherited :lang() selector matching,rejected,610ac82e-4
 repo,heetch/confita,,note,p2-b00dfc9a246d44e4befdf59b77bad387,2026-11-04T14:30:38.828352+00:00,,Current config conversion and flag gaps have small helper routes or existing upstream attempts; no suitable scope selected.,https://github.com/heetch/confita/issues
 repo,achristmascarl/rainfrog,,reserved,p2-b00dfc9a246d44e4befdf59b77bad387,2026-11-04T14:31:55.029147+00:00,2026-11-05T14:31:55.029147+00:00,,
 repo,nestjs/config,,reserved,50849519-86ef-482a-84e8-2dee5921acd7,2026-11-04T14:32:35.573964+00:00,2026-11-05T14:32:35.573964+00:00,,https://github.com/nestjs/config
-"repo","xissburg/edyn","","reserved","e5c7b4a9d26f438ab1906ef3c7d85a21","2026-11-04T14:33:13Z","2026-11-05T14:33:13Z","Reserved for local problem authoring.","https://github.com/xissburg/edyn"
+repo,xissburg/edyn,,reserved,e5c7b4a9d26f438ab1906ef3c7d85a21,2026-11-04T14:33:13Z,2026-11-05T14:33:13Z,Reserved for local problem authoring.,https://github.com/xissburg/edyn
+repo,linebender/kurbo,,reserved,c641e855d1ca4e1cab74c8053709fc66,2026-11-04T14:33:20.334192+00:00,2026-11-05T14:33:20.334192+00:00,Reserved for local source research and problem authoring.,https://github.com/linebender/kurbo
