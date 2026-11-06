@@ -1252,3 +1252,4 @@ idea,m4b/goblin,"Validate legacy Mach-O bind interpreter state, ordinals and tar
 idea,m4b/goblin,Parse thin archives and wide GNU/BSD archive symbol indexes,rejected,01a0cbf799616ea9,2026-11-04T16:22:37Z,,Rust object already supplies thin regular-versus-special member layout and GNU64/BSD64 symbol offset propagation.,https://github.com/gimli-rs/object/blob/master/src/read/archive.rs
 repo,canop/termimad,,blocked,01a0cbf799616ea9,2026-11-04T22:43:35Z,,User reported repository URL admission blocked; exclude unless user reverses.,https://github.com/Canop/termimad
 repo,aldor007/mort,,reserved,b464e55eaa614c8e98638b357081109a,2026-11-06T21:34:02Z,2026-11-07T21:34:02Z,,https://github.com/aldor007/mort
+repo,fasouto/termaid,,reserved,50849519-86ef-482a-84e8-2dee5921acd7,2026-11-06T21:34:19.815897+00:00,2026-11-07T21:34:19.815897+00:00,,https://github.com/fasouto/termaid
