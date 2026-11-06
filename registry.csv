@@ -1259,3 +1259,4 @@ repo,sveltejs/cli,,note,8cf5abe2c5f741969e35c96ce865871b,2026-11-06T21:38:48Z,,R
 repo,alangpierce/sucrase,,reserved,b464e55eaa614c8e98638b357081109a,2026-11-06T21:36:18Z,2026-11-07T21:36:18Z,,https://github.com/alangpierce/sucrase
 repo,apache/fory,,reserved,pilot4-repo61-2d263a3184ac4ff593d61dec274f2021,2026-11-06T21:39:20Z,2026-11-07T21:39:20Z,Repository reserved for local creation; no platform approval.,https://github.com/apache/fory
 "repo","sfepy/sfepy","","reserved","e5c7b4a9d26f438ab1906ef3c7d85a21","2026-11-06T21:40:52Z","2026-11-07T21:40:52Z","Reserved for local problem authoring.","https://github.com/sfepy/sfepy"
+repo,arm-software/astc-encoder,,reserved,8cf5abe2c5f741969e35c96ce865871b,2026-11-06T21:43:07Z,2026-11-07T21:43:07Z,Reserved for local problem research,https://github.com/arm-software/astc-encoder
