@@ -1311,7 +1311,7 @@ repo,statelyai/xstate,,used,wave5-b-repo77-20261111,2026-11-11T18:14:47Z,,,
 repo,linebender/parley,,used,wave5-a-repo78-20261111,2026-11-11T18:30:07Z,,,
 repo,google/gson,,used,wave5-c-repo-79-90cae7070e5b,2026-11-11T18:32:06Z,,,
 repo,junegunn/fzf,,used,wave5-d-repo80,2026-11-11T18:42:57Z,,,
-repo,charmbracelet/glow,,reserved,wave5-e-repo-81-63b1f8c0a941,2026-11-11T18:01:35Z,2026-11-12T18:01:35Z,,
+repo,charmbracelet/glow,,used,wave5-e-repo-81-63b1f8c0a941,2026-11-11T18:44:43Z,,,
 idea,junegunn/fzf,Search hidden original fields after --with-nth transforms visible columns,rejected,,2026-11-11T18:08:44Z,,Maintainer explicitly declined matching text hidden by the presentation transform.,https://github.com/junegunn/fzf/issues/1440
 idea,junegunn/fzf,Scroll the preview vertically by visual rows within a wrapped logical line,rejected,,2026-11-11T18:08:44Z,,"A public implementation exists, and the maintainer explicitly declined its behavior.",https://github.com/junegunn/fzf/issues/4851
 idea,junegunn/fzf,Extend reverse-video list-item color through unoccupied row cells,rejected,,2026-11-11T18:08:44Z,,The public issue links an implementation for the same behavior.,https://github.com/junegunn/fzf/issues/4823
