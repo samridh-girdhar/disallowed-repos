@@ -1318,4 +1318,4 @@ idea,junegunn/fzf,Extend reverse-video list-item color through unoccupied row ce
 repo,commonmark/commonmark-java,,used,wave6-b-repo83-20261112,2026-11-11T22:42:26Z,,Locally verified bundle delivered by reservation owner; platform approval unmeasured.,https://github.com/commonmark/commonmark-java
 repo,xo/usql,,used,wave6-a-repo82-20261112,2026-11-11T22:15:33Z,,Locally verified four-file bundle delivered.,https://github.com/xo/usql
 repo,beartype/beartype,,reserved,wave6-d-repo85-20261112,2026-11-11T21:48:26Z,2026-11-12T21:48:26Z,Reserved for local source review,https://github.com/beartype/beartype
-"repo","lxml/lxml","","reserved","wave6-e-repo86-20261112","2026-11-11T22:38:42Z","2026-11-12T22:38:42Z","","https://github.com/lxml/lxml"
+"repo","lxml/lxml","","used","wave6-e-repo86-20261112","2026-11-11T23:24:51Z","","Locally verified bundle delivered for the existing lineage; no Shipd approval implied.","https://github.com/lxml/lxml"
