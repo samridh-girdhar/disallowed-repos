@@ -1312,3 +1312,6 @@ repo,linebender/parley,,reserved,wave5-a-repo78-20261111,2026-11-11T17:28:26Z,20
 repo,google/gson,,reserved,wave5-c-repo-79-90cae7070e5b,2026-11-11T17:29:14Z,2026-11-12T17:29:14Z,,
 repo,junegunn/fzf,,reserved,wave5-d-repo80,2026-11-11T18:00:05Z,2026-11-12T18:00:05Z,,
 repo,charmbracelet/glow,,reserved,wave5-e-repo-81-63b1f8c0a941,2026-11-11T18:01:35Z,2026-11-12T18:01:35Z,,
+idea,junegunn/fzf,Search hidden original fields after --with-nth transforms visible columns,rejected,,2026-11-11T18:08:44Z,,Maintainer explicitly declined matching text hidden by the presentation transform.,https://github.com/junegunn/fzf/issues/1440
+idea,junegunn/fzf,Scroll the preview vertically by visual rows within a wrapped logical line,rejected,,2026-11-11T18:08:44Z,,"A public implementation exists, and the maintainer explicitly declined its behavior.",https://github.com/junegunn/fzf/issues/4851
+idea,junegunn/fzf,Extend reverse-video list-item color through unoccupied row cells,rejected,,2026-11-11T18:08:44Z,,The public issue links an implementation for the same behavior.,https://github.com/junegunn/fzf/issues/4823
