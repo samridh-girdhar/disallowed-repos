@@ -1296,7 +1296,7 @@ repo,ianstormtaylor/slate,,used,wave3-typescript-repo71-5a23b486b12e,2026-11-11T
 repo,d99kris/rapidcsv,,reserved,wave4-cpp-repo74-20261111,2026-11-11T13:08:12Z,2026-11-12T13:08:12Z,,
 repo,bits-and-blooms/bitset,,reserved,wave4-go-repo73-20261111,2026-11-11T13:08:33Z,2026-11-12T13:08:33Z,,
 repo,mourner/flatbush,,reserved,wave4-typescript-repo75-b29da8d1f36c,2026-11-11T13:08:45Z,2026-11-12T13:08:45Z,,
-repo,scitools/cartopy,,reserved,wave4-python-repo-72-1ab2a992ff18,2026-11-11T13:10:12Z,2026-11-12T13:10:12Z,,
+repo,scitools/cartopy,,used,wave4-python-repo-72-1ab2a992ff18,2026-11-11T13:35:05Z,,,
 repo,networkx/networkx,,reserved,titanfall-plain-five-20261111-c-e48e6a47a4,2026-11-11T13:20:11.086290+00:00,2026-11-12T13:20:11.086290+00:00,Owner-scoped local Phase 1 research reservation; no platform action or verified solution. Selected scope stays private.,https://github.com/networkx/networkx
 repo,agronholm/typeguard,,note,titanfall-plain-five-20261111-e-c59d52e3e5,2026-11-11T13:25:17Z,,Source screening ended: inspected signature and binding changes have public implementations; no package or solution delivered. Reservation released.,local owner record
 repo,microsoft/pyright,,reserved,titanfall-plain-five-20261111-a-97936cc129,2026-11-11T13:20:38Z,2026-11-12T13:20:38Z,Owner-scoped local Phase 1 source research; no platform action or verified solution. Selected unpublished scope stays private.,https://github.com/microsoft/pyright
