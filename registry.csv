@@ -1309,7 +1309,7 @@ repo,davidhalter/jedi,,note,titanfall-plain-five-20261111-b-f7c3d7c580,2026-11-1
 idea,agronholm/typeguard,Protocol method call-domain signature compatibility,rejected,titanfall-plain-five-20261111-e-c59d52e3e5,2026-11-11T13:48:07Z,,Public PR617 already implements the dominant optional/default and variadic collision analysis; PR597 covers required keyword handling. No new task or solution delivered.,https://github.com/agronholm/typeguard/pull/617; https://github.com/agronholm/typeguard/pull/597
 repo,statelyai/xstate,,used,wave5-b-repo77-20261111,2026-11-11T18:14:47Z,,,
 repo,linebender/parley,,used,wave5-a-repo78-20261111,2026-11-11T18:30:07Z,,,
-repo,google/gson,,reserved,wave5-c-repo-79-90cae7070e5b,2026-11-11T17:29:14Z,2026-11-12T17:29:14Z,,
+repo,google/gson,,used,wave5-c-repo-79-90cae7070e5b,2026-11-11T18:32:06Z,,,
 repo,junegunn/fzf,,reserved,wave5-d-repo80,2026-11-11T18:00:05Z,2026-11-12T18:00:05Z,,
 repo,charmbracelet/glow,,reserved,wave5-e-repo-81-63b1f8c0a941,2026-11-11T18:01:35Z,2026-11-12T18:01:35Z,,
 idea,junegunn/fzf,Search hidden original fields after --with-nth transforms visible columns,rejected,,2026-11-11T18:08:44Z,,Maintainer explicitly declined matching text hidden by the presentation transform.,https://github.com/junegunn/fzf/issues/1440
