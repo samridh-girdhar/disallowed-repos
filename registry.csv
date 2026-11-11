@@ -1290,3 +1290,4 @@ idea,apache/datafusion-ballista,Scheduler job ownership fencing with owner ident
 repo,project-chip/rs-matter,,used,79170adeaff34fa9aed59864,2026-11-10T06:04:29.466949+00:00,,Locally verified bundle delivered; this does not establish platform approval.,https://github.com/project-chip/rs-matter
 repo,pvlib/pvlib-python,,reserved,wave3-python-e12d484301274924bc359a8095935e16,2026-11-11T11:12:50Z,2026-11-12T11:12:50Z,Repository reserved for local development,https://github.com/pvlib/pvlib-python
 repo,a-h/templ,,reserved,wave3-go-repo-67-3fe5ad11d608,2026-11-11T11:13:00Z,2026-11-12T11:13:00Z,Reserved for local problem preparation.,https://github.com/a-h/templ
+repo,dtolnay/anyhow,,reserved,wave3-rust-repo69-763f5d2aa8f7,2026-11-11T11:13:12Z,2026-11-12T11:13:12Z,,
