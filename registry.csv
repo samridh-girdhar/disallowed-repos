@@ -1317,3 +1317,4 @@ idea,junegunn/fzf,Scroll the preview vertically by visual rows within a wrapped 
 idea,junegunn/fzf,Extend reverse-video list-item color through unoccupied row cells,rejected,,2026-11-11T18:08:44Z,,The public issue links an implementation for the same behavior.,https://github.com/junegunn/fzf/issues/4823
 repo,commonmark/commonmark-java,,reserved,wave6-b-repo83-20261112,2026-11-11T21:24:39Z,2026-11-12T21:24:39Z,,https://github.com/commonmark/commonmark-java
 repo,xo/usql,,reserved,wave6-a-repo82-20261112,2026-11-11T21:25:45Z,2026-11-12T21:25:45Z,,https://github.com/xo/usql
+repo,beartype/beartype,,reserved,wave6-d-repo85-20261112,2026-11-11T21:48:26Z,2026-11-12T21:48:26Z,Reserved for local source review,https://github.com/beartype/beartype
