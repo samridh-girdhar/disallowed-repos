@@ -1315,7 +1315,7 @@ repo,charmbracelet/glow,,used,wave5-e-repo-81-63b1f8c0a941,2026-11-11T18:44:43Z,
 idea,junegunn/fzf,Search hidden original fields after --with-nth transforms visible columns,rejected,,2026-11-11T18:08:44Z,,Maintainer explicitly declined matching text hidden by the presentation transform.,https://github.com/junegunn/fzf/issues/1440
 idea,junegunn/fzf,Scroll the preview vertically by visual rows within a wrapped logical line,rejected,,2026-11-11T18:08:44Z,,"A public implementation exists, and the maintainer explicitly declined its behavior.",https://github.com/junegunn/fzf/issues/4851
 idea,junegunn/fzf,Extend reverse-video list-item color through unoccupied row cells,rejected,,2026-11-11T18:08:44Z,,The public issue links an implementation for the same behavior.,https://github.com/junegunn/fzf/issues/4823
-repo,commonmark/commonmark-java,,reserved,wave6-b-repo83-20261112,2026-11-11T21:24:39Z,2026-11-12T21:24:39Z,,https://github.com/commonmark/commonmark-java
+repo,commonmark/commonmark-java,,used,wave6-b-repo83-20261112,2026-11-11T22:42:26Z,,Locally verified bundle delivered by reservation owner; platform approval unmeasured.,https://github.com/commonmark/commonmark-java
 repo,xo/usql,,used,wave6-a-repo82-20261112,2026-11-11T22:15:33Z,,Locally verified four-file bundle delivered.,https://github.com/xo/usql
 repo,beartype/beartype,,reserved,wave6-d-repo85-20261112,2026-11-11T21:48:26Z,2026-11-12T21:48:26Z,Reserved for local source review,https://github.com/beartype/beartype
 "repo","lxml/lxml","","reserved","wave6-e-repo86-20261112","2026-11-11T22:38:42Z","2026-11-12T22:38:42Z","","https://github.com/lxml/lxml"
