@@ -1307,7 +1307,7 @@ repo,georust/geo,,note,titanfall-plain-five-20261111-b-f7c3d7c580,2026-11-11T13:
 repo,carrotsearch/hppc,,used,wave4-fifth-repo76-20261111,2026-11-11T14:01:11Z,,,
 repo,davidhalter/jedi,,note,titanfall-plain-five-20261111-b-f7c3d7c580,2026-11-11T13:51:56Z,,"Local private Phase 1 package prepared for owner review; no implementation, platform check or approval. Reservation released.",https://github.com/davidhalter/jedi
 idea,agronholm/typeguard,Protocol method call-domain signature compatibility,rejected,titanfall-plain-five-20261111-e-c59d52e3e5,2026-11-11T13:48:07Z,,Public PR617 already implements the dominant optional/default and variadic collision analysis; PR597 covers required keyword handling. No new task or solution delivered.,https://github.com/agronholm/typeguard/pull/617; https://github.com/agronholm/typeguard/pull/597
-repo,statelyai/xstate,,reserved,wave5-b-repo77-20261111,2026-11-11T17:28:18Z,2026-11-12T17:28:18Z,,
+repo,statelyai/xstate,,used,wave5-b-repo77-20261111,2026-11-11T18:14:47Z,,,
 repo,linebender/parley,,reserved,wave5-a-repo78-20261111,2026-11-11T17:28:26Z,2026-11-12T17:28:26Z,,
 repo,google/gson,,reserved,wave5-c-repo-79-90cae7070e5b,2026-11-11T17:29:14Z,2026-11-12T17:29:14Z,,
 repo,junegunn/fzf,,reserved,wave5-d-repo80,2026-11-11T18:00:05Z,2026-11-12T18:00:05Z,,
