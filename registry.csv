@@ -1293,3 +1293,4 @@ repo,a-h/templ,,reserved,wave3-go-repo-67-3fe5ad11d608,2026-11-11T11:13:00Z,2026
 repo,dtolnay/anyhow,,used,wave3-rust-repo69-763f5d2aa8f7,2026-11-11T11:48:11Z,,,
 repo,jbeder/yaml-cpp,,used,wave3-cpp-repo70-20261111,2026-11-11T11:57:20Z,,,
 repo,ianstormtaylor/slate,,used,wave3-typescript-repo71-5a23b486b12e,2026-11-11T12:28:45Z,,,
+repo,d99kris/rapidcsv,,reserved,wave4-cpp-repo74-20261111,2026-11-11T13:08:12Z,2026-11-12T13:08:12Z,,
