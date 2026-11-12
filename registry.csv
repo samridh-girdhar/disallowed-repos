@@ -1328,4 +1328,4 @@ repo,geopandas/geopandas,,used,wave8-b-20261113,2026-11-12T22:09:58Z,,Local bund
 repo,charmbracelet/lipgloss,,note,wave8-d-20261113,2026-11-12T21:54:38+00:00,,Local verification did not complete; no bundle delivered.,https://github.com/charmbracelet/lipgloss
 repo,marp-team/marp-core,,used,wave8-a-20261113,2026-11-12T22:09:32+00:00,,Locally verified bundle delivered for the existing lineage; no Shipd approval implied.,https://github.com/marp-team/marp-core
 repo,holoviz/param,,used,wave8-c-20261113,2026-11-12T22:07:14Z,,Locally verified submission; this does not establish platform approval.,
-repo,twpayne/go-geom,,reserved,wave9-b-20261113,2026-11-12T22:14:55Z,2026-11-13T22:14:55Z,Warning-free URL admission and pinned active public source.,https://github.com/twpayne/go-geom
+repo,twpayne/go-geom,,note,wave9-b-20261113,2026-11-12T22:18:53Z,,Scoped local investigation ended before delivery.,https://github.com/twpayne/go-geom
