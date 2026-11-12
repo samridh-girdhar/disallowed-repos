@@ -1331,6 +1331,6 @@ repo,holoviz/param,,used,wave8-c-20261113,2026-11-12T22:07:14Z,,Locally verified
 repo,twpayne/go-geom,,note,wave9-b-20261113,2026-11-12T22:18:53Z,,Scoped local investigation ended before delivery.,https://github.com/twpayne/go-geom
 repo,preactjs/signals,,note,wave9-d-20261113,2026-11-12T22:33:09+00:00,,Undelivered; stopped before artifact handoff.,https://github.com/preactjs/signals
 repo,go-logr/logr,,note,wave10-a-20261113,2026-11-12T22:40:24+00:00,,Undelivered; stopped before artifact handoff.,https://github.com/go-logr/logr
-repo,rust-cli/config-rs,,reserved,wave10-b-20261113,2026-11-12T22:40:20+00:00,2026-11-13T22:40:20+00:00,,https://github.com/rust-cli/config-rs
+repo,rust-cli/config-rs,,used,wave10-b-20261113,2026-11-12T23:05:18+00:00,,,https://github.com/rust-cli/config-rs
 repo,unifiedjs/unified,,used,wave10-c-20261113,2026-11-12T22:56:29+00:00,,,https://github.com/unifiedjs/unified
 repo,java-diff-utils/java-diff-utils,,note,wave10-d-20261113,2026-11-12T22:50:04+00:00,,Undelivered; stopped before artifact handoff.,https://github.com/java-diff-utils/java-diff-utils
