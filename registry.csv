@@ -1324,7 +1324,7 @@ repo,blevesearch/bleve,,reserved,wave7-a-20261112,2026-11-12T10:05:04.036839Z,20
 repo,pygments/pygments,,note,wave7-c-20261112,2026-11-12T11:01:14Z,,Pinned Docker context excluded native tests; proof used unchanged ignore rules.,https://github.com/pygments/pygments/blob/156d85fdd18d34427fe893527e71da91dcfb0eb5/.dockerignore
 repo,wagtail/wagtail,,reserved,wave7-c-20261112,2026-11-12T11:01:14Z,2026-11-13T11:01:14Z,,https://github.com/wagtail/wagtail
 repo,executablebooks/markdown-it-py,,reserved,wave7-d-20261112,2026-11-12T11:17:49Z,2026-11-13T11:17:49Z,,https://github.com/executablebooks/markdown-it-py
-repo,holoviz/param,,reserved,wave8-c-20261113,2026-11-12T21:41:37Z,2026-11-13T21:41:37Z,,
 repo,geopandas/geopandas,,reserved,wave8-b-20261113,2026-11-12T21:41:48Z,2026-11-13T21:41:48Z,,https://github.com/geopandas/geopandas
 repo,charmbracelet/lipgloss,,note,wave8-d-20261113,2026-11-12T21:54:38+00:00,,Local verification did not complete; no bundle delivered.,https://github.com/charmbracelet/lipgloss
 repo,marp-team/marp-core,,reserved,wave8-a-20261113,2026-11-12T21:44:39+00:00,2026-11-13T21:44:39+00:00,,
+repo,holoviz/param,,used,wave8-c-20261113,2026-11-12T22:07:14Z,,Locally verified submission; this does not establish platform approval.,
