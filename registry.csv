@@ -1336,5 +1336,5 @@ repo,unifiedjs/unified,,used,wave10-c-20261113,2026-11-12T22:56:29+00:00,,,https
 repo,java-diff-utils/java-diff-utils,,note,wave10-d-20261113,2026-11-12T22:50:04+00:00,,Undelivered; stopped before artifact handoff.,https://github.com/java-diff-utils/java-diff-utils
 repo,go-playground/validator,,note,wave11-a-20261113,2026-11-13T06:57:44+00:00,,Open implementations cover the screened validation behaviors.,https://github.com/go-playground/validator
 repo,json-path/jsonpath,,used,wave11-c-20261113,2026-11-13T07:21:42+00:00,,,https://github.com/json-path/jsonpath
-repo,rust-lang/flate2-rs,,reserved,wave11-a-20261113,2026-11-13T06:58:33+00:00,2026-11-14T06:58:33+00:00,,https://github.com/rust-lang/flate2-rs
+repo,rust-lang/flate2-rs,,used,wave11-a-20261113,2026-11-13T07:31:14+00:00,,Locally verified bundle delivered. Platform approval unmeasured.,https://github.com/rust-lang/flate2-rs
 repo,sindresorhus/p-queue,,reserved,wave11-b-20261113,2026-11-13T07:01:28+00:00,2026-11-14T07:01:28+00:00,,https://github.com/sindresorhus/p-queue
