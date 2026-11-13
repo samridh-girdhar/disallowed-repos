@@ -1369,3 +1369,4 @@ repo,xtensor-stack/xtensor,,reserved,wave13-c-20261114,2026-11-13T19:44:07+00:00
 repo,go-echarts/go-echarts,,reserved,wave13-a-20261114,2026-11-13T19:44:36+00:00,2026-11-14T19:44:36+00:00,,https://github.com/go-echarts/go-echarts
 repo,image-rs/image-png,,reserved,wave13-b-20261114,2026-11-13T19:44:51+00:00,2026-11-14T19:44:51+00:00,,https://github.com/image-rs/image-png
 repo,cheeriojs/cheerio,,note,wave13-d-20261114,2026-11-13T19:46:54+00:00,,Inspected current public DOM/selector issues. Closest candidate scopes already had working public patches. Other scopes remain possible.,https://github.com/cheeriojs/cheerio
+repo,vega/vega-lite,,reserved,wave13-d-20261114,2026-11-13T19:48:47+00:00,2026-11-14T19:48:47+00:00,Working on a local evaluation,https://github.com/vega/vega-lite
