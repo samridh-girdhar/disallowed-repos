@@ -1367,6 +1367,6 @@ idea,apache/datafusion,Push all-consumer filters into shared materialized CTE bo
 idea,apache/datafusion,Prune unused materialized CTE output columns across consumers,rejected,titanfall-2026-11-13-fresh-five-181003Z-a-285b9b7a7d,2026-11-13T18:39:15.617191+00:00,,Public open PR26274 already implements the central pruning/remapping behavior.,https://github.com/apache/datafusion/pull/26274
 repo,xtensor-stack/xtensor,,reserved,wave13-c-20261114,2026-11-13T19:44:07+00:00,2026-11-14T19:44:07+00:00,,https://github.com/xtensor-stack/xtensor
 repo,go-echarts/go-echarts,,reserved,wave13-a-20261114,2026-11-13T19:44:36+00:00,2026-11-14T19:44:36+00:00,,https://github.com/go-echarts/go-echarts
-repo,image-rs/image-png,,reserved,wave13-b-20261114,2026-11-13T19:44:51+00:00,2026-11-14T19:44:51+00:00,,https://github.com/image-rs/image-png
+repo,image-rs/image-png,,used,wave13-b-20261114,2026-11-13T20:14:53+00:00,,Locally verified bundle delivered.,https://github.com/image-rs/image-png
 repo,cheeriojs/cheerio,,note,wave13-d-20261114,2026-11-13T19:46:54+00:00,,Inspected current public DOM/selector issues. Closest candidate scopes already had working public patches. Other scopes remain possible.,https://github.com/cheeriojs/cheerio
 repo,vega/vega-lite,,reserved,wave13-d-20261114,2026-11-13T19:48:47+00:00,2026-11-14T19:48:47+00:00,Working on a local evaluation,https://github.com/vega/vega-lite
