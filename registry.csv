@@ -1340,7 +1340,7 @@ repo,rust-lang/flate2-rs,,used,wave11-a-20261113,2026-11-13T07:31:14+00:00,,Loca
 repo,sindresorhus/p-queue,,used,wave11-b-20261113,2026-11-13T07:34:32+00:00,,,https://github.com/sindresorhus/p-queue
 repo,urfave/cli,,used,wave12-d-20261113,2026-11-13T18:06:54+00:00,,Locally verified Olympus bundle,https://github.com/urfave/cli
 repo,jrouwe/joltphysics,,used,wave12-c-20261113,2026-11-13T18:07:48+00:00,,Locally verified Olympus bundle delivered.,https://github.com/jrouwe/joltphysics
-repo,simonw/datasette,,reserved,wave12-b-20261113,2026-11-13T17:32:42+00:00,2026-11-14T17:32:42+00:00,,https://github.com/simonw/datasette
+repo,simonw/datasette,,used,wave12-b-20261113,2026-11-13T18:29:29+00:00,,,https://github.com/simonw/datasette
 repo,jedib0t/go-pretty,,used,wave12-a-20261113,2026-11-13T18:03:20+00:00,,Locally verified Olympus bundle,https://github.com/jedib0t/go-pretty
 repo,apache/datafusion,,reserved,titanfall-2026-11-13-fresh-five-181003Z-a-285b9b7a7d,2026-11-13T18:12:24.420920+00:00,2026-11-14T18:12:24.420920+00:00,Owner-scoped local Phase 1 research; no platform action or approval.,https://github.com/apache/datafusion
 repo,google/pprof,,note,titanfall-2026-11-13-fresh-five-181003Z-b-08236a9017,2026-11-13T18:14:57.587863Z,,Owner-scoped local Phase 1 research reservation; no platform action or verified solution. Selected unpublished scope remains private. | Released after source screening: heterogeneous sample alignment is native in CompatibilizeSampleTypes; recursive report totals have public patches linked from issue707. No scope selected or package delivered.,https://github.com/google/pprof
