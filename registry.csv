@@ -1334,4 +1334,4 @@ repo,go-logr/logr,,note,wave10-a-20261113,2026-11-12T22:40:24+00:00,,Undelivered
 repo,rust-cli/config-rs,,used,wave10-b-20261113,2026-11-12T23:05:18+00:00,,,https://github.com/rust-cli/config-rs
 repo,unifiedjs/unified,,used,wave10-c-20261113,2026-11-12T22:56:29+00:00,,,https://github.com/unifiedjs/unified
 repo,java-diff-utils/java-diff-utils,,note,wave10-d-20261113,2026-11-12T22:50:04+00:00,,Undelivered; stopped before artifact handoff.,https://github.com/java-diff-utils/java-diff-utils
-repo,go-playground/validator,,reserved,wave11-a-20261113,2026-11-13T06:56:29+00:00,2026-11-14T06:56:29+00:00,,https://github.com/go-playground/validator
+repo,go-playground/validator,,note,wave11-a-20261113,2026-11-13T06:57:44+00:00,,Open implementations cover the screened validation behaviors.,https://github.com/go-playground/validator
