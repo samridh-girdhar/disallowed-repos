@@ -1374,3 +1374,4 @@ repo,unionai-oss/pandera,,used,wave14-a-20261114,2026-11-14T00:35:22+00:00,,Loca
 repo,jenetics/jenetics,,used,wave14-b-20261114,2026-11-14T00:43:05+00:00,,Locally verified evaluation bundle,https://github.com/jenetics/jenetics
 repo,skypjack/entt,,used,wave14-d-20261114,2026-11-14T00:37:18+00:00,,Locally verified delivered bundle,https://github.com/skypjack/entt
 repo,google/go-cmp,,used,wave14-c-20261114,2026-11-14T00:35:42+00:00,,Locally verified bundle delivered,https://github.com/google/go-cmp
+repo,color-js/color.js,,reserved,wave15-c-20261114,2026-11-14T01:42:54Z,2026-11-15T01:42:54Z,,https://github.com/color-js/color.js
