@@ -1371,3 +1371,4 @@ repo,image-rs/image-png,,used,wave13-b-20261114,2026-11-13T20:14:53+00:00,,Local
 repo,cheeriojs/cheerio,,note,wave13-d-20261114,2026-11-13T19:46:54+00:00,,Inspected current public DOM/selector issues. Closest candidate scopes already had working public patches. Other scopes remain possible.,https://github.com/cheeriojs/cheerio
 repo,vega/vega-lite,,used,wave13-d-20261114,2026-11-13T20:33:12+00:00,,Locally verified evaluation bundle,https://github.com/vega/vega-lite
 repo,unionai-oss/pandera,,reserved,wave14-a-20261114,2026-11-14T00:06:45+00:00,2026-11-15T00:06:45+00:00,Working on a local evaluation,https://github.com/unionai-oss/pandera
+repo,jenetics/jenetics,,reserved,wave14-b-20261114,2026-11-14T00:07:11+00:00,2026-11-15T00:07:11+00:00,Working on a local evaluation,https://github.com/jenetics/jenetics
