@@ -1379,4 +1379,4 @@ repo,gdamore/tcell,,used,wave15-a-20261114,2026-11-14T02:22:02.609137Z,,One loca
 repo,rust-ndarray/ndarray,,note,,2026-11-14T02:04:08Z,,,
 repo,dimforge/nalgebra,,note,,2026-11-14T02:07:44Z,,,
 repo,geotiffjs/geotiff.js,,used,wave16-c-20261114,2026-11-14T03:40:09Z,,Locally verified bundle; platform approval unmeasured.,https://github.com/geotiffjs/geotiff.js
-repo,qax-os/excelize,,reserved,wave16-a-20261114,2026-11-14T03:05:50Z,2026-11-15T03:05:50Z,,https://github.com/qax-os/excelize
+repo,qax-os/excelize,,used,wave16-a-20261114,2026-11-14T03:49:45Z,,Locally verified four-file bundle delivered. Platform results pending.,https://github.com/qax-os/excelize
