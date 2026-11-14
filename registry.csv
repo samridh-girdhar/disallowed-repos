@@ -1378,3 +1378,4 @@ repo,color-js/color.js,,used,wave15-c-20261114,2026-11-14T02:13:12Z,,Local bundl
 repo,gdamore/tcell,,used,wave15-a-20261114,2026-11-14T02:22:02.609137Z,,One locally verified bundle delivered; no claim of platform approval.,https://github.com/gdamore/tcell
 repo,rust-ndarray/ndarray,,note,,2026-11-14T02:04:08Z,,,
 repo,dimforge/nalgebra,,note,,2026-11-14T02:07:44Z,,,
+repo,geotiffjs/geotiff.js,,reserved,wave16-c-20261114,2026-11-14T03:03:16Z,2026-11-15T03:03:16Z,,https://github.com/geotiffjs/geotiff.js
