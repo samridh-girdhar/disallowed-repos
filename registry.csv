@@ -1385,3 +1385,4 @@ repo,apache/calcite,,used,codex://threads/01a1f4c0-8bcc-7342-99af-02aa4cdeaa22,2
 repo,apache/arrow-rs,,used,01a1f51c-b17c-77b3-ac7b-3ce38f2e02d8,2026-11-19T19:28:19Z,,Active permissively licensed Rust Arrow implementation,https://github.com/apache/arrow-rs
 repo,apache/pouchdb,,used,codex://threads/01a1f51c-aa85-7fd2-a0d3-513799262ab1,2026-11-19T19:21:30Z,,Locally verified and delivered a repository-native bundle.,https://github.com/apache/pouchdb
 repo,google/starlark-go,,reserved,01a1f593-9f4e-7fe2-b126-2720605275fb,2026-11-19T20:57:07+00:00,2026-11-20T20:57:07+00:00,,https://github.com/google/starlark-go
+repo,quickwit-oss/tantivy,,reserved,01a1f593-95e0-7c30-bdf8-da75bb99022e,2026-11-19T20:58:20Z,2026-11-20T20:58:20Z,Temporary repository reservation for source research,https://github.com/quickwit-oss/tantivy
