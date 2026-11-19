@@ -1391,3 +1391,4 @@ repo,joml-ci/joml,,note,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:21:35
 repo,tdunning/t-digest,,note,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:26:43Z,,Count and full-range numerical scopes have concrete public implementations; no bundle.,https://github.com/tdunning/t-digest
 repo,kinnala/scikit-fem,,note,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:39:04Z,,Wedge facet and high-order skeleton scopes have compact native adapters; physical Hessian core is public in FElupe and Ferrite. No bundle.,https://github.com/kinnala/scikit-fem
 repo,gumyr/build123d,,reserved,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:41:39Z,2026-11-20T21:41:39Z,Reserved for local problem research.,https://github.com/gumyr/build123d
+repo,apache/flink,,reserved,01a1f5db-019f-7d93-86b8-573f4e5f0438,2026-11-19T22:15:12Z,2026-11-20T22:15:12Z,Active permissive Java production monorepo,https://github.com/apache/flink
