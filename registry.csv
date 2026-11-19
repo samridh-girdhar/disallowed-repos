@@ -1387,4 +1387,4 @@ repo,apache/pouchdb,,used,codex://threads/01a1f51c-aa85-7fd2-a0d3-513799262ab1,2
 repo,google/starlark-go,,reserved,01a1f593-9f4e-7fe2-b126-2720605275fb,2026-11-19T20:57:07+00:00,2026-11-20T20:57:07+00:00,,https://github.com/google/starlark-go
 repo,quickwit-oss/tantivy,,reserved,01a1f593-95e0-7c30-bdf8-da75bb99022e,2026-11-19T20:58:20Z,2026-11-20T20:58:20Z,Temporary repository reservation for source research,https://github.com/quickwit-oss/tantivy
 repo,elalish/manifold,,note,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:17:09Z,,Examined active hull and geometry reports; public repairs or compact shared native routes dominated. No bundle.,https://github.com/elalish/manifold
-repo,joml-ci/joml,,reserved,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:18:30Z,2026-11-20T21:18:30Z,Reserved for local problem research.,https://github.com/JOML-CI/JOML
+repo,joml-ci/joml,,note,01a1f5a3-7d20-7d42-bccc-8c7877754950,2026-11-19T21:21:35Z,,Examined numerical and geometry APIs; strongest residual collision lead has a compact published algorithm repair. No bundle.,https://github.com/JOML-CI/JOML
