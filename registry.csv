@@ -1383,4 +1383,4 @@ repo,qax-os/excelize,,used,wave16-a-20261114,2026-11-14T03:49:45Z,,Locally verif
 repo,gristlabs/grist-core,,used,01a1f4bf-01bb-75c0-89a2-6591bbd58beb,2026-11-19T17:49:23Z,,Locally verified bundle delivered.,https://github.com/gristlabs/grist-core
 repo,apache/calcite,,used,codex://threads/01a1f4c0-8bcc-7342-99af-02aa4cdeaa22,2026-11-19T18:25:45Z,,Locally verified and delivered an independent problem bundle.,https://github.com/apache/calcite
 repo,apache/arrow-rs,,reserved,01a1f51c-b17c-77b3-ac7b-3ce38f2e02d8,2026-11-19T18:46:35Z,2026-11-20T18:46:35Z,Active permissively licensed Rust Arrow implementation,https://github.com/apache/arrow-rs
-repo,apache/pouchdb,,reserved,codex://threads/01a1f51c-aa85-7fd2-a0d3-513799262ab1,2026-11-19T18:47:59Z,2026-11-20T18:47:59Z,Owner reservation for repository evaluation.,https://github.com/apache/pouchdb
+repo,apache/pouchdb,,used,codex://threads/01a1f51c-aa85-7fd2-a0d3-513799262ab1,2026-11-19T19:21:30Z,,Locally verified and delivered a repository-native bundle.,https://github.com/apache/pouchdb
