@@ -1431,3 +1431,4 @@ idea,motiondivision/motion,nested animation sequence repeat and duration scaling
 idea,motiondivision/motion,preserve repeat phase during timeline edits and playTo labels,rejected,repo-139-notation-01a1f900,2026-11-20T14:35:07Z,,"Implemented in merged PR4048, including forward and backward playTo within a repeat.",https://github.com/motiondivision/motion/pull/4048
 repo,01mf02/jaq,,reserved,p1-944652a48e184edc8b2ccc9b824b028e,2026-11-20T14:37:20Z,2026-11-21T14:37:20Z,Active reservation for repository research.,https://github.com/01mf02/jaq
 repo,jackc/pgx,,reserved,p1-248efc0b9d164891b2dbd15ab87a45d0,2026-11-20T14:37:43Z,2026-11-21T14:37:43Z,Reserve repository for local Phase 1 research.,https://github.com/jackc/pgx
+repo,recharts/recharts,,reserved,p1-2e46365b506a4ae6807564a54d93035a,2026-11-20T14:38:08Z,2026-11-21T14:38:08Z,Phase 1 repository exploration,https://github.com/recharts/recharts
