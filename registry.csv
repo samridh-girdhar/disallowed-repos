@@ -1591,4 +1591,4 @@ repo,snakemake/snakemake,,reserved,dagster-orion-probe-59aa25c2,2026-11-21T16:47
 repo,python/mypy,,reserved,mypyc-pep525-repo-33,2026-11-21T16:47:57.649523+00:00,2026-11-22T16:47:57.649523+00:00,Provisional source and native compiler selection screen; MIT per upstream LICENSE.,https://github.com/python/mypy/blob/1572a18848d181f5cd91877aa3ab4e1644b14f20/LICENSE
 repo,golang/tools,,reserved,repo-152-golang-tools-01a1fe38,2026-11-21T16:56:25.803301+00:00,2026-11-22T16:56:25.803301+00:00,,
 repo,visgl/deck.gl,,reserved,repo-150-visgl-deck-gl,2026-11-21T16:57:02Z,2026-11-22T16:57:02Z,,https://github.com/visgl/deck.gl
-repo,apache/arrow,,reserved,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T17:00:34Z,2026-11-22T17:00:34Z,Owner reservation after warning-free repository admission,https://github.com/apache/arrow
+repo,apache/arrow,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T17:05:04Z,,Nested dictionary processing scope screened below the current calibration size target,https://github.com/apache/arrow
