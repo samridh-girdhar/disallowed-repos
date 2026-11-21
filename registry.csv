@@ -1621,4 +1621,4 @@ repo,babel/babel,,note,,2026-11-21T20:43:32Z,,Released after local source compar
 repo,open-telemetry/opentelemetry-collector,,note,,2026-11-21T20:51:57Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/open-telemetry/opentelemetry-collector
 repo,apache/beam,,note,,2026-11-21T20:58:41Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/apache/beam
 repo,delta-io/delta,,note,,2026-11-21T23:05:35Z,,Released after an unfinished local screen.,https://github.com/delta-io/delta
-repo,python-attrs/attrs,,reserved,repo-150-attrs,2026-11-21T23:12:37Z,2026-11-22T23:12:37Z,Owner reservation for local Phase 1 research with no platform outcome claimed.,https://github.com/python-attrs/attrs
+repo,python-attrs/attrs,,note,,2026-11-21T23:23:11Z,,Released after local comparison established a compact implementation route.,https://github.com/python-attrs/attrs
