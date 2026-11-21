@@ -1557,4 +1557,5 @@ repo,rjsf-team/react-jsonschema-form,,note,01a1fbff-f21e-7ba3-8739-1d394eaba691,
 repo,academysoftwarefoundation/openvdb,,reserved,01a1fc20-ae8d-7093-b460-7ebc2d54a762,2026-11-21T03:25:07Z,2026-11-22T03:25:07Z,Owner reservation for repository evaluation,https://github.com/academysoftwarefoundation/openvdb
 repo,tree-sitter/tree-sitter,,note,,2026-11-21T03:51:55Z,,Screening ended before a candidate was verified.,https://github.com/tree-sitter/tree-sitter
 repo,tamasfe/taplo,,note,,2026-11-21T03:55:59Z,,Screening ended before a candidate was verified.,https://github.com/tamasfe/taplo
-repo,tdewolff/canvas,,reserved,01a1fc33-c991-7b62-ad2d-4cb525bfd714,2026-11-21T03:57:43Z,2026-11-22T03:57:43Z,,https://github.com/tdewolff/canvas
+repo,tdewolff/canvas,,note,,2026-11-21T04:03:40Z,,Screening ended before a candidate was verified.,https://github.com/tdewolff/canvas
+idea,tdewolff/canvas,Preserve gradient stop opacity in vector PDF exports.,rejected,,2026-11-21T04:03:40Z,,Public fork implements variable gradient alpha and verifies mask placement.,https://github.com/anaelorlinski/tdewolff-canvas/commit/a2433217d82206fe51be2e5f620d6b74ee9e0b6f
