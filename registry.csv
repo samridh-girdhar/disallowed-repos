@@ -1564,4 +1564,5 @@ idea,gonum/gonum,Leiden refinement under full-graph modularity with coarse membe
 repo,mpmath/mpmath,,note,01a1fc48-b22e-7671-a757-bc086e21be49,2026-11-21T04:36:14Z,,Released after behavioral screening,https://github.com/mpmath/mpmath
 idea,mpmath/mpmath,Propagate weighted inner sample errors in multidimensional quadrature,rejected,01a1fc48-b22e-7671-a757-bc086e21be49,2026-11-21T04:36:14Z,,Public Julia prototype already computes the weighted child error sum and separate outer rule error,https://github.com/lxvm/IteratedIntegration.jl/blob/34ae877d9aa4dd78aa82bb429eaab6a77f395036/src/iai.jl#L87-L124
 repo,apache/commons-math,,reserved,01a1fc48-b22e-7671-a757-bc086e21be49,2026-11-21T04:39:30Z,2026-11-22T04:39:30Z,Owner screening after warning-free admission,https://github.com/apache/commons-math
-repo,microsoft/typespec,,reserved,repo-148-f5a88ca1,2026-11-21T05:49:11Z,2026-11-22T05:49:11Z,,https://github.com/microsoft/typespec
+repo,microsoft/typespec,,note,repo-148-f5a88ca1,2026-11-21T05:58:58Z,,No candidate advanced in typed-model schema screening,https://github.com/microsoft/typespec
+idea,microsoft/typespec,Required injected discriminator tags for envelope-free OpenAPI union variants,rejected,repo-148-f5a88ca1,2026-11-21T05:58:58Z,,Open pull request provides contextual tags for shared and sealed payloads,https://github.com/microsoft/typespec/pull/12520
