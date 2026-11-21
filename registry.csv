@@ -1576,3 +1576,4 @@ repo,home-assistant/core,,reserved,repo-151-openrefine,2026-11-21T13:30:42Z,2026
 repo,jupyterlab/jupyterlab,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T13:52:25Z,,Eligible; owner released after candidate scale screening,https://github.com/jupyterlab/jupyterlab
 repo,apache/druid,,note,repo-150-apache-druid,2026-11-21T13:59:30Z,,Unfinished screen.,https://github.com/apache/druid
 repo,apache/superset,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T14:12:18Z,,Grouped chart scope screened below the current calibration size target,https://github.com/apache/superset
+repo,microsoft/fluidframework,,reserved,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T14:13:48Z,2026-11-22T14:13:48Z,Owner reservation after warning-free repository admission,https://github.com/microsoft/FluidFramework
