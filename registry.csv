@@ -1599,3 +1599,4 @@ repo,tiledb-inc/tiledb,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T18:
 repo,yarnpkg/berry,,note,repo-150-yarnpkg-berry,2026-11-21T18:28:14Z,,Focused install and lockfile-only refresh screen found a compact cross-stage repair. No task selected and no runtime result.,https://github.com/yarnpkg/berry/issues/6790
 repo,simbody/simbody,,reserved,repo-139-notation-01a1f900,2026-11-21T18:27:05Z,2026-11-22T18:27:05Z,Reserved for source screening after warning-free live repository admission.,https://github.com/simbody/simbody
 repo,microsoft/vscode,,note,repo-150-microsoft-vscode,2026-11-21T18:33:42Z,,Shipd admission warned this repo is too large and product-specific for reliable contributor-created evals. No source screen.,https://github.com/microsoft/vscode
+repo,nvidia/warp,,reserved,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T18:35:04Z,2026-11-22T18:35:04Z,Owner reservation after warning-free repository admission,https://github.com/NVIDIA/warp
