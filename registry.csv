@@ -1620,4 +1620,4 @@ repo,microsoft/typescript,,note,,2026-11-21T21:16:23Z,,Released after an unfinis
 repo,babel/babel,,note,,2026-11-21T20:43:32Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/babel/babel
 repo,open-telemetry/opentelemetry-collector,,note,,2026-11-21T20:51:57Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/open-telemetry/opentelemetry-collector
 repo,apache/beam,,note,,2026-11-21T20:58:41Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/apache/beam
-repo,delta-io/delta,,reserved,repo-150-delta-kernel,2026-11-21T22:58:22Z,2026-11-22T22:58:22Z,Owner reservation for local Phase 1 research with no platform outcome claimed.,https://github.com/delta-io/delta
+repo,delta-io/delta,,note,,2026-11-21T23:05:35Z,,Released after an unfinished local screen.,https://github.com/delta-io/delta
