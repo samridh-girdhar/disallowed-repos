@@ -1590,3 +1590,4 @@ repo,treeverse/dvc,,reserved,01a1fefe-3b71-7200-a641-900d21725c8f,2026-11-21T16:
 repo,snakemake/snakemake,,reserved,dagster-orion-probe-59aa25c2,2026-11-21T16:47:52.015976+00:00,2026-11-22T16:47:52.015976+00:00,"Local feature investigation; provisional inline admission, complete Repository Compliance pending.",https://github.com/snakemake/snakemake
 repo,python/mypy,,reserved,mypyc-pep525-repo-33,2026-11-21T16:47:57.649523+00:00,2026-11-22T16:47:57.649523+00:00,Provisional source and native compiler selection screen; MIT per upstream LICENSE.,https://github.com/python/mypy/blob/1572a18848d181f5cd91877aa3ab4e1644b14f20/LICENSE
 repo,golang/tools,,reserved,repo-152-golang-tools-01a1fe38,2026-11-21T16:56:25.803301+00:00,2026-11-22T16:56:25.803301+00:00,,
+repo,visgl/deck.gl,,reserved,repo-150-visgl-deck-gl,2026-11-21T16:57:02Z,2026-11-22T16:57:02Z,,https://github.com/visgl/deck.gl
