@@ -1577,4 +1577,4 @@ repo,jupyterlab/jupyterlab,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21
 repo,apache/druid,,note,repo-150-apache-druid,2026-11-21T13:59:30Z,,Unfinished screen.,https://github.com/apache/druid
 repo,apache/superset,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T14:12:18Z,,Grouped chart scope screened below the current calibration size target,https://github.com/apache/superset
 repo,microsoft/fluidframework,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T14:18:29Z,,Local SharedTree scope screened below the current calibration size target,https://github.com/microsoft/FluidFramework/pull/26351
-repo,kitware/paraview,,reserved,repo-152-paraview-01a1fe38,2026-11-21T14:34:44.561150+00:00,2026-11-22T14:34:44.561150+00:00,,
+repo,kitware/paraview,,note,repo-152-paraview-01a1fe38,2026-11-21T14:43:18.686626+00:00,,Current ParaView already persists active selections in saved state. The temporal mesh identity screen ended without a bundle.,https://discourse.paraview.org/t/bug-with-temporal-interpolator-filter/14031
