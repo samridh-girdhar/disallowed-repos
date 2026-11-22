@@ -1625,3 +1625,4 @@ repo,python-attrs/attrs,,note,,2026-11-21T23:23:11Z,,Released after local compar
 repo,sqlalchemy/sqlalchemy,,note,,2026-11-22T00:28:25Z,,Exploratory task paused. Under evaluation for a possible new task.,https://github.com/sqlalchemy/sqlalchemy
 repo,napari/napari,,note,codex-01a1-orion-wave-repo-153,2026-11-22T00:32:58Z,,Passed repository admission; reservation released with work unfinished,https://github.com/napari/napari
 repo,bokeh/bokeh,,note,codex-01a1-orion-wave-repo-153,2026-11-22T00:53:26Z,,Passed repository admission; reservation released with work unfinished,https://github.com/bokeh/bokeh
+repo,dagster-io/dagster,,reserved,codex-01a1-orion-wave-repo-153,2026-11-22T02:32:15Z,2026-11-23T02:32:15Z,Passed repository admission,https://github.com/dagster-io/dagster
