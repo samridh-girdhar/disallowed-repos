@@ -1626,3 +1626,4 @@ repo,sqlalchemy/sqlalchemy,,note,,2026-11-22T00:28:25Z,,Exploratory task paused.
 repo,napari/napari,,note,codex-01a1-orion-wave-repo-153,2026-11-22T00:32:58Z,,Passed repository admission; reservation released with work unfinished,https://github.com/napari/napari
 repo,bokeh/bokeh,,note,codex-01a1-orion-wave-repo-153,2026-11-22T00:53:26Z,,Passed repository admission; reservation released with work unfinished,https://github.com/bokeh/bokeh
 repo,dagster-io/dagster,,used,codex-01a1-orion-wave-repo-153,2026-11-22T02:51:47Z,,Passed repository admission. Locally verified delivery,https://github.com/dagster-io/dagster
+repo,evanw/esbuild,,reserved,01a200a1-d000-7900-92ac-17116afb5520,2026-11-22T03:28:48Z,2026-11-23T03:28:48Z,Provisional local review in progress.,https://github.com/evanw/esbuild
