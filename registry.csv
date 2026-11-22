@@ -1619,7 +1619,7 @@ repo,pandas-dev/pandas,,note,01a1fe34-a7c3-7481-ae49-332928a3d489,2026-11-21T20:
 repo,microsoft/typescript,,note,,2026-11-21T21:16:23Z,,Released after an unfinished local screen.,https://github.com/microsoft/typescript
 repo,babel/babel,,note,,2026-11-21T20:43:32Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/babel/babel
 repo,open-telemetry/opentelemetry-collector,,note,,2026-11-21T20:51:57Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/open-telemetry/opentelemetry-collector
-repo,apache/beam,,note,,2026-11-21T20:58:41Z,,Released after local source comparison of candidate scope and public precedent.,https://github.com/apache/beam
+repo,apache/beam,,reserved,01a200a1-d000-7900-92ac-17116afb5520,2026-11-22T00:24:08Z,2026-11-23T00:24:08Z,Released after local source comparison of candidate scope and public precedent. Provisional local review in progress.,https://github.com/apache/beam
 repo,delta-io/delta,,note,,2026-11-21T23:05:35Z,,Released after an unfinished local screen.,https://github.com/delta-io/delta
 repo,python-attrs/attrs,,note,,2026-11-21T23:23:11Z,,Released after local comparison established a compact implementation route.,https://github.com/python-attrs/attrs
 repo,sqlalchemy/sqlalchemy,,reserved,repo-150-sqlalchemy,2026-11-22T00:03:01Z,2026-11-23T00:03:01Z,Under evaluation for a possible new task.,https://github.com/sqlalchemy/sqlalchemy
