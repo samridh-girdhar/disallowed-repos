@@ -1638,3 +1638,4 @@ idea,lance-format/lance,Claim spilled stable row IDs in action-set conflict foot
 repo,mmtk/mmtk-core,,note,,2026-11-23T03:24:03.989050+00:00,,Screened collector/heap outcomes admit substantial native reuse or existing public implementations; no scope selected.,https://github.com/mmtk/mmtk-core
 idea,mmtk/mmtk-core,headerless disjoint-buffer allocations,rejected,,2026-11-23T03:24:03.989050+00:00,,Existing implementation attempt PR663.,https://github.com/mmtk/mmtk-core/pull/663
 idea,mmtk/mmtk-core,Compressor pointer updates for nonmoving spaces,rejected,,2026-11-23T03:24:03.989050+00:00,,Zenodo-linked fork implements remembered incoming edges and forwarding.,https://github.com/no-defun-allowed/mmtk-core/tree/d0ce89b0d65691f80f8c5b5449d66d737a718cbb
+repo,salsa-rs/salsa,,reserved,972c3e118d5f20dc518aba37,2026-11-23T03:26:50.708450+00:00,2026-11-24T03:26:50.708450+00:00,Active repository evaluation.,https://github.com/salsa-rs/salsa
