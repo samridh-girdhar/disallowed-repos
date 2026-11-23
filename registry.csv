@@ -1668,3 +1668,4 @@ repo,aaif-goose/goose,,note,972c3e118d5f20dc518aba37,2026-11-23T14:48:25.408371+
 repo,yeachan-heo/oh-my-claudecode,,used,01a208cf-c6d2-7fa3-8b6d-743b35562354,2026-11-23T16:56:26Z,,Verified local delivery repo-166.,https://github.com/yeachan-heo/oh-my-claudecode
 repo,carlrannaberg/claudekit,,used,01a208cf-be11-7572-9275-4c88b52b9e5d,2026-11-23T16:07:06Z,,Locally verified bundle delivered; this does not establish platform approval.,https://github.com/carlrannaberg/claudekit
 repo,gvisor/gvisor,,reserved,972c3e118d5f20dc518aba37,2026-11-23T17:14:52Z,2026-11-24T17:14:52Z,Repository evaluation resumed after live eligibility confirmation.,https://github.com/gvisor/gvisor
+idea,gvisor/gvisor,IGMPv3 source-specific multicast,reserved,972c3e118d5f20dc518aba37,2026-11-23T17:27:19Z,2026-11-24T17:27:19Z,Source-specific multicast was deferred in the initial IGMPv3 implementation.,https://github.com/gvisor/gvisor/pull/8362
