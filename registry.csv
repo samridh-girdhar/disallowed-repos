@@ -1669,7 +1669,7 @@ repo,yeachan-heo/oh-my-claudecode,,used,01a208cf-c6d2-7fa3-8b6d-743b35562354,202
 repo,carlrannaberg/claudekit,,used,01a208cf-be11-7572-9275-4c88b52b9e5d,2026-11-23T16:07:06Z,,Locally verified bundle delivered; this does not establish platform approval.,https://github.com/carlrannaberg/claudekit
 repo,gvisor/gvisor,,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local four-file delivery verified.,https://github.com/gvisor/gvisor
 idea,gvisor/gvisor,IGMPv3 source-specific multicast,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local four-file delivery verified.,https://github.com/gvisor/gvisor/pull/8362
-repo,getwud/wud,,reserved,5a8cd1ed5d478955,2026-11-24T12:12:16Z,2026-11-25T12:12:16Z,Active creation reservation after verified inline repository admission.,https://github.com/getwud/wud
+repo,getwud/wud,,used,5a8cd1ed5d478955,2026-11-24T16:33:12Z,,Local artifact delivery; no platform approval claimed.,https://github.com/getwud/wud
 repo,mock-server/mockserver-monorepo,,used,01a20d6a-9745-7121-a586-d574032dd5c5,2026-11-24T13:21:39Z,,Locally verified artifact bundle delivered and uploaded; not a platform approval.,https://github.com/mock-server/mockserver-monorepo
 repo,perber/leafwiki,,reserved,2df2e227c8df4913,2026-11-24T12:25:53Z,2026-11-25T12:25:53Z,Active creation reservation after verified inline repository eligibility.,https://github.com/perber/leafwiki
 repo,ramilito/kubectl.nvim,,reserved,01a20d6a-74be-75a1-b5b3-2f77c5d9e8e9,2026-11-24T12:37:38Z,2026-11-25T12:37:38Z,Active creation reservation after completed inline eligibility and public workflow/novelty review.,https://github.com/ramilito/kubectl.nvim
