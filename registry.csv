@@ -1671,7 +1671,7 @@ repo,gvisor/gvisor,,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local fo
 idea,gvisor/gvisor,IGMPv3 source-specific multicast,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local four-file delivery verified.,https://github.com/gvisor/gvisor/pull/8362
 repo,getwud/wud,,used,5a8cd1ed5d478955,2026-11-24T16:33:12Z,,Local artifact delivery; no platform approval claimed.,https://github.com/getwud/wud
 repo,mock-server/mockserver-monorepo,,used,01a20d6a-9745-7121-a586-d574032dd5c5,2026-11-24T13:21:39Z,,Locally verified artifact bundle delivered and uploaded; not a platform approval.,https://github.com/mock-server/mockserver-monorepo
-repo,perber/leafwiki,,reserved,2df2e227c8df4913,2026-11-24T12:25:53Z,2026-11-25T12:25:53Z,Active creation reservation after verified inline repository eligibility.,https://github.com/perber/leafwiki
+repo,perber/leafwiki,,used,2df2e227c8df4913,2026-11-24T17:59:10Z,,Verified local submission delivered.,https://github.com/perber/leafwiki
 repo,ramilito/kubectl.nvim,,used,01a20d6a-74be-75a1-b5b3-2f77c5d9e8e9,2026-11-24T16:45:33Z,,Verified local submission bundle delivered.,https://github.com/ramilito/kubectl.nvim
 repo,vercel-labs/ui,,reserved,01a20da1-fcfb-76f3-a74d-b9628ccc9d09,2026-11-24T13:09:16Z,2026-11-25T13:09:16Z,Active local creation reservation after inline repository eligibility.,https://github.com/vercel-labs/ui
 repo,google/adk-go,,used,01a20da2-04bf-7ec0-b1fa-7105779ba045,2026-11-24T15:59:52Z,,Locally verified four-file bundle delivered by repo-174; not a platform approval.,https://github.com/google/adk-go
