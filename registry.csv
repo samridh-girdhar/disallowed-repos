@@ -1669,3 +1669,4 @@ repo,yeachan-heo/oh-my-claudecode,,used,01a208cf-c6d2-7fa3-8b6d-743b35562354,202
 repo,carlrannaberg/claudekit,,used,01a208cf-be11-7572-9275-4c88b52b9e5d,2026-11-23T16:07:06Z,,Locally verified bundle delivered; this does not establish platform approval.,https://github.com/carlrannaberg/claudekit
 repo,gvisor/gvisor,,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local four-file delivery verified.,https://github.com/gvisor/gvisor
 idea,gvisor/gvisor,IGMPv3 source-specific multicast,used,972c3e118d5f20dc518aba37,2026-11-23T18:41:37Z,,Local four-file delivery verified.,https://github.com/gvisor/gvisor/pull/8362
+repo,getwud/wud,,reserved,5a8cd1ed5d478955,2026-11-24T12:12:16Z,2026-11-25T12:12:16Z,Active creation reservation after verified inline repository admission.,https://github.com/getwud/wud
