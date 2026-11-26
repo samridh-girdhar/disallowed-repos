@@ -1692,3 +1692,4 @@ repo,nasa/spacewasm,,reserved,olympus-vps-0d087491,2026-11-26T05:42:57Z,2026-11-
 repo,jbangdev/jbang,,reserved,olympus-7b3f3fae4b254172a22450e4,2026-11-26T06:50:56Z,2026-11-27T06:50:56Z,Active local creation reservation after live admission for shared compilation-cache correctness.,https://github.com/jbangdev/jbang/issues/2445
 repo,pmndrs/zustand,,reserved,repo-183-01a21778-dd48-7e60-bebf-31669ef68be0,2026-11-26T10:56:02Z,2026-11-27T10:56:02Z,Active creation reservation.,https://github.com/pmndrs/zustand
 repo,jesseduffield/lazygit,,reserved,01a21778-d169-74d0-ac36-76e2b4683adb,2026-11-26T10:57:26Z,2026-11-27T10:57:26Z,Active creation reservation for eligible Lazygit candidate.,https://github.com/jesseduffield/lazygit
+repo,litestar-org/litestar,,reserved,01a21778-caed-7cc2-a2bd-935537eb73e9,2026-11-26T10:57:56Z,2026-11-27T10:57:56Z,Active creation reservation for repo-181.,https://github.com/litestar-org/litestar
