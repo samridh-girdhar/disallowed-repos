@@ -1704,3 +1704,4 @@ repo,samchon/nestia,,used,01a21927-d4ae-74f1-b111-e87a4bff544b,2026-11-26T20:00:
 repo,numtide/treefmt,,used,01a21927-db5e-73a1-908d-bcc0106770ad,2026-11-26T19:20:52Z,,Locally verified four-file bundle delivered by repo-185.,https://github.com/numtide/treefmt
 repo,sqlfluff/sqlfluff,,reserved,01a21927-e1d4-7fb2-85e3-cc6986d8702d,2026-11-26T18:49:01Z,2026-11-27T18:49:01Z,Active creation reservation for an eligible SQLFluff candidate.,https://github.com/sqlfluff/sqlfluff
 idea,stoolap/stoolap,Stored generated columns (GENERATED ALWAYS AS ... STORED),used,olympus-vps-8254b8d5,2026-11-26T21:30:49Z,,"Local bundle delivered for repo-16 (70 new tests, 0-blocking solution and test quality gates); not a platform approval.",https://github.com/stoolap/stoolap
+repo,bufbuild/buf,,reserved,01a21a73-374a-7ef3-ba1a-cdf3a9a7a06f,2026-11-27T00:58:29Z,2026-11-28T00:58:29Z,Active Olympus repository reservation for repo-192.,https://github.com/bufbuild/buf
