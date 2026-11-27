@@ -1707,3 +1707,4 @@ idea,stoolap/stoolap,Stored generated columns (GENERATED ALWAYS AS ... STORED),u
 repo,bufbuild/buf,,used,01a21a73-374a-7ef3-ba1a-cdf3a9a7a06f,2026-11-27T01:18:55Z,,Locally verified four-file bundle delivered by repo-192.,https://github.com/bufbuild/buf
 repo,thewh1teagle/vibe,,note,olympus-repo-177-20261127,2026-11-27T10:13:43Z,,Creation reservation released. A public implementation already covered the proposed task's core.,https://github.com/thewh1teagle/vibe
 repo,apache/shardingsphere,,reserved,01a21c46-bb2e-77a2-9ada-20458e80efa9,2026-11-27T09:31:27Z,2026-11-28T09:31:27Z,Active creation reservation after warning-free inline repository admission.,https://github.com/apache/shardingsphere
+repo,invoke-ai/invokeai,,reserved,01a21cbd-6f10-7191-99cf-cbd5d620b7ff,2026-11-27T11:26:59Z,2026-11-28T11:26:59Z,Active creation reservation for eligible InvokeAI candidate.,https://github.com/invoke-ai/invokeai
