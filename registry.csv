@@ -1724,3 +1724,4 @@ repo,ZaxbyHub/opencode-swarm,,reserved,01a21f1b-71bc-77d1-be16-6eced7f90e30,2026
 repo,jelmer/dulwich,,reserved,01a2219c-30c1-7a81-a4c7-c79ef55210bb,2026-11-28T10:07:39Z,2026-11-29T10:07:39Z,Active creation reservation for eligible Dulwich candidate.,https://github.com/jelmer/dulwich
 repo,EmbarkStudios/cargo-deny,,reserved,01a2219c-629f-79d2-8269-81c053ec9326,2026-11-28T10:08:35.495842+00:00,2026-11-29T10:08:35.495842+00:00,Active creation reservation for eligible cargo-deny candidate.,https://github.com/EmbarkStudios/cargo-deny
 "repo","kopia/kopia","","reserved","01a2219c-55be-7d00-a64f-70a4a53479a8","2026-11-28T10:09:11Z","2026-11-29T10:09:11Z","repo-218","https://github.com/kopia/kopia"
+repo,web-infra-dev/rsbuild,,reserved,repo-216/01a2219c-4b83-7f73-8e16-ff0e092c970d,2026-11-28T10:08:55Z,2026-11-29T10:08:55Z,Active creation reservation.,https://github.com/web-infra-dev/rsbuild/issues/8496
