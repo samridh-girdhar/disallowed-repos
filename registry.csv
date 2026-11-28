@@ -1721,3 +1721,4 @@ repo,azure/azqr,,used,olympus-repo-184-20261128,2026-11-27T23:05:36Z,,Verified l
 repo,apicurio/apicurio-registry,,used,01a21f1b-7d31-7313-b56e-ff019f959a11,2026-11-28T00:39:53Z,,Verified delivery for this repository lineage.,https://github.com/Apicurio/apicurio-registry
 repo,strands-agents/box,,reserved,01a21f1b-8599-70c1-9c5f-30c9f10140d2,2026-11-27T23:39:48Z,2026-11-28T23:39:48Z,Active creation reservation for eligible Strands Box CLI candidate.,https://github.com/strands-agents/box
 repo,ZaxbyHub/opencode-swarm,,reserved,01a21f1b-71bc-77d1-be16-6eced7f90e30,2026-11-28T01:43:31Z,2026-11-29T01:43:31Z,Active repo-209 creation reservation; browser admission verified MIT and available quota.,https://github.com/ZaxbyHub/opencode-swarm
+repo,jelmer/dulwich,,reserved,01a2219c-30c1-7a81-a4c7-c79ef55210bb,2026-11-28T10:07:39Z,2026-11-29T10:07:39Z,Active creation reservation for eligible Dulwich candidate.,https://github.com/jelmer/dulwich
