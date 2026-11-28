@@ -1718,5 +1718,5 @@ repo,streamlit/streamlit,,reserved,olympus-repo-181-20261127,2026-11-27T16:14:20
 repo,tanstack/router,,reserved,01a21ef2-dfba-7ab1-82c9-7ebda3bb8db6,2026-11-27T22:00:31Z,2026-11-28T22:00:31Z,Active creation reservation after warning-free owner inline repository admission.,https://github.com/TanStack/router
 repo,trailofbits/coop,,used,olympus-repo-185-20261128,2026-11-27T23:27:57.413832+00:00,,Locally verified four-file delivery; platform approval is not implied.,https://github.com/trailofbits/coop
 repo,azure/azqr,,used,olympus-repo-184-20261128,2026-11-27T23:05:36Z,,Verified local bundle delivered and exact upload readback confirmed; platform approval pending.,https://github.com/Azure/azqr
-repo,apicurio/apicurio-registry,,reserved,01a21f1b-7d31-7313-b56e-ff019f959a11,2026-11-27T22:44:55Z,2026-11-28T22:44:55Z,Active creation reservation after owner inline eligibility check.,https://github.com/Apicurio/apicurio-registry
+repo,apicurio/apicurio-registry,,used,01a21f1b-7d31-7313-b56e-ff019f959a11,2026-11-28T00:39:53Z,,Verified delivery for this repository lineage.,https://github.com/Apicurio/apicurio-registry
 repo,strands-agents/box,,reserved,01a21f1b-8599-70c1-9c5f-30c9f10140d2,2026-11-27T23:39:48Z,2026-11-28T23:39:48Z,Active creation reservation for eligible Strands Box CLI candidate.,https://github.com/strands-agents/box
